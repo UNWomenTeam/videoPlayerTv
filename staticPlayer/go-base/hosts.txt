@@ -1,0 +1,15 @@
+	127.0.0.1       static.1tv.ru
+	127.0.0.1       api.1tv.ru
+	127.0.0.1       tech.rtb.mts.ru
+	127.0.0.1       sla.tlprt.cloud
+	127.0.0.1       mc.yandex.ru
+	127.0.0.1       www.google-analytics.com
+	127.0.0.1       www.tns-counter.ru
+	127.0.0.1       tns-counter.ru
+	127.0.0.1       www.1tv.ru
+	192.168.88.40       stream.1tv.ru
+	192.168.88.39       edge2.1internet.tv
+	192.168.88.39       cdn.bitmovin.com
+	127.0.0.1       gateway.teleport.media
+	127.0.0.1       signal-obi.teleport.media
+	127.0.0.1       swarm-obi.teleport.media
