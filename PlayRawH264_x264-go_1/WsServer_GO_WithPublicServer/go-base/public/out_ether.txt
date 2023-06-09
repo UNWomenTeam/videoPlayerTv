@@ -1,0 +1,2390 @@
+base) xela@alexeyProduct-Name:~/Programs/Setup$ ethminer/bin/ethminer -G -P stratum1+tcp://0xC040b860248FC1192380c0955c2e9121D75e7497@eth.2miners.com:2020
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 17:11:27 ethminer Configured pool eth.2miners.com:2020
+ i 17:11:27 ethminer Selected pool eth.2miners.com:2020
+ i 17:11:28 ethminer Stratum mode : Eth-Proxy compatible
+ i 17:11:28 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 17:11:28 ethminer Spinning up miners...
+cl 17:11:28 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 17:11:28 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 17:11:28 ethminer Job: bea1422a… block 17254719 eth.2miners.com [51.195.88.15:2020]
+ i 17:11:30 ethminer Job: b6a79e1e… block 17254719 eth.2miners.com [51.195.88.15:2020]
+cl 17:11:30 cl-0     Generating DAG + Light : 5.58 GB
+cl 17:11:30 cl-0     OpenCL kernel
+cl 17:11:30 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 17:11:30 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 17:11:30 cl-0     Loading kernels
+cl 17:11:30 cl-0     Writing light cache buffer
+cl 17:11:30 cl-0     Creating buffer for header.
+cl 17:11:30 cl-0     Creating mining buffer
+ m 17:11:32 ethminer 0:00 A0 0.00 h - cl0 0.00
+ m 17:11:37 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 17:11:38 cl-0     5.49 GB of DAG data generated in 8�544 ms.
+ m 17:11:42 ethminer 0:00 A0 393.85 Kh - cl0 393.85
+ i 17:11:43 ethminer Job: c711f8bc… block 17254719 eth.2miners.com [51.195.88.15:2020]
+ m 17:11:47 ethminer 0:00 A0 50.13 Mh - cl0 50.13
+ i 17:11:50 ethminer Job: 4ad4a3b4… block 17254719 eth.2miners.com [51.195.88.15:2020]
+ m 17:11:52 ethminer 0:00 A0 50.65 Mh - cl0 50.65
+ i 17:11:57 ethminer Job: c9cc70fe… block 17254720 eth.2miners.com [51.195.88.15:2020]
+ m 17:11:57 ethminer 0:00 A0 50.80 Mh - cl0 50.80
+ i 17:12:02 ethminer Job: 136165b1… block 17254721 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:02 ethminer 0:00 A0 50.71 Mh - cl0 50.71
+ m 17:12:07 ethminer 0:00 A0 50.82 Mh - cl0 50.82
+ i 17:12:09 ethminer Job: c5b182e3… block 17254721 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:12 ethminer 0:00 A0 50.11 Mh - cl0 50.11
+ i 17:12:14 ethminer Job: b6d282a7… block 17254722 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:17 ethminer 0:00 A0 50.38 Mh - cl0 50.38
+ m 17:12:22 ethminer 0:00 A0 50.27 Mh - cl0 50.27
+ i 17:12:23 ethminer Job: b5058b6e… block 17254723 eth.2miners.com [51.195.88.15:2020]
+ i 17:12:23 ethminer Job: 3f7517fa… block 17254723 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:27 ethminer 0:01 A0 50.23 Mh - cl0 50.23
+ m 17:12:32 ethminer 0:01 A0 50.57 Mh - cl0 50.57
+ i 17:12:36 ethminer Job: 8934905f… block 17254724 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:37 ethminer 0:01 A0 50.80 Mh - cl0 50.80
+ m 17:12:42 ethminer 0:01 A0 50.74 Mh - cl0 50.74
+ i 17:12:43 ethminer Job: 0698bdf2… block 17254724 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:47 ethminer 0:01 A0 50.57 Mh - cl0 50.57
+ i 17:12:50 ethminer Job: c75ee95e… block 17254724 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:52 ethminer 0:01 A0 50.60 Mh - cl0 50.60
+ i 17:12:53 ethminer Job: fa4b95a2… block 17254725 eth.2miners.com [51.195.88.15:2020]
+ i 17:12:54 ethminer Job: c68ef10c… block 17254725 eth.2miners.com [51.195.88.15:2020]
+ m 17:12:57 ethminer 0:01 A0 50.43 Mh - cl0 50.43
+ i 17:13:00 ethminer Job: 66b88d3a… block 17254725 eth.2miners.com [51.195.88.15:2020]
+ i 17:13:02 ethminer Job: cc624e9c… block 17254726 eth.2miners.com [51.195.88.15:2020]
+ m 17:13:02 ethminer 0:01 A0 69.45 Mh - cl0 69.45
+ m 17:13:07 ethminer 0:01 A0 81.90 Mh - cl0 81.90
+ m 17:13:12 ethminer 0:01 A0 82.05 Mh - cl0 82.05
+ i 17:13:14 ethminer Job: 87fc9f4d… block 17254727 eth.2miners.com [51.195.88.15:2020]
+ i 17:13:14 ethminer Job: af17a6d7… block 17254727 eth.2miners.com [51.195.88.15:2020]
+ i 17:13:15 ethminer Job: d6a0cc8c… block 17254727 eth.2miners.com [51.195.88.15:2020]
+ i 17:13:15 ethminer Job: 62dcac50… block 17254728 eth.2miners.com [51.195.88.15:2020]
+ m 17:13:17 ethminer 0:01 A0 82.09 Mh - cl0 82.09
+ m 17:13:22 ethminer 0:01 A0 81.80 Mh - cl0 81.80
+ m 17:13:27 ethminer 0:02 A0 82.05 Mh - cl0 82.05
+ i 17:13:28 ethminer Job: 0af7135c… block 17254729 eth.2miners.com [51.195.88.15:2020]
+ m 17:13:32 ethminer 0:02 A0 80.68 Mh - cl0 80.68
+ m 17:13:37 ethminer 0:02 A0 80.65 Mh - cl0 80.65
+cl 17:13:41 cl-0     Job: 0af7135c… Sol: 0x9548ecfd1b4e9ab4
+ i 17:13:41 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:13:42 ethminer 0:02 A1 77.60 Mh - cl0 77.60
+ i 17:13:44 ethminer Job: 3bbd921a… block 17254730 eth.2miners.com [51.195.88.15:2020]
+ m 17:13:47 ethminer 0:02 A1 78.96 Mh - cl0 78.96
+ m 17:13:52 ethminer 0:02 A1 78.03 Mh - cl0 78.03
+ m 17:13:57 ethminer 0:02 A1 78.94 Mh - cl0 78.94
+ i 17:13:58 ethminer Job: 28ef40ea… block 17254730 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:02 ethminer 0:02 A1 81.94 Mh - cl0 81.94
+ i 17:14:05 ethminer Job: f1d215a1… block 17254730 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:07 ethminer 0:02 A1 79.99 Mh - cl0 79.99
+ i 17:14:12 ethminer Job: 440a8adb… block 17254730 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:12 ethminer 0:02 A1 80.91 Mh - cl0 80.91
+ m 17:14:17 ethminer 0:02 A1 81.83 Mh - cl0 81.83
+ i 17:14:19 ethminer Job: 1fb30233… block 17254730 eth.2miners.com [51.195.88.15:2020]
+ i 17:14:20 ethminer Job: 3a0487f9… block 17254731 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:22 ethminer 0:02 A1 78.94 Mh - cl0 78.94
+ i 17:14:27 ethminer Job: b963069a… block 17254731 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:27 ethminer 0:03 A1 76.90 Mh - cl0 76.90
+ m 17:14:32 ethminer 0:03 A1 80.02 Mh - cl0 80.02
+ i 17:14:33 ethminer Job: 3d277b64… block 17254732 eth.2miners.com [51.195.88.15:2020]
+ i 17:14:35 ethminer Job: e56c86b3… block 17254733 eth.2miners.com [51.195.88.15:2020]
+ i 17:14:35 ethminer Job: 75dbf6e7… block 17254733 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:37 ethminer 0:03 A1 80.00 Mh - cl0 80.00
+ i 17:14:42 ethminer Job: 3c1fb04e… block 17254733 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:42 ethminer 0:03 A1 80.59 Mh - cl0 80.59
+ m 17:14:47 ethminer 0:03 A1 81.39 Mh - cl0 81.39
+ i 17:14:49 ethminer Job: 4690ca99… block 17254733 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:52 ethminer 0:03 A1 79.97 Mh - cl0 79.97
+ i 17:14:55 ethminer Job: 169901fa… block 17254734 eth.2miners.com [51.195.88.15:2020]
+ m 17:14:57 ethminer 0:03 A1 79.30 Mh - cl0 79.30
+ m 17:15:02 ethminer 0:03 A1 77.83 Mh - cl0 77.83
+ m 17:15:07 ethminer 0:03 A1 78.43 Mh - cl0 78.43
+ i 17:15:09 ethminer Job: 39d67bf3… block 17254734 eth.2miners.com [51.195.88.15:2020]
+ i 17:15:12 ethminer Job: 76c86a8a… block 17254735 eth.2miners.com [51.195.88.15:2020]
+ m 17:15:12 ethminer 0:03 A1 78.40 Mh - cl0 78.40
+ m 17:15:17 ethminer 0:03 A1 80.19 Mh - cl0 80.19
+ m 17:15:22 ethminer 0:03 A1 80.34 Mh - cl0 80.34
+ i 17:15:26 ethminer Job: 4100d8e6… block 17254735 eth.2miners.com [51.195.88.15:2020]
+ m 17:15:27 ethminer 0:04 A1 79.99 Mh - cl0 79.99
+ i 17:15:30 ethminer Job: 1c5551b3… block 17254736 eth.2miners.com [51.195.88.15:2020]
+ m 17:15:32 ethminer 0:04 A1 80.23 Mh - cl0 80.23
+ i 17:15:36 ethminer Job: 9c53a879… block 17254737 eth.2miners.com [51.195.88.15:2020]
+ i 17:15:36 ethminer Job: 5f54ed66… block 17254737 eth.2miners.com [51.195.88.15:2020]
+ m 17:15:37 ethminer 0:04 A1 79.80 Mh - cl0 79.80
+ m 17:15:42 ethminer 0:04 A1 81.17 Mh - cl0 81.17
+ i 17:15:47 ethminer Job: 447e1e82… block 17254738 eth.2miners.com [51.195.88.15:2020]
+ i 17:15:48 ethminer Job: 6916fd36… block 17254738 eth.2miners.com [51.195.88.15:2020]
+ m 17:15:48 ethminer 0:04 A1 79.93 Mh - cl0 79.93
+ m 17:15:53 ethminer 0:04 A1 80.26 Mh - cl0 80.26
+ i 17:15:55 ethminer Job: 5fded44d… block 17254739 eth.2miners.com [51.195.88.15:2020]
+ m 17:15:58 ethminer 0:04 A1 79.22 Mh - cl0 79.22
+ i 17:16:02 ethminer Job: 8a81a0e8… block 17254739 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:04 ethminer 0:04 A1 81.86 Mh - cl0 81.86
+ i 17:16:08 ethminer Job: d127e077… block 17254740 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:09 ethminer 0:04 A1 81.30 Mh - cl0 81.30
+ m 17:16:14 ethminer 0:04 A1 82.12 Mh - cl0 82.12
+ i 17:16:15 ethminer Job: e63bb368… block 17254740 eth.2miners.com [51.195.88.15:2020]
+cl 17:16:15 cl-0     Job: e63bb368… Sol: 0x9548ecfcdcd652eb
+ i 17:16:16 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:16:19 ethminer 0:04 A2 82.09 Mh - cl0 82.09
+ i 17:16:22 ethminer Job: f3975ad1… block 17254740 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:24 ethminer 0:04 A2 81.97 Mh - cl0 81.97
+ i 17:16:25 ethminer Job: 69974e6c… block 17254741 eth.2miners.com [51.195.88.15:2020]
+cl 17:16:27 cl-0     Job: 69974e6c… Sol: 0x9548ecfce70e305d
+ i 17:16:27 ethminer Job: 04dc9975… block 17254741 eth.2miners.com [51.195.88.15:2020]
+ i 17:16:27 ethminer **Accepted 307 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:16:29 ethminer 0:05 A3 82.17 Mh - cl0 82.17
+ i 17:16:32 ethminer Job: 278a69fe… block 17254741 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:34 ethminer 0:05 A3 82.04 Mh - cl0 82.04
+ i 17:16:39 ethminer Job: c197bdb2… block 17254742 eth.2miners.com [51.195.88.15:2020]
+ i 17:16:43 ethminer Job: ca8969f1… block 17254742 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:43 ethminer 0:05 A3 81.73 Mh - cl0 81.73
+ i 17:16:46 ethminer Job: df6f3a8a… block 17254743 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:48 ethminer 0:05 A3 80.29 Mh - cl0 80.29
+ i 17:16:50 ethminer Job: 9a71e1e7… block 17254744 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:53 ethminer 0:05 A3 80.35 Mh - cl0 80.35
+ i 17:16:57 ethminer Job: af5a61b3… block 17254744 eth.2miners.com [51.195.88.15:2020]
+ m 17:16:59 ethminer 0:05 A3 79.82 Mh - cl0 79.82
+ i 17:17:02 ethminer Job: af378b7f… block 17254745 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:02 ethminer Job: 05f99445… block 17254745 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:04 ethminer 0:05 A3 80.50 Mh - cl0 80.50
+ i 17:17:06 ethminer Job: 14f67930… block 17254746 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:06 ethminer Job: 09909107… block 17254746 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:07 ethminer Job: f1697a75… block 17254747 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:08 ethminer Job: a9bd962c… block 17254747 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:09 ethminer 0:05 A3 80.92 Mh - cl0 80.92
+ i 17:17:11 ethminer Job: 6377bf59… block 17254748 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:12 ethminer Job: 58395285… block 17254748 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:14 ethminer 0:05 A3 80.93 Mh - cl0 80.93
+ i 17:17:18 ethminer Job: 30958e20… block 17254748 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:19 ethminer 0:05 A3 81.13 Mh - cl0 81.13
+ m 17:17:24 ethminer 0:05 A3 81.12 Mh - cl0 81.12
+ m 17:17:29 ethminer 0:06 A3 81.21 Mh - cl0 81.21
+ m 17:17:34 ethminer 0:06 A3 80.47 Mh - cl0 80.47
+ i 17:17:35 ethminer Job: b2dbbf39… block 17254749 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:35 ethminer Job: 6c0957b1… block 17254749 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:35 ethminer Job: c05f107d… block 17254750 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:35 ethminer Job: 72158050… block 17254750 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:39 ethminer 0:06 A3 78.59 Mh - cl0 78.59
+ i 17:17:42 ethminer Job: c3544a93… block 17254750 eth.2miners.com [51.195.88.15:2020]
+ i 17:17:45 ethminer Job: fa338ace… block 17254751 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:45 ethminer 0:06 A3 79.00 Mh - cl0 79.00
+ i 17:17:48 ethminer Job: a3b1d031… block 17254752 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:50 ethminer 0:06 A3 80.74 Mh - cl0 80.74
+ i 17:17:55 ethminer Job: 33ab0a69… block 17254752 eth.2miners.com [51.195.88.15:2020]
+ m 17:17:55 ethminer 0:06 A3 81.22 Mh - cl0 81.22
+ m 17:18:00 ethminer 0:06 A3 79.37 Mh - cl0 79.37
+ i 17:18:02 ethminer Job: ad75b4d0… block 17254752 eth.2miners.com [51.195.88.15:2020]
+ m 17:18:05 ethminer 0:06 A3 78.83 Mh - cl0 78.83
+ m 17:18:10 ethminer 0:06 A3 78.95 Mh - cl0 78.95
+ i 17:18:10 ethminer Job: 59bbc533… block 17254753 eth.2miners.com [51.195.88.15:2020]
+ i 17:18:12 ethminer Job: 6f42886f… block 17254753 eth.2miners.com [51.195.88.15:2020]
+ m 17:18:15 ethminer 0:06 A3 80.62 Mh - cl0 80.62
+ i 17:18:17 ethminer Job: a321e780… block 17254753 eth.2miners.com [51.195.88.15:2020]
+ m 17:18:21 ethminer 0:06 A3 80.76 Mh - cl0 80.76
+ i 17:18:22 ethminer Job: cfa1bd92… block 17254754 eth.2miners.com [51.195.88.15:2020]
+ i 17:18:22 ethminer Job: 0293a9d1… block 17254754 eth.2miners.com [51.195.88.15:2020]
+ i 17:18:25 ethminer Job: 36068cb8… block 17254755 eth.2miners.com [51.195.88.15:2020]
+ m 17:18:26 ethminer 0:06 A3 79.04 Mh - cl0 79.04
+ m 17:18:31 ethminer 0:07 A3 79.54 Mh - cl0 79.54
+ i 17:18:32 ethminer Job: ba81a8ac… block 17254755 eth.2miners.com [51.195.88.15:2020]
+ m 17:18:36 ethminer 0:07 A3 81.48 Mh - cl0 81.48
+ i 17:18:38 ethminer Job: 374091f8… block 17254756 eth.2miners.com [51.195.88.15:2020]
+cl 17:18:40 cl-0     Job: 374091f8… Sol: 0x9548ecfce7d0b224
+ i 17:18:40 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:18:41 ethminer 0:07 A4 78.00 Mh - cl0 78.00
+ i 17:18:44 ethminer Job: d162b724… block 17254757 eth.2miners.com [51.195.88.15:2020]
+ i 17:18:44 ethminer Job: b6cf067e… block 17254757 eth.2miners.com [51.195.88.15:2020]
+cl 17:18:45 cl-0     Job: b6cf067e… Sol: 0x9548ecfcdefb4d3c
+ i 17:18:45 ethminer **Accepted  45 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:18:46 ethminer 0:07 A5 75.81 Mh - cl0 75.81
+ i 17:18:46 ethminer Job: 033211c2… block 17254758 eth.2miners.com [51.195.88.15:2020]
+ i 17:18:46 ethminer Job: 0c44e111… block 17254758 eth.2miners.com [51.195.88.15:2020]
+ m 17:18:51 ethminer 0:07 A5 77.09 Mh - cl0 77.09
+ i 17:18:53 ethminer Job: c3be2634… block 17254758 eth.2miners.com [51.195.88.15:2020]
+ m 17:18:56 ethminer 0:07 A5 78.13 Mh - cl0 78.13
+ i 17:18:56 ethminer Job: 786ace85… block 17254759 eth.2miners.com [51.195.88.15:2020]
+ i 17:18:56 ethminer Job: 6b7af537… block 17254759 eth.2miners.com [51.195.88.15:2020]
+cl 17:18:56 cl-0     Job: 6b7af537… Sol: 0x9548ecfcdeda555e
+ i 17:18:57 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:19:01 ethminer 0:07 A6 75.55 Mh - cl0 75.55
+ m 17:19:06 ethminer 0:07 A6 72.62 Mh - cl0 72.62
+ i 17:19:10 ethminer Job: c17fb327… block 17254759 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:11 ethminer 0:07 A6 79.26 Mh - cl0 79.26
+ i 17:19:12 ethminer Job: 19bc3154… block 17254760 eth.2miners.com [51.195.88.15:2020]
+ i 17:19:12 ethminer Job: a65fc15a… block 17254760 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:16 ethminer 0:07 A6 75.96 Mh - cl0 75.96
+ i 17:19:19 ethminer Job: 3cf8168a… block 17254760 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:21 ethminer 0:07 A6 79.36 Mh - cl0 79.36
+ m 17:19:26 ethminer 0:07 A6 76.05 Mh - cl0 76.05
+ i 17:19:26 ethminer Job: 1a0db8d1… block 17254760 eth.2miners.com [51.195.88.15:2020]
+ i 17:19:29 ethminer Job: 323a0285… block 17254761 eth.2miners.com [51.195.88.15:2020]
+ i 17:19:30 ethminer Job: a11dcd2f… block 17254761 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:31 ethminer 0:08 A6 75.35 Mh - cl0 75.35
+ i 17:19:31 ethminer Job: c514eabe… block 17254762 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:36 ethminer 0:08 A6 71.36 Mh - cl0 71.36
+ i 17:19:38 ethminer Job: 31903b5b… block 17254762 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:41 ethminer 0:08 A6 71.71 Mh - cl0 71.71
+ i 17:19:43 ethminer Job: f10526c3… block 17254763 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:46 ethminer 0:08 A6 71.45 Mh - cl0 71.45
+ i 17:19:50 ethminer Job: 2b23cc0e… block 17254763 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:51 ethminer 0:08 A6 70.85 Mh - cl0 70.85
+ i 17:19:51 ethminer Job: c3d6a74e… block 17254764 eth.2miners.com [51.195.88.15:2020]
+ i 17:19:51 ethminer Job: 9063c76a… block 17254764 eth.2miners.com [51.195.88.15:2020]
+ m 17:19:56 ethminer 0:08 A6 70.88 Mh - cl0 70.88
+ i 17:19:58 ethminer Job: c22acafd… block 17254765 eth.2miners.com [51.195.88.15:2020]
+ i 17:19:58 ethminer Job: bcad6f81… block 17254765 eth.2miners.com [51.195.88.15:2020]
+ m 17:20:01 ethminer 0:08 A6 72.03 Mh - cl0 72.03
+ i 17:20:05 ethminer Job: 24c5bfb5… block 17254765 eth.2miners.com [51.195.88.15:2020]
+ m 17:20:06 ethminer 0:08 A6 77.98 Mh - cl0 77.98
+ m 17:20:11 ethminer 0:08 A6 78.62 Mh - cl0 78.62
+ m 17:20:16 ethminer 0:08 A6 76.75 Mh - cl0 76.75
+ i 17:20:19 ethminer Job: cf5d4aa7… block 17254765 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:21 ethminer Job: 6d899f39… block 17254766 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:22 ethminer Job: b0c63e5b… block 17254766 eth.2miners.com [51.195.88.15:2020]
+ m 17:20:22 ethminer 0:08 A6 73.57 Mh - cl0 73.57
+ m 17:20:27 ethminer 0:08 A6 76.60 Mh - cl0 76.60
+ i 17:20:28 ethminer Job: 12f60fef… block 17254766 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:31 ethminer Job: f9ff7d9a… block 17254767 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:32 ethminer Job: e117809f… block 17254767 eth.2miners.com [51.195.88.15:2020]
+ m 17:20:32 ethminer 0:09 A6 77.72 Mh - cl0 77.72
+ m 17:20:37 ethminer 0:09 A6 76.32 Mh - cl0 76.32
+ i 17:20:38 ethminer Job: 0b6d5d02… block 17254767 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:39 ethminer Job: 745143b2… block 17254768 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:40 ethminer Job: b339bd05… block 17254769 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:41 ethminer Job: 5b4b7e86… block 17254769 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:41 ethminer Job: 0979ae7d… block 17254770 eth.2miners.com [51.195.88.15:2020]
+ m 17:20:42 ethminer 0:09 A6 76.54 Mh - cl0 76.54
+ i 17:20:43 ethminer Job: 07f34d17… block 17254771 eth.2miners.com [51.195.88.15:2020]
+ m 17:20:47 ethminer 0:09 A6 77.12 Mh - cl0 77.12
+ m 17:20:52 ethminer 0:09 A6 74.53 Mh - cl0 74.53
+ i 17:20:57 ethminer Job: 658ba6cb… block 17254771 eth.2miners.com [51.195.88.15:2020]
+ i 17:20:59 ethminer Job: 078a51b1… block 17254772 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:00 ethminer 0:09 A6 76.05 Mh - cl0 76.05
+ i 17:21:00 ethminer Job: 0b8baa74… block 17254772 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:05 ethminer 0:09 A6 77.38 Mh - cl0 77.38
+ i 17:21:06 ethminer Job: c582b6c4… block 17254772 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:10 ethminer 0:09 A6 77.24 Mh - cl0 77.24
+ i 17:21:13 ethminer Job: 9f80af87… block 17254773 eth.2miners.com [51.195.88.15:2020]
+ i 17:21:13 ethminer Job: 42d1ff84… block 17254773 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:15 ethminer 0:09 A6 80.24 Mh - cl0 80.24
+ m 17:21:20 ethminer 0:09 A6 77.20 Mh - cl0 77.20
+ i 17:21:20 ethminer Job: 5de7c74d… block 17254773 eth.2miners.com [51.195.88.15:2020]
+ i 17:21:24 ethminer Job: 9767f9bb… block 17254774 eth.2miners.com [51.195.88.15:2020]
+ i 17:21:25 ethminer Job: a4d88050… block 17254774 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:25 ethminer 0:09 A6 77.80 Mh - cl0 77.80
+ i 17:21:25 ethminer Job: 566c7579… block 17254775 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:30 ethminer 0:10 A6 76.32 Mh - cl0 76.32
+ i 17:21:33 ethminer Job: eba773be… block 17254775 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:35 ethminer 0:10 A6 80.50 Mh - cl0 80.50
+ i 17:21:35 ethminer Job: 7790eb00… block 17254776 eth.2miners.com [51.195.88.15:2020]
+ i 17:21:35 ethminer Job: b91fa185… block 17254776 eth.2miners.com [51.195.88.15:2020]
+ i 17:21:36 ethminer Job: 1f72cc1f… block 17254776 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:40 ethminer 0:10 A6 80.53 Mh - cl0 80.53
+ i 17:21:42 ethminer Job: b19543d9… block 17254776 eth.2miners.com [51.195.88.15:2020]
+ m 17:21:45 ethminer 0:10 A6 78.86 Mh - cl0 78.86
+ m 17:21:50 ethminer 0:10 A6 78.38 Mh - cl0 78.38
+ m 17:21:55 ethminer 0:10 A6 75.10 Mh - cl0 75.10
+ i 17:21:57 ethminer Job: 6cf5a5a5… block 17254777 eth.2miners.com [51.195.88.15:2020]
+ i 17:21:59 ethminer Job: f00ac0e9… block 17254778 eth.2miners.com [51.195.88.15:2020]
+ i 17:22:00 ethminer Job: 6cbf51fe… block 17254778 eth.2miners.com [51.195.88.15:2020]
+ m 17:22:00 ethminer 0:10 A6 71.36 Mh - cl0 71.36
+ m 17:22:05 ethminer 0:10 A6 75.75 Mh - cl0 75.75
+ i 17:22:06 ethminer Job: 823885b7… block 17254778 eth.2miners.com [51.195.88.15:2020]
+ m 17:22:10 ethminer 0:10 A6 77.37 Mh - cl0 77.37
+ m 17:22:15 ethminer 0:10 A6 78.87 Mh - cl0 78.87
+ m 17:22:20 ethminer 0:10 A6 79.44 Mh - cl0 79.44
+ m 17:22:25 ethminer 0:10 A6 78.76 Mh - cl0 78.76
+ i 17:22:29 ethminer Job: df5875da… block 17254779 eth.2miners.com [51.195.88.15:2020]
+ i 17:22:32 ethminer Job: e76f8893… block 17254779 eth.2miners.com [51.195.88.15:2020]
+ m 17:22:32 ethminer 0:11 A6 79.12 Mh - cl0 79.12
+ i 17:22:35 ethminer Job: 57cf25e0… block 17254780 eth.2miners.com [51.195.88.15:2020]
+ m 17:22:37 ethminer 0:11 A6 77.17 Mh - cl0 77.17
+ i 17:22:42 ethminer Job: 446597d4… block 17254780 eth.2miners.com [51.195.88.15:2020]
+ m 17:22:42 ethminer 0:11 A6 75.02 Mh - cl0 75.02
+ m 17:22:47 ethminer 0:11 A6 71.35 Mh - cl0 71.35
+ m 17:22:52 ethminer 0:11 A6 75.88 Mh - cl0 75.88
+ i 17:22:56 ethminer Job: 2a167dd0… block 17254780 eth.2miners.com [51.195.88.15:2020]
+ m 17:22:57 ethminer 0:11 A6 74.77 Mh - cl0 74.77
+ m 17:23:02 ethminer 0:11 A6 76.53 Mh - cl0 76.53
+ m 17:23:07 ethminer 0:11 A6 78.21 Mh - cl0 78.21
+ i 17:23:10 ethminer Job: c4fa0434… block 17254780 eth.2miners.com [51.195.88.15:2020]
+ m 17:23:12 ethminer 0:11 A6 78.79 Mh - cl0 78.79
+ m 17:23:17 ethminer 0:11 A6 81.27 Mh - cl0 81.27
+ i 17:23:18 ethminer Job: 3973a7ea… block 17254781 eth.2miners.com [51.195.88.15:2020]
+ i 17:23:18 ethminer Job: 4ee512a4… block 17254781 eth.2miners.com [51.195.88.15:2020]
+ m 17:23:22 ethminer 0:11 A6 78.44 Mh - cl0 78.44
+ i 17:23:25 ethminer Job: 179bda36… block 17254781 eth.2miners.com [51.195.88.15:2020]
+ m 17:23:27 ethminer 0:11 A6 75.17 Mh - cl0 75.17
+ i 17:23:32 ethminer Job: d1ddb40e… block 17254782 eth.2miners.com [51.195.88.15:2020]
+ m 17:23:32 ethminer 0:12 A6 74.21 Mh - cl0 74.21
+ m 17:23:37 ethminer 0:12 A6 76.31 Mh - cl0 76.31
+ m 17:23:42 ethminer 0:12 A6 79.23 Mh - cl0 79.23
+ i 17:23:44 ethminer Job: 9524090c… block 17254783 eth.2miners.com [51.195.88.15:2020]
+ i 17:23:44 ethminer Job: 0da40fa5… block 17254783 eth.2miners.com [51.195.88.15:2020]
+ m 17:23:47 ethminer 0:12 A6 73.40 Mh - cl0 73.40
+ i 17:23:51 ethminer Job: 22926ee2… block 17254783 eth.2miners.com [51.195.88.15:2020]
+ m 17:23:52 ethminer 0:12 A6 75.99 Mh - cl0 75.99
+ m 17:23:57 ethminer 0:12 A6 74.31 Mh - cl0 74.31
+ i 17:23:58 ethminer Job: 25d0d692… block 17254783 eth.2miners.com [51.195.88.15:2020]
+ i 17:24:00 ethminer Job: 22576e93… block 17254784 eth.2miners.com [51.195.88.15:2020]
+ i 17:24:00 ethminer Job: ace193a8… block 17254784 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:02 ethminer 0:12 A6 76.70 Mh - cl0 76.70
+ i 17:24:04 ethminer Job: 625b9b35… block 17254785 eth.2miners.com [51.195.88.15:2020]
+ i 17:24:04 ethminer Job: ebf00302… block 17254785 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:07 ethminer 0:12 A6 73.62 Mh - cl0 73.62
+ i 17:24:08 ethminer Job: 162b990e… block 17254786 eth.2miners.com [51.195.88.15:2020]
+ i 17:24:08 ethminer Job: f6e80578… block 17254786 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:12 ethminer 0:12 A6 76.28 Mh - cl0 76.28
+ i 17:24:15 ethminer Job: 68a06a4b… block 17254786 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:17 ethminer 0:12 A6 75.35 Mh - cl0 75.35
+ i 17:24:22 ethminer Job: b1922d95… block 17254786 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:22 ethminer 0:12 A6 78.07 Mh - cl0 78.07
+ i 17:24:26 ethminer Job: ffecc720… block 17254787 eth.2miners.com [51.195.88.15:2020]
+ i 17:24:26 ethminer Job: 420a6417… block 17254787 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:27 ethminer 0:12 A6 80.83 Mh - cl0 80.83
+ m 17:24:32 ethminer 0:13 A6 77.28 Mh - cl0 77.28
+ i 17:24:33 ethminer Job: 65448e79… block 17254787 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:37 ethminer 0:13 A6 77.59 Mh - cl0 77.59
+ m 17:24:42 ethminer 0:13 A6 79.08 Mh - cl0 79.08
+ i 17:24:47 ethminer Job: 23d1e712… block 17254787 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:47 ethminer 0:13 A6 79.41 Mh - cl0 79.41
+ m 17:24:52 ethminer 0:13 A6 76.03 Mh - cl0 76.03
+ i 17:24:54 ethminer Job: d795c1c6… block 17254788 eth.2miners.com [51.195.88.15:2020]
+ i 17:24:55 ethminer Job: b1b287ba… block 17254788 eth.2miners.com [51.195.88.15:2020]
+ m 17:24:57 ethminer 0:13 A6 77.33 Mh - cl0 77.33
+ i 17:24:59 ethminer Job: acc732f6… block 17254789 eth.2miners.com [51.195.88.15:2020]
+ m 17:25:02 ethminer 0:13 A6 77.37 Mh - cl0 77.37
+ m 17:25:07 ethminer 0:13 A6 78.20 Mh - cl0 78.20
+ m 17:25:12 ethminer 0:13 A6 78.58 Mh - cl0 78.58
+ i 17:25:14 ethminer Job: ecbd6d6a… block 17254789 eth.2miners.com [51.195.88.15:2020]
+ i 17:25:14 ethminer Job: 41150025… block 17254790 eth.2miners.com [51.195.88.15:2020]
+ i 17:25:14 ethminer Job: 144451ad… block 17254790 eth.2miners.com [51.195.88.15:2020]
+ m 17:25:17 ethminer 0:13 A6 80.09 Mh - cl0 80.09
+ i 17:25:21 ethminer Job: 4e3b6de4… block 17254790 eth.2miners.com [51.195.88.15:2020]
+ m 17:25:22 ethminer 0:13 A6 80.95 Mh - cl0 80.95
+ m 17:25:27 ethminer 0:13 A6 78.80 Mh - cl0 78.80
+ m 17:25:32 ethminer 0:14 A6 80.05 Mh - cl0 80.05
+ i 17:25:34 ethminer Job: 4e3b90ad… block 17254791 eth.2miners.com [51.195.88.15:2020]
+ i 17:25:37 ethminer Job: 88eae8c3… block 17254792 eth.2miners.com [51.195.88.15:2020]
+ i 17:25:39 ethminer Job: dccb74cc… block 17254792 eth.2miners.com [51.195.88.15:2020]
+ m 17:25:39 ethminer 0:14 A6 79.58 Mh - cl0 79.58
+ m 17:25:44 ethminer 0:14 A6 79.51 Mh - cl0 79.51
+ i 17:25:44 ethminer Job: 3d8bd284… block 17254792 eth.2miners.com [51.195.88.15:2020]
+ m 17:25:49 ethminer 0:14 A6 79.95 Mh - cl0 79.95
+^C i 17:25:50 main     Got interrupt ...
+ i 17:25:50 main     Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 17:25:50 main     Shutting down miners...
+ i 17:25:50 main     Terminated!
+
+
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ ethminer/bin/ethminer -G -P stratum1+tcp://0x534e82f0acaa0a4bf7ba5e2fd376d0d6956ad92e@eth.2miners.com:2020
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 17:25:52 ethminer Configured pool eth.2miners.com:2020
+ i 17:25:52 ethminer Selected pool eth.2miners.com:2020
+ i 17:25:52 ethminer Stratum mode : Eth-Proxy compatible
+ i 17:25:52 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 17:25:52 ethminer Spinning up miners...
+cl 17:25:52 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 17:25:52 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 17:25:52 ethminer Job: 0dd18543… block 17254792 eth.2miners.com [51.195.88.15:2020]
+cl 17:25:54 cl-0     Generating DAG + Light : 5.58 GB
+cl 17:25:54 cl-0     OpenCL kernel
+cl 17:25:55 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 17:25:55 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 17:25:55 cl-0     Loading kernels
+cl 17:25:55 cl-0     Writing light cache buffer
+cl 17:25:55 cl-0     Creating buffer for header.
+cl 17:25:55 cl-0     Creating mining buffer
+ m 17:25:57 ethminer 0:00 A0 0.00 h - cl0 0.00
+ m 17:26:02 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 17:26:02 cl-0     5.49 GB of DAG data generated in 7�902 ms.
+ m 17:26:07 ethminer 0:00 A0 422.14 Kh - cl0 422.14
+ m 17:26:12 ethminer 0:00 A0 77.07 Mh - cl0 77.07
+cl 17:26:15 cl-0     Job: 0dd18543… Sol: 0x018a075ff58c0199
+ i 17:26:15 ethminer **Accepted  42 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:26:17 ethminer 0:00 A1 78.09 Mh - cl0 78.09
+ i 17:26:19 ethminer Job: c9f5cfa7… block 17254792 eth.2miners.com [51.195.88.15:2020]
+ i 17:26:22 ethminer Job: c364bdc7… block 17254793 eth.2miners.com [51.195.88.15:2020]
+ i 17:26:22 ethminer Job: f91a6736… block 17254793 eth.2miners.com [51.195.88.15:2020]
+ m 17:26:22 ethminer 0:00 A1 77.74 Mh - cl0 77.74
+ m 17:26:27 ethminer 0:00 A1 79.65 Mh - cl0 79.65
+ i 17:26:28 ethminer Job: db2166ee… block 17254794 eth.2miners.com [51.195.88.15:2020]
+ i 17:26:28 ethminer Job: 9dbcb1de… block 17254794 eth.2miners.com [51.195.88.15:2020]
+ m 17:26:32 ethminer 0:00 A1 79.40 Mh - cl0 79.40
+ i 17:26:33 ethminer Job: f5f3b95b… block 17254795 eth.2miners.com [51.195.88.15:2020]
+ m 17:26:37 ethminer 0:00 A1 80.07 Mh - cl0 80.07
+ i 17:26:41 ethminer Job: c1129969… block 17254796 eth.2miners.com [51.195.88.15:2020]
+ i 17:26:42 ethminer Job: 4712a49c… block 17254797 eth.2miners.com [51.195.88.15:2020]
+ m 17:26:42 ethminer 0:00 A1 79.26 Mh - cl0 79.26
+ i 17:26:44 ethminer Job: 079ce593… block 17254798 eth.2miners.com [51.195.88.15:2020]
+ m 17:26:47 ethminer 0:00 A1 79.02 Mh - cl0 79.02
+ i 17:26:48 ethminer Job: bc3765d4… block 17254799 eth.2miners.com [51.195.88.15:2020]
+ i 17:26:48 ethminer Job: 970cd089… block 17254799 eth.2miners.com [51.195.88.15:2020]
+ m 17:26:52 ethminer 0:01 A1 80.29 Mh - cl0 80.29
+ i 17:26:55 ethminer Job: db981079… block 17254799 eth.2miners.com [51.195.88.15:2020]
+ m 17:26:57 ethminer 0:01 A1 80.09 Mh - cl0 80.09
+ i 17:26:59 ethminer Job: 506af6ae… block 17254800 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:02 ethminer 0:01 A1 78.01 Mh - cl0 78.01
+ i 17:27:07 ethminer Job: 48ca8a00… block 17254801 eth.2miners.com [51.195.88.15:2020]
+ i 17:27:07 ethminer Job: 7ca7069b… block 17254801 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:07 ethminer 0:01 A1 78.98 Mh - cl0 78.98
+ m 17:27:12 ethminer 0:01 A1 78.69 Mh - cl0 78.69
+ i 17:27:14 ethminer Job: c4196dca… block 17254801 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:17 ethminer 0:01 A1 77.25 Mh - cl0 77.25
+ i 17:27:20 ethminer Job: 088b1623… block 17254802 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:22 ethminer 0:01 A1 75.08 Mh - cl0 75.08
+ i 17:27:27 ethminer Job: 357edf24… block 17254802 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:27 ethminer 0:01 A1 74.30 Mh - cl0 74.30
+ i 17:27:30 ethminer Job: a2c43477… block 17254803 eth.2miners.com [51.195.88.15:2020]
+ i 17:27:30 ethminer Job: f8ff4536… block 17254803 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:32 ethminer 0:01 A1 73.14 Mh - cl0 73.14
+ m 17:27:37 ethminer 0:01 A1 74.29 Mh - cl0 74.29
+ m 17:27:42 ethminer 0:01 A1 73.94 Mh - cl0 73.94
+ i 17:27:44 ethminer Job: c499fa02… block 17254803 eth.2miners.com [51.195.88.15:2020]
+ i 17:27:47 ethminer Job: 050dcb84… block 17254804 eth.2miners.com [51.195.88.15:2020]
+ i 17:27:47 ethminer Job: eda30e48… block 17254804 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:47 ethminer 0:01 A1 72.67 Mh - cl0 72.67
+ m 17:27:52 ethminer 0:02 A1 73.47 Mh - cl0 73.47
+ i 17:27:54 ethminer Job: a6d8cba8… block 17254804 eth.2miners.com [51.195.88.15:2020]
+ m 17:27:57 ethminer 0:02 A1 74.43 Mh - cl0 74.43
+ i 17:28:01 ethminer Job: cdf5c587… block 17254805 eth.2miners.com [51.195.88.15:2020]
+ i 17:28:01 ethminer Job: 6679fc82… block 17254805 eth.2miners.com [51.195.88.15:2020]
+ m 17:28:02 ethminer 0:02 A1 74.12 Mh - cl0 74.12
+ m 17:28:07 ethminer 0:02 A1 79.11 Mh - cl0 79.11
+cl 17:28:07 cl-0     Job: 6679fc82… Sol: 0x018a075fd86e92db
+ i 17:28:07 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:28:12 ethminer 0:02 A2 79.53 Mh - cl0 79.53
+ m 17:28:17 ethminer 0:02 A2 79.58 Mh - cl0 79.58
+ i 17:28:22 ethminer Job: 6dcc7c0c… block 17254805 eth.2miners.com [51.195.88.15:2020]
+ m 17:28:27 ethminer 0:02 A2 77.67 Mh - cl0 77.67
+ i 17:28:29 ethminer Job: 805b03b5… block 17254805 eth.2miners.com [51.195.88.15:2020]
+ m 17:28:35 ethminer 0:02 A2 79.23 Mh - cl0 79.23
+ i 17:28:36 ethminer Job: 97b22c3b… block 17254805 eth.2miners.com [51.195.88.15:2020]
+ m 17:28:43 ethminer 0:02 A2 79.15 Mh - cl0 79.15
+ i 17:28:46 ethminer Job: cf4603f7… block 17254806 eth.2miners.com [51.195.88.15:2020]
+ i 17:28:51 ethminer Job: 6cea0a01… block 17254807 eth.2miners.com [51.195.88.15:2020]
+ m 17:28:51 ethminer 0:02 A2 80.92 Mh - cl0 80.92
+ i 17:28:54 ethminer Job: 841a7c82… block 17254808 eth.2miners.com [51.195.88.15:2020]
+ i 17:29:19 ethminer Job: f6daa8ec… block 17254808 eth.2miners.com [51.195.88.15:2020]
+ m 17:29:19 ethminer 0:03 A2 80.02 Mh - cl0 80.02
+ i 17:29:19 ethminer Job: f78a9712… block 17254808 eth.2miners.com [51.195.88.15:2020]
+ i 17:29:19 ethminer Job: ff2f49b7… block 17254809 eth.2miners.com [51.195.88.15:2020]
+ i 17:29:19 ethminer Job: 5abb642e… block 17254810 eth.2miners.com [51.195.88.15:2020]
+ m 17:29:24 ethminer 0:03 A2 80.62 Mh - cl0 80.62
+ m 17:29:29 ethminer 0:03 A2 78.15 Mh - cl0 78.15
+ i 17:29:31 ethminer Job: eab19a9d… block 17254810 eth.2miners.com [51.195.88.15:2020]
+ m 17:29:34 ethminer 0:03 A2 81.22 Mh - cl0 81.22
+ i 17:29:38 ethminer Job: 0399119c… block 17254810 eth.2miners.com [51.195.88.15:2020]
+ m 17:29:39 ethminer 0:03 A2 81.33 Mh - cl0 81.33
+ m 17:29:44 ethminer 0:03 A2 80.37 Mh - cl0 80.37
+ i 17:29:45 ethminer Job: cf90ef94… block 17254810 eth.2miners.com [51.195.88.15:2020]
+ i 17:29:49 ethminer Job: a024198c… block 17254811 eth.2miners.com [51.195.88.15:2020]
+ i 17:29:49 ethminer Job: 441e82d5… block 17254811 eth.2miners.com [51.195.88.15:2020]
+ m 17:29:49 ethminer 0:03 A2 80.23 Mh - cl0 80.23
+ i 17:29:52 ethminer Job: 9243b50e… block 17254812 eth.2miners.com [51.195.88.15:2020]
+ i 17:29:53 ethminer Job: 4d810ad5… block 17254812 eth.2miners.com [51.195.88.15:2020]
+ m 17:29:54 ethminer 0:04 A2 80.13 Mh - cl0 80.13
+ i 17:29:59 ethminer Job: 815a4aa9… block 17254812 eth.2miners.com [51.195.88.15:2020]
+cl 17:30:14 cl-0     Job: 815a4aa9… Sol: 0x018a075ffe69c924
+ i 17:30:15 ethminer Job: 1a94803e… block 17254813 eth.2miners.com [51.195.88.15:2020]
+ m 17:30:17 ethminer 0:04 A2 80.08 Mh - cl0 80.08
+ i 17:30:17 ethminer **Accepted1661 ms. eth.2miners.com [51.195.88.15:2020]
+ i 17:30:17 ethminer Job: ce89f3eb… block 17254813 eth.2miners.com [51.195.88.15:2020]
+ m 17:30:22 ethminer 0:04 A3 79.31 Mh - cl0 79.31
+ i 17:30:24 ethminer Job: 2fb60ad5… block 17254813 eth.2miners.com [51.195.88.15:2020]
+ m 17:30:27 ethminer 0:04 A3 81.21 Mh - cl0 81.21
+ m 17:30:32 ethminer 0:04 A3 81.41 Mh - cl0 81.41
+ m 17:30:37 ethminer 0:04 A3 78.07 Mh - cl0 78.07
+ m 17:30:42 ethminer 0:04 A3 79.27 Mh - cl0 79.27
+ m 17:30:47 ethminer 0:04 A3 80.69 Mh - cl0 80.69
+ m 17:30:52 ethminer 0:04 A3 79.65 Mh - cl0 79.65
+ m 17:30:57 ethminer 0:05 A3 80.94 Mh - cl0 80.94
+ i 17:30:58 ethminer Job: ebc34798… block 17254813 eth.2miners.com [51.195.88.15:2020]
+ m 17:31:02 ethminer 0:05 A3 80.68 Mh - cl0 80.68
+ m 17:31:07 ethminer 0:05 A3 81.39 Mh - cl0 81.39
+ m 17:31:12 ethminer 0:05 A3 80.20 Mh - cl0 80.20
+ i 17:31:13 ethminer Job: 009044b3… block 17254813 eth.2miners.com [51.195.88.15:2020]
+ i 17:31:20 ethminer Job: 70bcab91… block 17254814 eth.2miners.com [51.195.88.15:2020]
+ m 17:31:21 ethminer 0:05 A3 79.77 Mh - cl0 79.77
+ i 17:31:21 ethminer Job: 64c249c8… block 17254814 eth.2miners.com [51.195.88.15:2020]
+ i 17:31:21 ethminer Job: 52b652d0… block 17254816 eth.2miners.com [51.195.88.15:2020]
+ i 17:31:31 ethminer Job: b5464ced… block 17254816 eth.2miners.com [51.195.88.15:2020]
+ m 17:31:31 ethminer 0:05 A3 79.43 Mh - cl0 79.43
+ i 17:31:31 ethminer Job: 7d031e54… block 17254817 eth.2miners.com [51.195.88.15:2020]
+ i 17:31:34 ethminer Job: ffdef3cb… block 17254818 eth.2miners.com [51.195.88.15:2020]
+ i 17:31:35 ethminer Job: 77fa74aa… block 17254819 eth.2miners.com [51.195.88.15:2020]
+ i 17:31:37 ethminer Job: 86a321fc… block 17254819 eth.2miners.com [51.195.88.15:2020]
+ m 17:31:38 ethminer 0:05 A3 81.27 Mh - cl0 81.27
+ i 17:31:38 ethminer Job: 99d0dbcf… block 17254819 eth.2miners.com [51.195.88.15:2020]
+ m 17:31:43 ethminer 0:05 A3 81.31 Mh - cl0 81.31
+ m 17:31:48 ethminer 0:05 A3 81.45 Mh - cl0 81.45
+ i 17:31:49 ethminer Job: a4497a63… block 17254819 eth.2miners.com [51.195.88.15:2020]
+ m 17:31:53 ethminer 0:06 A3 81.35 Mh - cl0 81.35
+ i 17:31:56 ethminer Job: 04f164cb… block 17254819 eth.2miners.com [51.195.88.15:2020]
+ m 17:31:58 ethminer 0:06 A3 81.36 Mh - cl0 81.36
+ m 17:32:03 ethminer 0:06 A3 81.43 Mh - cl0 81.43
+ i 17:32:03 ethminer Job: 6766878e… block 17254819 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:08 ethminer 0:06 A3 80.77 Mh - cl0 80.77
+ i 17:32:10 ethminer Job: 9ab699ad… block 17254819 eth.2miners.com [51.195.88.15:2020]
+ i 17:32:12 ethminer Job: dc3c648f… block 17254820 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:13 ethminer 0:06 A3 75.80 Mh - cl0 75.80
+ i 17:32:15 ethminer Job: bd13f2e8… block 17254821 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:18 ethminer 0:06 A3 78.79 Mh - cl0 78.79
+ i 17:32:22 ethminer Job: 7b364c6e… block 17254821 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:23 ethminer 0:06 A3 78.27 Mh - cl0 78.27
+ m 17:32:28 ethminer 0:06 A3 81.44 Mh - cl0 81.44
+ i 17:32:29 ethminer Job: 4ce47270… block 17254821 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:33 ethminer 0:06 A3 81.42 Mh - cl0 81.42
+ i 17:32:36 ethminer Job: b3364d57… block 17254821 eth.2miners.com [51.195.88.15:2020]
+ i 17:32:39 ethminer Job: 3068ae58… block 17254822 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:39 ethminer 0:06 A3 81.53 Mh - cl0 81.53
+ m 17:32:44 ethminer 0:06 A3 80.93 Mh - cl0 80.93
+ i 17:32:44 ethminer Job: bfd897a8… block 17254822 eth.2miners.com [51.195.88.15:2020]
+ i 17:32:49 ethminer Job: 71cd0a62… block 17254823 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:49 ethminer 0:06 A3 80.90 Mh - cl0 80.90
+ i 17:32:49 ethminer Job: 786df021… block 17254823 eth.2miners.com [51.195.88.15:2020]
+cl 17:32:51 cl-0     Job: 786df021… Sol: 0x018a075fc1059011
+ i 17:32:51 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:32:54 ethminer 0:07 A4 79.05 Mh - cl0 79.05
+ i 17:32:56 ethminer Job: 5092f91b… block 17254823 eth.2miners.com [51.195.88.15:2020]
+ i 17:32:58 ethminer Job: ef9edf06… block 17254824 eth.2miners.com [51.195.88.15:2020]
+ i 17:32:59 ethminer Job: c779412c… block 17254824 eth.2miners.com [51.195.88.15:2020]
+ m 17:32:59 ethminer 0:07 A4 80.38 Mh - cl0 80.38
+ m 17:33:04 ethminer 0:07 A4 81.33 Mh - cl0 81.33
+ i 17:33:04 ethminer Job: c8092302… block 17254825 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:06 ethminer Job: d388dd6b… block 17254825 eth.2miners.com [51.195.88.15:2020]
+ m 17:33:09 ethminer 0:07 A4 79.35 Mh - cl0 79.35
+ i 17:33:12 ethminer Job: ab76a5fd… block 17254825 eth.2miners.com [51.195.88.15:2020]
+ m 17:33:14 ethminer 0:07 A4 80.34 Mh - cl0 80.34
+ i 17:33:14 ethminer Job: 21648e2a… block 17254826 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:16 ethminer Job: c7bef0b6… block 17254826 eth.2miners.com [51.195.88.15:2020]
+ m 17:33:19 ethminer 0:07 A4 79.81 Mh - cl0 79.81
+ i 17:33:20 ethminer Job: bd5e18c3… block 17254827 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:20 ethminer Job: eef3577b… block 17254827 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:22 ethminer Job: ee164828… block 17254828 eth.2miners.com [51.195.88.15:2020]
+ m 17:33:24 ethminer 0:07 A4 79.86 Mh - cl0 79.86
+ m 17:33:29 ethminer 0:07 A4 79.27 Mh - cl0 79.27
+ i 17:33:29 ethminer Job: 0f781dd7… block 17254828 eth.2miners.com [51.195.88.15:2020]
+cl 17:33:33 cl-0     Job: 0f781dd7… Sol: 0x018a075fc9d34e79
+ i 17:33:33 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:33:34 ethminer 0:07 A5 77.14 Mh - cl0 77.14
+ m 17:33:39 ethminer 0:07 A5 77.28 Mh - cl0 77.28
+ i 17:33:39 ethminer Job: 278d9d51… block 17254829 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:40 ethminer Job: fe9fc85a… block 17254829 eth.2miners.com [51.195.88.15:2020]
+ m 17:33:44 ethminer 0:07 A5 77.60 Mh - cl0 77.60
+ i 17:33:46 ethminer Job: 0e7f26a2… block 17254829 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:49 ethminer Job: 81ce8e35… block 17254830 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:49 ethminer Job: f802064b… block 17254830 eth.2miners.com [51.195.88.15:2020]
+ m 17:33:49 ethminer 0:07 A5 73.60 Mh - cl0 73.60
+ m 17:33:54 ethminer 0:08 A5 73.80 Mh - cl0 73.80
+ i 17:33:56 ethminer Job: bde4b306… block 17254830 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:57 ethminer Job: 67a12595… block 17254831 eth.2miners.com [51.195.88.15:2020]
+ i 17:33:59 ethminer Job: 4678abeb… block 17254831 eth.2miners.com [51.195.88.15:2020]
+ m 17:33:59 ethminer 0:08 A5 74.44 Mh - cl0 74.44
+ m 17:34:04 ethminer 0:08 A5 74.83 Mh - cl0 74.83
+ i 17:34:04 ethminer Job: fbef139c… block 17254831 eth.2miners.com [51.195.88.15:2020]
+ m 17:34:09 ethminer 0:08 A5 75.49 Mh - cl0 75.49
+ i 17:34:12 ethminer Job: e29dcfc4… block 17254831 eth.2miners.com [51.195.88.15:2020]
+ m 17:34:14 ethminer 0:08 A5 76.85 Mh - cl0 76.85
+ i 17:34:18 ethminer Job: cd99a0d9… block 17254831 eth.2miners.com [51.195.88.15:2020]
+ m 17:34:19 ethminer 0:08 A5 74.93 Mh - cl0 74.93
+ i 17:34:24 ethminer Job: eb5c21af… block 17254832 eth.2miners.com [51.195.88.15:2020]
+ i 17:34:24 ethminer Job: 00e10d8c… block 17254832 eth.2miners.com [51.195.88.15:2020]
+ m 17:34:24 ethminer 0:08 A5 75.55 Mh - cl0 75.55
+ m 17:34:29 ethminer 0:08 A5 75.55 Mh - cl0 75.55
+ m 17:34:34 ethminer 0:08 A5 75.69 Mh - cl0 75.69
+ m 17:34:39 ethminer 0:08 A5 76.35 Mh - cl0 76.35
+ m 17:34:44 ethminer 0:08 A5 75.50 Mh - cl0 75.50
+ m 17:34:49 ethminer 0:08 A5 75.73 Mh - cl0 75.73
+cl 17:34:53 cl-0     Job: 00e10d8c… Sol: 0x018a07603e7c2ada
+ i 17:34:53 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:34:54 ethminer 0:09 A6 75.80 Mh - cl0 75.80
+ m 17:34:59 ethminer 0:09 A6 75.62 Mh - cl0 75.62
+ m 17:35:04 ethminer 0:09 A6 75.71 Mh - cl0 75.71
+ m 17:35:09 ethminer 0:09 A6 76.61 Mh - cl0 76.61
+ i 17:35:13 ethminer Job: 9553a3fa… block 17254832 eth.2miners.com [51.195.88.15:2020]
+ m 17:35:14 ethminer 0:09 A6 76.37 Mh - cl0 76.37
+ i 17:35:15 ethminer Job: be549445… block 17254833 eth.2miners.com [51.195.88.15:2020]
+ m 17:35:19 ethminer 0:09 A6 75.62 Mh - cl0 75.62
+ i 17:35:23 ethminer Job: 07f53683… block 17254833 eth.2miners.com [51.195.88.15:2020]
+ i 17:35:24 ethminer Job: a116cf15… block 17254834 eth.2miners.com [51.195.88.15:2020]
+ m 17:35:24 ethminer 0:09 A6 75.61 Mh - cl0 75.61
+ m 17:35:29 ethminer 0:09 A6 76.73 Mh - cl0 76.73
+ i 17:35:31 ethminer Job: 3b6466d5… block 17254834 eth.2miners.com [51.195.88.15:2020]
+ m 17:35:34 ethminer 0:09 A6 75.64 Mh - cl0 75.64
+ m 17:35:39 ethminer 0:09 A6 76.57 Mh - cl0 76.57
+ m 17:35:44 ethminer 0:09 A6 75.92 Mh - cl0 75.92
+ i 17:35:45 ethminer Job: b9ac0c2f… block 17254834 eth.2miners.com [51.195.88.15:2020]
+ i 17:35:46 ethminer Job: 2eec787a… block 17254835 eth.2miners.com [51.195.88.15:2020]
+ m 17:35:49 ethminer 0:09 A6 74.67 Mh - cl0 74.67
+ m 17:35:54 ethminer 0:10 A6 77.00 Mh - cl0 77.00
+ i 17:35:58 ethminer Job: 3e31e025… block 17254836 eth.2miners.com [51.195.88.15:2020]
+ i 17:35:59 ethminer Job: f0094ac4… block 17254836 eth.2miners.com [51.195.88.15:2020]
+ m 17:35:59 ethminer 0:10 A6 79.14 Mh - cl0 79.14
+ m 17:36:04 ethminer 0:10 A6 78.95 Mh - cl0 78.95
+ i 17:36:09 ethminer Job: 3ff825ea… block 17254837 eth.2miners.com [51.195.88.15:2020]
+ m 17:36:09 ethminer 0:10 A6 77.49 Mh - cl0 77.49
+ m 17:36:14 ethminer 0:10 A6 76.19 Mh - cl0 76.19
+ i 17:36:16 ethminer Job: 3a959034… block 17254837 eth.2miners.com [51.195.88.15:2020]
+ m 17:36:19 ethminer 0:10 A6 77.92 Mh - cl0 77.92
+ m 17:36:24 ethminer 0:10 A6 78.43 Mh - cl0 78.43
+ m 17:36:29 ethminer 0:10 A6 80.21 Mh - cl0 80.21
+ i 17:36:30 ethminer Job: 27a21941… block 17254837 eth.2miners.com [51.195.88.15:2020]
+ m 17:36:34 ethminer 0:10 A6 80.85 Mh - cl0 80.85
+ m 17:36:39 ethminer 0:10 A6 79.50 Mh - cl0 79.50
+ m 17:36:44 ethminer 0:10 A6 80.92 Mh - cl0 80.92
+ i 17:36:48 ethminer Job: 8e385144… block 17254838 eth.2miners.com [51.195.88.15:2020]
+ m 17:36:50 ethminer 0:10 A6 80.62 Mh - cl0 80.62
+cl 17:36:52 cl-0     Job: 8e385144… Sol: 0x018a075fca3f734f
+ i 17:36:52 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:36:55 ethminer 0:11 A7 79.43 Mh - cl0 79.43
+ i 17:36:58 ethminer Job: 4c6dd1bc… block 17254839 eth.2miners.com [51.195.88.15:2020]
+ i 17:36:59 ethminer Job: 0597e306… block 17254839 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:00 ethminer 0:11 A7 81.04 Mh - cl0 81.04
+ i 17:37:03 ethminer Job: 6aaa2d1e… block 17254840 eth.2miners.com [51.195.88.15:2020]
+ i 17:37:03 ethminer Job: 9aa430e7… block 17254840 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:05 ethminer 0:11 A7 80.94 Mh - cl0 80.94
+ m 17:37:10 ethminer 0:11 A7 79.11 Mh - cl0 79.11
+ i 17:37:13 ethminer Job: 0a103f1e… block 17254841 eth.2miners.com [51.195.88.15:2020]
+ i 17:37:14 ethminer Job: 6c2d4aa2… block 17254841 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:15 ethminer 0:11 A7 79.23 Mh - cl0 79.23
+ i 17:37:17 ethminer Job: 1cd1c127… block 17254842 eth.2miners.com [51.195.88.15:2020]
+ i 17:37:17 ethminer Job: c383c6d6… block 17254842 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:20 ethminer 0:11 A7 79.30 Mh - cl0 79.30
+ i 17:37:24 ethminer Job: 4777beec… block 17254842 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:26 ethminer 0:11 A7 80.64 Mh - cl0 80.64
+ m 17:37:31 ethminer 0:11 A7 80.55 Mh - cl0 80.55
+ i 17:37:31 ethminer Job: 72c3335e… block 17254842 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:36 ethminer 0:11 A7 77.87 Mh - cl0 77.87
+ i 17:37:38 ethminer Job: 3aa9e9d5… block 17254843 eth.2miners.com [51.195.88.15:2020]
+ i 17:37:38 ethminer Job: d7f54d53… block 17254843 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:41 ethminer 0:11 A7 76.01 Mh - cl0 76.01
+ i 17:37:45 ethminer Job: f49fe885… block 17254843 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:46 ethminer 0:11 A7 76.72 Mh - cl0 76.72
+ m 17:37:51 ethminer 0:11 A7 80.29 Mh - cl0 80.29
+ i 17:37:51 ethminer Job: c439f89e… block 17254843 eth.2miners.com [51.195.88.15:2020]
+ i 17:37:53 ethminer Job: bd70fade… block 17254844 eth.2miners.com [51.195.88.15:2020]
+ m 17:37:56 ethminer 0:12 A7 77.19 Mh - cl0 77.19
+ i 17:37:57 ethminer Job: 48713d6e… block 17254845 eth.2miners.com [51.195.88.15:2020]
+ i 17:37:58 ethminer Job: 2ba10dcc… block 17254845 eth.2miners.com [51.195.88.15:2020]
+ i 17:37:59 ethminer Job: e0206e9b… block 17254846 eth.2miners.com [51.195.88.15:2020]
+ i 17:38:00 ethminer Job: 5ccb7128… block 17254846 eth.2miners.com [51.195.88.15:2020]
+ m 17:38:01 ethminer 0:12 A7 76.69 Mh - cl0 76.69
+ m 17:38:06 ethminer 0:12 A7 76.86 Mh - cl0 76.86
+ i 17:38:06 ethminer Job: 970e64cf… block 17254846 eth.2miners.com [51.195.88.15:2020]
+ m 17:38:11 ethminer 0:12 A7 76.22 Mh - cl0 76.22
+ m 17:38:16 ethminer 0:12 A7 76.62 Mh - cl0 76.62
+ i 17:38:20 ethminer Job: 209c8c90… block 17254847 eth.2miners.com [51.195.88.15:2020]
+ i 17:38:21 ethminer Job: 2abf8cb8… block 17254847 eth.2miners.com [51.195.88.15:2020]
+ m 17:38:21 ethminer 0:12 A7 76.79 Mh - cl0 76.79
+ m 17:38:26 ethminer 0:12 A7 76.29 Mh - cl0 76.29
+ i 17:38:27 ethminer Job: f587cfd3… block 17254847 eth.2miners.com [51.195.88.15:2020]
+ i 17:38:28 ethminer Job: 23be867e… block 17254848 eth.2miners.com [51.195.88.15:2020]
+ i 17:38:28 ethminer Job: 9c68ca80… block 17254848 eth.2miners.com [51.195.88.15:2020]
+ m 17:38:31 ethminer 0:12 A7 77.96 Mh - cl0 77.96
+ i 17:38:35 ethminer Job: 61ab56b1… block 17254848 eth.2miners.com [51.195.88.15:2020]
+ m 17:38:36 ethminer 0:12 A7 77.72 Mh - cl0 77.72
+ m 17:38:41 ethminer 0:12 A7 80.16 Mh - cl0 80.16
+ i 17:38:42 ethminer Job: 30716696… block 17254848 eth.2miners.com [51.195.88.15:2020]
+ m 17:38:46 ethminer 0:12 A7 80.49 Mh - cl0 80.49
+ m 17:38:51 ethminer 0:12 A7 77.21 Mh - cl0 77.21
+ i 17:38:56 ethminer Job: 4c47b39e… block 17254848 eth.2miners.com [51.195.88.15:2020]
+ m 17:38:56 ethminer 0:13 A7 73.78 Mh - cl0 73.78
+ m 17:39:01 ethminer 0:13 A7 74.15 Mh - cl0 74.15
+ m 17:39:06 ethminer 0:13 A7 80.26 Mh - cl0 80.26
+ i 17:39:09 ethminer Job: 00349a3f… block 17254849 eth.2miners.com [51.195.88.15:2020]
+ i 17:39:09 ethminer Job: a06e7285… block 17254849 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:11 ethminer 0:13 A7 79.94 Mh - cl0 79.94
+ i 17:39:13 ethminer Job: 05739be1… block 17254850 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:16 ethminer 0:13 A7 81.45 Mh - cl0 81.45
+ i 17:39:20 ethminer Job: 21d6d7b3… block 17254851 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:21 ethminer 0:13 A7 81.43 Mh - cl0 81.43
+ i 17:39:23 ethminer Job: 7280777e… block 17254852 eth.2miners.com [51.195.88.15:2020]
+ i 17:39:24 ethminer Job: 9cb3bfdc… block 17254852 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:26 ethminer 0:13 A7 79.79 Mh - cl0 79.79
+ i 17:39:30 ethminer Job: cb9cc39e… block 17254852 eth.2miners.com [51.195.88.15:2020]
+ i 17:39:31 ethminer Job: 6fe95333… block 17254853 eth.2miners.com [51.195.88.15:2020]
+ i 17:39:33 ethminer Job: 2371d120… block 17254853 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:34 ethminer 0:13 A7 78.96 Mh - cl0 78.96
+ i 17:39:38 ethminer Job: 4ab8fd85… block 17254853 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:39 ethminer 0:13 A7 79.80 Mh - cl0 79.80
+ m 17:39:44 ethminer 0:13 A7 78.67 Mh - cl0 78.67
+ i 17:39:46 ethminer Job: 20f929a6… block 17254854 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:49 ethminer 0:13 A7 79.10 Mh - cl0 79.10
+ i 17:39:50 ethminer Job: 36a750ce… block 17254855 eth.2miners.com [51.195.88.15:2020]
+ i 17:39:51 ethminer Job: 2c2dcfb6… block 17254855 eth.2miners.com [51.195.88.15:2020]
+ m 17:39:54 ethminer 0:14 A7 78.65 Mh - cl0 78.65
+ i 17:39:58 ethminer Job: 212067a8… block 17254855 eth.2miners.com [51.195.88.15:2020]
+ m 17:40:00 ethminer 0:14 A7 79.49 Mh - cl0 79.49
+ i 17:40:03 ethminer Job: 2669064b… block 17254856 eth.2miners.com [51.195.88.15:2020]
+ i 17:40:13 ethminer Job: af4378f4… block 17254857 eth.2miners.com [51.195.88.15:2020]
+ m 17:40:16 ethminer 0:14 A7 77.17 Mh - cl0 77.17
+ i 17:40:16 ethminer Job: 1850f577… block 17254858 eth.2miners.com [51.195.88.15:2020]
+ m 17:40:21 ethminer 0:14 A7 79.98 Mh - cl0 79.98
+ i 17:40:26 ethminer Job: b595edf6… block 17254858 eth.2miners.com [51.195.88.15:2020]
+ m 17:40:28 ethminer 0:14 A7 78.44 Mh - cl0 78.44
+ m 17:40:33 ethminer 0:14 A7 81.01 Mh - cl0 81.01
+ m 17:40:38 ethminer 0:14 A7 78.35 Mh - cl0 78.35
+ i 17:40:40 ethminer Job: 82044bfd… block 17254858 eth.2miners.com [51.195.88.15:2020]
+ i 17:40:45 ethminer Job: d365fef7… block 17254859 eth.2miners.com [51.195.88.15:2020]
+ m 17:40:46 ethminer 0:14 A7 77.97 Mh - cl0 77.97
+ i 17:40:46 ethminer Job: 43003390… block 17254859 eth.2miners.com [51.195.88.15:2020]
+ m 17:40:51 ethminer 0:14 A7 78.54 Mh - cl0 78.54
+ m 17:40:56 ethminer 0:15 A7 78.58 Mh - cl0 78.58
+ i 17:40:57 ethminer Job: e6323ff4… block 17254859 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:00 ethminer Job: 6a88b658… block 17254860 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:02 ethminer Job: 903e06c1… block 17254861 eth.2miners.com [51.195.88.15:2020]
+ m 17:41:02 ethminer 0:15 A7 79.23 Mh - cl0 79.23
+ m 17:41:07 ethminer 0:15 A7 80.01 Mh - cl0 80.01
+ m 17:41:12 ethminer 0:15 A7 79.88 Mh - cl0 79.88
+ m 17:41:17 ethminer 0:15 A7 79.40 Mh - cl0 79.40
+ i 17:41:19 ethminer Job: 7e7e2f37… block 17254862 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:19 ethminer Job: 496bfe55… block 17254862 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:21 ethminer Job: 45c38d33… block 17254863 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:22 ethminer Job: 6facda87… block 17254863 eth.2miners.com [51.195.88.15:2020]
+ m 17:41:22 ethminer 0:15 A7 80.35 Mh - cl0 80.35
+ i 17:41:26 ethminer Job: 7662a44b… block 17254864 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:27 ethminer Job: 384fa880… block 17254864 eth.2miners.com [51.195.88.15:2020]
+ m 17:41:27 ethminer 0:15 A7 80.66 Mh - cl0 80.66
+ i 17:41:28 ethminer Job: e3d93641… block 17254865 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:28 ethminer Job: d0f82cb0… block 17254865 eth.2miners.com [51.195.88.15:2020]
+ m 17:41:32 ethminer 0:15 A7 80.99 Mh - cl0 80.99
+ i 17:41:35 ethminer Job: 69a0fd4e… block 17254865 eth.2miners.com [51.195.88.15:2020]
+ m 17:41:38 ethminer 0:15 A7 81.07 Mh - cl0 81.07
+ i 17:41:42 ethminer Job: 65c15345… block 17254866 eth.2miners.com [51.195.88.15:2020]
+ m 17:41:44 ethminer 0:15 A7 81.48 Mh - cl0 81.48
+ m 17:41:49 ethminer 0:15 A7 81.37 Mh - cl0 81.37
+ i 17:41:49 ethminer Job: 3c9f6b39… block 17254866 eth.2miners.com [51.195.88.15:2020]
+ i 17:41:51 ethminer Job: bacf3297… block 17254867 eth.2miners.com [51.195.88.15:2020]
+ m 17:41:54 ethminer 0:16 A7 81.11 Mh - cl0 81.11
+ m 17:41:59 ethminer 0:16 A7 80.43 Mh - cl0 80.43
+ m 17:42:04 ethminer 0:16 A7 81.43 Mh - cl0 81.43
+ m 17:42:09 ethminer 0:16 A7 80.35 Mh - cl0 80.35
+ i 17:42:13 ethminer Job: 706f6bd6… block 17254868 eth.2miners.com [51.195.88.15:2020]
+ i 17:42:15 ethminer Job: 597bd2a8… block 17254868 eth.2miners.com [51.195.88.15:2020]
+ m 17:42:15 ethminer 0:16 A7 80.75 Mh - cl0 80.75
+ m 17:42:20 ethminer 0:16 A7 80.78 Mh - cl0 80.78
+ i 17:42:21 ethminer Job: 2297da46… block 17254868 eth.2miners.com [51.195.88.15:2020]
+ m 17:42:25 ethminer 0:16 A7 79.98 Mh - cl0 79.98
+ i 17:42:28 ethminer Job: 305ca036… block 17254868 eth.2miners.com [51.195.88.15:2020]
+ m 17:42:30 ethminer 0:16 A7 81.09 Mh - cl0 81.09
+ m 17:42:35 ethminer 0:16 A7 81.07 Mh - cl0 81.07
+cl 17:42:35 cl-0     Job: 305ca036… Sol: 0x018a075fe026f6ec
+ i 17:42:35 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 17:42:36 ethminer Job: 87ede724… block 17254869 eth.2miners.com [51.195.88.15:2020]
+ i 17:42:36 ethminer Job: 46f26b61… block 17254869 eth.2miners.com [51.195.88.15:2020]
+ i 17:42:37 ethminer Job: baf796c2… block 17254870 eth.2miners.com [51.195.88.15:2020]
+ m 17:42:40 ethminer 0:16 A8 79.83 Mh - cl0 79.83
+ i 17:42:43 ethminer Job: 74b91527… block 17254871 eth.2miners.com [51.195.88.15:2020]
+ i 17:42:43 ethminer Job: c9a4c9b8… block 17254871 eth.2miners.com [51.195.88.15:2020]
+ m 17:42:45 ethminer 0:16 A8 80.68 Mh - cl0 80.68
+ m 17:42:50 ethminer 0:16 A8 81.12 Mh - cl0 81.12
+ i 17:42:50 ethminer Job: fcec4060… block 17254872 eth.2miners.com [51.195.88.15:2020]
+ i 17:42:51 ethminer Job: f5ade6ea… block 17254872 eth.2miners.com [51.195.88.15:2020]
+ i 17:42:53 ethminer Job: fd1635bb… block 17254873 eth.2miners.com [51.195.88.15:2020]
+ i 17:42:54 ethminer Job: 01b58d9e… block 17254873 eth.2miners.com [51.195.88.15:2020]
+ m 17:42:55 ethminer 0:17 A8 81.17 Mh - cl0 81.17
+ m 17:43:00 ethminer 0:17 A8 80.77 Mh - cl0 80.77
+ i 17:43:01 ethminer Job: 3549fe6f… block 17254873 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:05 ethminer 0:17 A8 81.05 Mh - cl0 81.05
+ i 17:43:07 ethminer Job: 36659cf2… block 17254873 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:10 ethminer 0:17 A8 81.40 Mh - cl0 81.40
+ i 17:43:14 ethminer Job: 8289522b… block 17254873 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:15 ethminer 0:17 A8 80.12 Mh - cl0 80.12
+ m 17:43:20 ethminer 0:17 A8 78.10 Mh - cl0 78.10
+ i 17:43:21 ethminer Job: 22aab388… block 17254874 eth.2miners.com [51.195.88.15:2020]
+ i 17:43:21 ethminer Job: ed42f8da… block 17254874 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:25 ethminer 0:17 A8 78.34 Mh - cl0 78.34
+ i 17:43:27 ethminer Job: 93bb5852… block 17254875 eth.2miners.com [51.195.88.15:2020]
+ i 17:43:30 ethminer Job: 90cd7ee6… block 17254875 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:30 ethminer 0:17 A8 79.65 Mh - cl0 79.65
+ i 17:43:30 ethminer Job: b787dfdc… block 17254876 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:35 ethminer 0:17 A8 80.63 Mh - cl0 80.63
+ m 17:43:40 ethminer 0:17 A8 81.16 Mh - cl0 81.16
+ i 17:43:43 ethminer Job: bc6b6b21… block 17254876 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:45 ethminer 0:17 A8 80.19 Mh - cl0 80.19
+ i 17:43:45 ethminer Job: 1d91e230… block 17254877 eth.2miners.com [51.195.88.15:2020]
+ i 17:43:46 ethminer Job: a09cef45… block 17254877 eth.2miners.com [51.195.88.15:2020]
+cl 17:43:49 cl-0     Job: a09cef45… Sol: 0x018a075fcbf30af4
+ i 17:43:49 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:43:50 ethminer 0:17 A9 80.11 Mh - cl0 80.11
+ i 17:43:52 ethminer Job: b2285fd5… block 17254877 eth.2miners.com [51.195.88.15:2020]
+ m 17:43:55 ethminer 0:18 A9 80.06 Mh - cl0 80.06
+ i 17:43:57 ethminer Job: d2891a33… block 17254878 eth.2miners.com [51.195.88.15:2020]
+ m 17:44:00 ethminer 0:18 A9 81.42 Mh - cl0 81.42
+ m 17:44:05 ethminer 0:18 A9 79.93 Mh - cl0 79.93
+ m 17:44:10 ethminer 0:18 A9 80.37 Mh - cl0 80.37
+ i 17:44:11 ethminer Job: d516a1d9… block 17254878 eth.2miners.com [51.195.88.15:2020]
+ i 17:44:13 ethminer Job: ac5fe457… block 17254879 eth.2miners.com [51.195.88.15:2020]
+ i 17:44:14 ethminer Job: 95a0bbcf… block 17254879 eth.2miners.com [51.195.88.15:2020]
+ m 17:44:15 ethminer 0:18 A9 79.55 Mh - cl0 79.55
+ i 17:44:20 ethminer Job: 6dd823e2… block 17254879 eth.2miners.com [51.195.88.15:2020]
+ m 17:44:20 ethminer 0:18 A9 78.30 Mh - cl0 78.30
+ m 17:44:25 ethminer 0:18 A9 78.02 Mh - cl0 78.02
+ m 17:44:30 ethminer 0:18 A9 80.15 Mh - cl0 80.15
+ m 17:44:35 ethminer 0:18 A9 80.33 Mh - cl0 80.33
+ i 17:44:39 ethminer Job: 2f95f375… block 17254880 eth.2miners.com [51.195.88.15:2020]
+ i 17:44:41 ethminer Job: 5da362b4… block 17254880 eth.2miners.com [51.195.88.15:2020]
+ m 17:44:41 ethminer 0:18 A9 80.74 Mh - cl0 80.74
+ m 17:44:46 ethminer 0:18 A9 81.11 Mh - cl0 81.11
+cl 17:44:48 cl-0     Job: 5da362b4… Sol: 0x018a075fda6b65a7
+ i 17:44:48 ethminer **Accepted  49 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:44:51 ethminer 0:18 A10 78.97 Mh - cl0 78.97
+ i 17:44:53 ethminer Job: 3019eba3… block 17254880 eth.2miners.com [51.195.88.15:2020]
+ m 17:44:56 ethminer 0:19 A10 81.35 Mh - cl0 81.35
+ i 17:44:59 ethminer Job: a6c49681… block 17254881 eth.2miners.com [51.195.88.15:2020]
+ i 17:44:59 ethminer Job: af478c6b… block 17254881 eth.2miners.com [51.195.88.15:2020]
+ m 17:45:01 ethminer 0:19 A10 79.92 Mh - cl0 79.92
+ i 17:45:06 ethminer Job: 2e27b351… block 17254881 eth.2miners.com [51.195.88.15:2020]
+ m 17:45:07 ethminer 0:19 A10 77.54 Mh - cl0 77.54
+ i 17:45:11 ethminer Job: 2bae8f59… block 17254882 eth.2miners.com [51.195.88.15:2020]
+ m 17:45:12 ethminer 0:19 A10 75.46 Mh - cl0 75.46
+ m 17:45:17 ethminer 0:19 A10 74.02 Mh - cl0 74.02
+ m 17:45:22 ethminer 0:19 A10 79.52 Mh - cl0 79.52
+ i 17:45:24 ethminer Job: e65cd86c… block 17254883 eth.2miners.com [51.195.88.15:2020]
+ i 17:45:25 ethminer Job: f4a4dc4a… block 17254883 eth.2miners.com [51.195.88.15:2020]
+ m 17:45:27 ethminer 0:19 A10 81.46 Mh - cl0 81.46
+ m 17:45:32 ethminer 0:19 A10 75.65 Mh - cl0 75.65
+ m 17:45:37 ethminer 0:19 A10 79.03 Mh - cl0 79.03
+ i 17:45:38 ethminer Job: f8678b00… block 17254883 eth.2miners.com [51.195.88.15:2020]
+ m 17:45:42 ethminer 0:19 A10 79.98 Mh - cl0 79.98
+ m 17:45:47 ethminer 0:19 A10 77.79 Mh - cl0 77.79
+ i 17:45:52 ethminer Job: 4700ba10… block 17254883 eth.2miners.com [51.195.88.15:2020]
+ m 17:45:53 ethminer 0:20 A10 77.51 Mh - cl0 77.51
+ m 17:45:58 ethminer 0:20 A10 75.05 Mh - cl0 75.05
+ m 17:46:03 ethminer 0:20 A10 71.87 Mh - cl0 71.87
+ m 17:46:08 ethminer 0:20 A10 72.08 Mh - cl0 72.08
+ i 17:46:09 ethminer Job: 6e7a46db… block 17254884 eth.2miners.com [51.195.88.15:2020]
+ i 17:46:11 ethminer Job: 7fb8dbe2… block 17254884 eth.2miners.com [51.195.88.15:2020]
+ m 17:46:13 ethminer 0:20 A10 77.46 Mh - cl0 77.46
+ i 17:46:17 ethminer Job: c3b0c7f1… block 17254884 eth.2miners.com [51.195.88.15:2020]
+ m 17:46:18 ethminer 0:20 A10 77.30 Mh - cl0 77.30
+ m 17:46:23 ethminer 0:20 A10 78.92 Mh - cl0 78.92
+ i 17:46:24 ethminer Job: 081053cf… block 17254884 eth.2miners.com [51.195.88.15:2020]
+ m 17:46:28 ethminer 0:20 A10 78.39 Mh - cl0 78.39
+ i 17:46:31 ethminer Job: 019d1318… block 17254885 eth.2miners.com [51.195.88.15:2020]
+ i 17:46:31 ethminer Job: d2619a9f… block 17254885 eth.2miners.com [51.195.88.15:2020]
+ i 17:46:32 ethminer Job: 2dc03b2e… block 17254886 eth.2miners.com [51.195.88.15:2020]
+ m 17:46:33 ethminer 0:20 A10 78.18 Mh - cl0 78.18
+ i 17:46:36 ethminer Job: 90db8618… block 17254887 eth.2miners.com [51.195.88.15:2020]
+ i 17:46:38 ethminer Job: 31752780… block 17254887 eth.2miners.com [51.195.88.15:2020]
+ m 17:46:40 ethminer 0:20 A10 76.13 Mh - cl0 76.13
+ i 17:46:43 ethminer Job: d2e1eb54… block 17254887 eth.2miners.com [51.195.88.15:2020]
+ m 17:46:45 ethminer 0:20 A10 80.47 Mh - cl0 80.47
+ m 17:46:50 ethminer 0:20 A10 80.32 Mh - cl0 80.32
+ i 17:46:52 ethminer Job: b199bd04… block 17254888 eth.2miners.com [51.195.88.15:2020]
+ m 17:46:55 ethminer 0:21 A10 76.94 Mh - cl0 76.94
+ m 17:47:00 ethminer 0:21 A10 78.97 Mh - cl0 78.97
+ m 17:47:05 ethminer 0:21 A10 77.88 Mh - cl0 77.88
+ m 17:47:10 ethminer 0:21 A10 79.66 Mh - cl0 79.66
+ i 17:47:12 ethminer Job: 3f5b4ab5… block 17254889 eth.2miners.com [51.195.88.15:2020]
+ i 17:47:14 ethminer Job: 52c3d12e… block 17254889 eth.2miners.com [51.195.88.15:2020]
+ m 17:47:16 ethminer 0:21 A10 81.45 Mh - cl0 81.45
+ i 17:47:19 ethminer Job: 97eb8307… block 17254889 eth.2miners.com [51.195.88.15:2020]
+ m 17:47:21 ethminer 0:21 A10 80.76 Mh - cl0 80.76
+ m 17:47:26 ethminer 0:21 A10 80.51 Mh - cl0 80.51
+ i 17:47:26 ethminer Job: 7badfba0… block 17254889 eth.2miners.com [51.195.88.15:2020]
+ m 17:47:31 ethminer 0:21 A10 80.45 Mh - cl0 80.45
+ m 17:47:36 ethminer 0:21 A10 81.29 Mh - cl0 81.29
+ i 17:47:40 ethminer Job: f7e4597c… block 17254889 eth.2miners.com [51.195.88.15:2020]
+ m 17:47:48 ethminer 0:21 A10 81.59 Mh - cl0 81.59
+ i 17:47:48 ethminer Job: e69f46cf… block 17254890 eth.2miners.com [51.195.88.15:2020]
+ i 17:47:53 ethminer Job: aba60c74… block 17254891 eth.2miners.com [51.195.88.15:2020]
+ m 17:47:55 ethminer 0:22 A10 80.81 Mh - cl0 80.81
+ m 17:48:00 ethminer 0:22 A10 80.54 Mh - cl0 80.54
+cl 17:48:02 cl-0     Job: aba60c74… Sol: 0x018a075fe7baa673
+ i 17:48:02 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 17:48:05 ethminer 0:22 A11 80.21 Mh - cl0 80.21
+ i 17:48:07 ethminer Job: 387aeffb… block 17254891 eth.2miners.com [51.195.88.15:2020]
+ m 17:48:11 ethminer 0:22 A11 79.31 Mh - cl0 79.31
+ m 17:48:16 ethminer 0:22 A11 80.47 Mh - cl0 80.47
+ m 17:48:21 ethminer 0:22 A11 79.88 Mh - cl0 79.88
+ i 17:48:21 ethminer Job: 4ee65b5c… block 17254891 eth.2miners.com [51.195.88.15:2020]
+ m 17:48:26 ethminer 0:22 A11 81.30 Mh - cl0 81.30
+cl 17:48:27 cl-0     Job: 4ee65b5c… Sol: 0x018a075fd647913f
+ i 17:48:27 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 17:48:28 ethminer Job: 6592edf2… block 17254891 eth.2miners.com [51.195.88.15:2020]
+ m 17:48:32 ethminer 0:22 A12 79.63 Mh - cl0 79.63
+ i 17:48:33 ethminer Job: ffc7c8e7… block 17254892 eth.2miners.com [51.195.88.15:2020]
+ i 17:48:34 ethminer Job: 0f42f434… block 17254892 eth.2miners.com [51.195.88.15:2020]
+ m 17:48:37 ethminer 0:22 A12 81.22 Mh - cl0 81.22
+ i 17:48:40 ethminer Job: e83e44d3… block 17254892 eth.2miners.com [51.195.88.15:2020]
+ m 17:48:42 ethminer 0:22 A12 81.35 Mh - cl0 81.35
+ i 17:48:47 ethminer Job: c67c590d… block 17254892 eth.2miners.com [51.195.88.15:2020]
+ m 17:48:53 ethminer 0:23 A12 80.73 Mh - cl0 80.73
+ i 17:48:54 ethminer Job: c24db78b… block 17254892 eth.2miners.com [51.195.88.15:2020]
+ m 17:48:58 ethminer 0:23 A12 80.97 Mh - cl0 80.97
+ m 17:49:03 ethminer 0:23 A12 79.53 Mh - cl0 79.53
+ i 17:49:05 ethminer Job: 640cb5c1… block 17254893 eth.2miners.com [51.195.88.15:2020]
+ m 17:49:08 ethminer 0:23 A12 80.61 Mh - cl0 80.61
+ i 17:49:10 ethminer Job: e67e9089… block 17254894 eth.2miners.com [51.195.88.15:2020]
+ i 17:49:11 ethminer Job: 3761d47f… block 17254894 eth.2miners.com [51.195.88.15:2020]
+ m 17:49:13 ethminer 0:23 A12 79.75 Mh - cl0 79.75
+ m 17:49:18 ethminer 0:23 A12 81.31 Mh - cl0 81.31
+ i 17:49:18 ethminer Job: df6bca5c… block 17254894 eth.2miners.com [51.195.88.15:2020]
+ m 17:49:23 ethminer 0:23 A12 81.54 Mh - cl0 81.54
+ m 17:49:28 ethminer 0:23 A12 81.76 Mh - cl0 81.76
+ m 17:49:33 ethminer 0:23 A12 81.57 Mh - cl0 81.57
+ m 17:49:38 ethminer 0:23 A12 81.61 Mh - cl0 81.61
+ m 17:49:43 ethminer 0:23 A12 81.63 Mh - cl0 81.63
+ i 17:49:46 ethminer Job: 98b2d40a… block 17254895 eth.2miners.com [51.195.88.15:2020]
+ i 17:49:46 ethminer Job: 40865609… block 17254895 eth.2miners.com [51.195.88.15:2020]
+ i 17:50:04 ethminer Job: 098a45a5… block 17254895 eth.2miners.com [51.195.88.15:2020]
+ m 17:50:05 ethminer 0:24 A12 81.26 Mh - cl0 81.26
+ i 17:50:05 ethminer Job: 5d6a40e5… block 17254896 eth.2miners.com [51.195.88.15:2020]
+ i 17:50:06 ethminer Job: 616bb8aa… block 17254897 eth.2miners.com [51.195.88.15:2020]
+ i 17:50:06 ethminer Job: ac1ebbc4… block 17254897 eth.2miners.com [51.195.88.15:2020]
+ m 17:50:10 ethminer 0:24 A12 81.42 Mh - cl0 81.42
+ i 17:50:11 ethminer Job: 1debecf6… block 17254898 eth.2miners.com [51.195.88.15:2020]
+ i 17:50:18 ethminer Job: b5648f18… block 17254898 eth.2miners.com [51.195.88.15:2020]
+ m 17:50:18 ethminer 0:24 A12 78.84 Mh - cl0 78.84
+ i 17:50:18 ethminer Job: 8ab7c823… block 17254899 eth.2miners.com [51.195.88.15:2020]
+ m 17:50:23 ethminer 0:24 A12 81.07 Mh - cl0 81.07
+ i 17:50:25 ethminer Job: 0c7efa98… block 17254899 eth.2miners.com [51.195.88.15:2020]
+ i 17:50:33 ethminer Job: f2c2cd1c… block 17254900 eth.2miners.com [51.195.88.15:2020]
+ m 17:50:38 ethminer 0:24 A12 80.57 Mh - cl0 80.57
+ m 17:50:43 ethminer 0:24 A12 80.76 Mh - cl0 80.76
+ m 17:50:48 ethminer 0:24 A12 80.85 Mh - cl0 80.85
+ m 17:50:53 ethminer 0:25 A12 81.60 Mh - cl0 81.60
+ i 17:50:57 ethminer Job: d2f0995d… block 17254901 eth.2miners.com [51.195.88.15:2020]
+ m 17:51:03 ethminer 0:25 A12 81.03 Mh - cl0 81.03
+ i 17:51:04 ethminer Job: 785c0e8e… block 17254901 eth.2miners.com [51.195.88.15:2020]
+ i 17:51:10 ethminer Job: 2b873db8… block 17254902 eth.2miners.com [51.195.88.15:2020]
+ m 17:51:10 ethminer 0:25 A12 81.57 Mh - cl0 81.57
+ m 17:51:15 ethminer 0:25 A12 81.16 Mh - cl0 81.16
+ i 17:51:16 ethminer Job: 6a396b0d… block 17254903 eth.2miners.com [51.195.88.15:2020]
+ i 17:51:16 ethminer Job: e8973d98… block 17254903 eth.2miners.com [51.195.88.15:2020]
+ i 17:51:53 ethminer Job: aa40e4e4… block 17254903 eth.2miners.com [51.195.88.15:2020]
+ m 17:51:54 ethminer 0:26 A12 80.46 Mh - cl0 80.46
+ i 17:51:54 ethminer Job: 4d0f4e06… block 17254904 eth.2miners.com [51.195.88.15:2020]
+ i 17:51:54 ethminer Job: aca7ca74… block 17254904 eth.2miners.com [51.195.88.15:2020]
+ i 17:51:56 ethminer Job: 9f9413d3… block 17254905 eth.2miners.com [51.195.88.15:2020]
+ m 17:51:59 ethminer 0:26 A12 80.94 Mh - cl0 80.94
+ m 17:52:04 ethminer 0:26 A12 80.86 Mh - cl0 80.86
+ i 17:52:06 ethminer Job: e67dcc72… block 17254906 eth.2miners.com [51.195.88.15:2020]
+ m 17:52:11 ethminer 0:26 A12 80.85 Mh - cl0 80.85
+ m 17:52:16 ethminer 0:26 A12 77.73 Mh - cl0 77.73
+ m 17:52:21 ethminer 0:26 A12 77.56 Mh - cl0 77.56
+ m 17:52:26 ethminer 0:26 A12 80.85 Mh - cl0 80.85
+ i 17:52:27 ethminer Job: fa8ed4f1… block 17254907 eth.2miners.com [51.195.88.15:2020]
+ i 17:52:30 ethminer Job: dec8b8a2… block 17254908 eth.2miners.com [51.195.88.15:2020]
+ m 17:52:31 ethminer 0:26 A12 80.27 Mh - cl0 80.27
+ i 17:52:35 ethminer Job: 4a748f95… block 17254909 eth.2miners.com [51.195.88.15:2020]
+ i 17:52:42 ethminer Job: 24a9f691… block 17254909 eth.2miners.com [51.195.88.15:2020]
+ m 17:52:46 ethminer 0:26 A12 76.43 Mh - cl0 76.43
+ i 17:52:46 ethminer Job: 9cf78758… block 17254910 eth.2miners.com [51.195.88.15:2020]
+ m 17:52:51 ethminer 0:26 A12 79.29 Mh - cl0 79.29
+ m 17:52:56 ethminer 0:27 A12 78.60 Mh - cl0 78.60
+ i 17:52:59 ethminer Job: 7c0b0df6… block 17254910 eth.2miners.com [51.195.88.15:2020]
+ i 17:53:13 ethminer Job: 493ecf76… block 17254911 eth.2miners.com [51.195.88.15:2020]
+ m 17:53:21 ethminer 0:27 A12 78.14 Mh - cl0 78.14
+ i 17:53:21 ethminer Job: dd9d836d… block 17254911 eth.2miners.com [51.195.88.15:2020]
+ i 17:53:24 ethminer Job: 2576fca2… block 17254911 eth.2miners.com [51.195.88.15:2020]
+ i 17:53:57 ethminer Job: 1141e07c… block 17254911 eth.2miners.com [51.195.88.15:2020]
+ m 17:53:57 ethminer 0:28 A12 80.86 Mh - cl0 80.86
+ i 17:53:57 ethminer Job: bf7f4a41… block 17254912 eth.2miners.com [51.195.88.15:2020]
+ i 17:54:02 ethminer Job: 217e2c11… block 17254913 eth.2miners.com [51.195.88.15:2020]
+ i 17:54:02 ethminer Job: ca272dca… block 17254914 eth.2miners.com [51.195.88.15:2020]
+ i 17:54:27 ethminer Job: b7bcfe3f… block 17254914 eth.2miners.com [51.195.88.15:2020]
+cl 17:54:30 cl-0     Job: b7bcfe3f… Sol: 0x018a075fc97b8ea1
+ m 17:54:38 ethminer 0:28 A12 81.28 Mh - cl0 81.28
+ i 17:54:38 ethminer Job: ae3934fa… block 17254915 eth.2miners.com [51.195.88.15:2020]
+ i 17:54:43 ethminer Job: 8c2bd0af… block 17254916 eth.2miners.com [51.195.88.15:2020]
+ X 17:54:43 ethminer No response received in 2 seconds.
+ X 17:54:43 ethminer Reject reason : code:23 message:Stale share 
+ X 17:54:43 ethminer **Rejected   0 ms. eth.2miners.com [51.195.88.15:2020]
+ i 17:54:43 ethminer Job: 36e62a63… block 17254917 eth.2miners.com [51.195.88.15:2020]
+ i 17:54:43 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 17:54:43 ethminer No connection. Suspend mining ...
+SIGSEGV encountered ...
+stack trace:
+backtrace() returned 13 addresses
+ethminer/bin/ethminer() [0x422af9]
+/lib/x86_64-linux-gnu/libc.so.6(+0x42520) [0x7fc7a8242520]
+ethminer/bin/ethminer() [0x4956b8]
+ethminer/bin/ethminer() [0x49a016]
+ethminer/bin/ethminer() [0x48d03e]
+ethminer/bin/ethminer() [0x48eda9]
+ethminer/bin/ethminer() [0x48eff7]
+ethminer/bin/ethminer() [0x492071]
+ethminer/bin/ethminer() [0x4922cd]
+ethminer/bin/ethminer() [0x42a2d0]
+ethminer/bin/ethminer() [0x773aaf]
+/lib/x86_64-linux-gnu/libc.so.6(+0x94b43) [0x7fc7a8294b43]
+/lib/x86_64-linux-gnu/libc.so.6(+0x126a00) [0x7fc7a8326a00]
+^CSIGSEGV encountered ...
+stack trace:
+backtrace() returned 18 addresses
+malloc_consolidate(): unaligned fastbin chunk detected
+Aborted (core dumped)
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ ethminer/bin/ethminer -G -P stratum1+tcp://0x534e82f0acaa0a4bf7ba5e2fd376d0d6956ad92e@eth.2miners.com:2020
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 18:02:33 ethminer Configured pool eth.2miners.com:2020
+ i 18:02:33 ethminer Selected pool eth.2miners.com:2020
+ i 18:02:33 ethminer Stratum mode : Eth-Proxy compatible
+ i 18:02:33 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 18:02:33 ethminer Spinning up miners...
+cl 18:02:33 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 18:02:33 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 18:02:33 ethminer Job: 4273f686… block 17254954 eth.2miners.com [51.195.88.15:2020]
+cl 18:02:35 cl-0     Generating DAG + Light : 5.58 GB
+cl 18:02:35 cl-0     OpenCL kernel
+cl 18:02:35 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 18:02:35 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 18:02:35 cl-0     Loading kernels
+cl 18:02:35 cl-0     Writing light cache buffer
+cl 18:02:35 cl-0     Creating buffer for header.
+cl 18:02:35 cl-0     Creating mining buffer
+ m 18:02:38 ethminer 0:00 A0 0.00 h - cl0 0.00
+ i 18:02:40 ethminer Job: da501a22… block 17254954 eth.2miners.com [51.195.88.15:2020]
+ m 18:02:43 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 18:02:43 cl-0     5.49 GB of DAG data generated in 7�948 ms.
+ i 18:02:47 ethminer Job: ad984e6c… block 17254954 eth.2miners.com [51.195.88.15:2020]
+ i 18:02:59 ethminer Job: f22dfc89… block 17254955 eth.2miners.com [51.195.88.15:2020]
+ m 18:03:00 ethminer 0:00 A0 422.66 Kh - cl0 422.66
+ i 18:03:00 ethminer Job: 8720ae9c… block 17254956 eth.2miners.com [51.195.88.15:2020]
+ m 18:03:05 ethminer 0:00 A0 79.13 Mh - cl0 79.13
+ i 18:03:09 ethminer Job: 00c9ddac… block 17254956 eth.2miners.com [51.195.88.15:2020]
+ m 18:03:11 ethminer 0:00 A0 78.14 Mh - cl0 78.14
+ m 18:03:16 ethminer 0:00 A0 73.46 Mh - cl0 73.46
+ m 18:03:21 ethminer 0:00 A0 79.99 Mh - cl0 79.99
+ i 18:03:23 ethminer Job: 2d783494… block 17254956 eth.2miners.com [51.195.88.15:2020]
+ m 18:03:28 ethminer 0:00 A0 80.01 Mh - cl0 80.01
+ m 18:03:33 ethminer 0:01 A0 79.49 Mh - cl0 79.49
+cl 18:03:33 cl-0     Job: 2d783494… Sol: 0x6f1c3f6973aecf88
+ i 18:03:34 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:03:37 ethminer Job: 39a66ba6… block 17254956 eth.2miners.com [51.195.88.15:2020]
+ m 18:03:38 ethminer 0:01 A1 79.54 Mh - cl0 79.54
+ i 18:03:42 ethminer Job: ed23fc5a… block 17254957 eth.2miners.com [51.195.88.15:2020]
+ i 18:03:44 ethminer Job: fc859ef8… block 17254957 eth.2miners.com [51.195.88.15:2020]
+ m 18:03:44 ethminer 0:01 A1 78.54 Mh - cl0 78.54
+ m 18:03:49 ethminer 0:01 A1 77.29 Mh - cl0 77.29
+ m 18:03:54 ethminer 0:01 A1 80.80 Mh - cl0 80.80
+ i 18:03:56 ethminer Job: 52891355… block 17254957 eth.2miners.com [51.195.88.15:2020]
+ m 18:03:59 ethminer 0:01 A1 81.00 Mh - cl0 81.00
+ i 18:04:01 ethminer Job: 46fd743f… block 17254958 eth.2miners.com [51.195.88.15:2020]
+ i 18:04:06 ethminer Job: 5b1c95c5… block 17254958 eth.2miners.com [51.195.88.15:2020]
+ m 18:04:07 ethminer 0:01 A1 79.57 Mh - cl0 79.57
+ i 18:04:08 ethminer Job: 13404317… block 17254958 eth.2miners.com [51.195.88.15:2020]
+ m 18:04:12 ethminer 0:01 A1 81.03 Mh - cl0 81.03
+ i 18:04:13 ethminer Job: 9d766001… block 17254959 eth.2miners.com [51.195.88.15:2020]
+ i 18:04:22 ethminer Job: 80a0796e… block 17254959 eth.2miners.com [51.195.88.15:2020]
+ m 18:04:22 ethminer 0:01 A1 80.59 Mh - cl0 80.59
+ i 18:04:22 ethminer Job: 4e6f0831… block 17254960 eth.2miners.com [51.195.88.15:2020]
+ i 18:04:22 ethminer Job: e800d226… block 17254960 eth.2miners.com [51.195.88.15:2020]
+cl 18:04:23 cl-0     Job: e800d226… Sol: 0x6f1c3f69443f3ed8
+ i 18:04:25 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:04:27 ethminer 0:01 A2 80.94 Mh - cl0 80.94
+ i 18:04:28 ethminer Job: 56707bb6… block 17254960 eth.2miners.com [51.195.88.15:2020]
+ m 18:04:32 ethminer 0:01 A2 80.40 Mh - cl0 80.40
+ i 18:04:35 ethminer Job: be6edc4e… block 17254960 eth.2miners.com [51.195.88.15:2020]
+ m 18:04:37 ethminer 0:02 A2 81.00 Mh - cl0 81.00
+ m 18:04:42 ethminer 0:02 A2 81.33 Mh - cl0 81.33
+ i 18:04:42 ethminer Job: 8260ab14… block 17254960 eth.2miners.com [51.195.88.15:2020]
+ i 18:04:45 ethminer Job: b35cd50c… block 17254961 eth.2miners.com [51.195.88.15:2020]
+ i 18:04:55 ethminer Job: b9243166… block 17254961 eth.2miners.com [51.195.88.15:2020]
+cl 18:04:56 cl-0     Job: b9243166… Sol: 0x6f1c3f6945030d85
+cl 18:05:06 cl-0     Job: b9243166… Sol: 0x6f1c3f6975845b37
+ m 18:05:21 ethminer 0:02 A2 78.75 Mh - cl0 78.75
+ i 18:05:21 ethminer Job: b401e989… block 17254961 eth.2miners.com [51.195.88.15:2020]
+ i 18:05:35 ethminer Job: 267dbb5f… block 17254962 eth.2miners.com [51.195.88.15:2020]
+ X 18:05:36 ethminer No response received in 2 seconds.
+ m 18:05:36 ethminer 0:03 A2 80.95 Mh - cl0 80.95
+ i 18:05:36 ethminer **Accepted   0 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:05:36 ethminer **Accepted   0 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:05:36 ethminer Job: 7772caa7… block 17254963 eth.2miners.com [51.195.88.15:2020]
+ i 18:05:37 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 18:05:37 ethminer No connection. Suspend mining ...
+ i 18:05:37 ethminer Selected pool eth.2miners.com:2020
+ i 18:05:37 ethminer Stratum mode : Eth-Proxy compatible
+ i 18:05:37 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 18:05:37 ethminer Resume mining ...
+ i 18:05:37 ethminer Job: 7772caa7… block 17254963 eth.2miners.com [51.195.88.15:2020]
+ i 18:05:38 ethminer Job: 3891b238… block 17254964 eth.2miners.com [51.195.88.15:2020]
+ i 18:05:42 ethminer Job: 5565065f… block 17254965 eth.2miners.com [51.195.88.15:2020]
+ m 18:05:47 ethminer 0:03 A4 81.54 Mh - cl0 81.54
+ i 18:05:50 ethminer Job: 6f148446… block 17254966 eth.2miners.com [51.195.88.15:2020]
+ i 18:05:51 ethminer Job: c3a7834a… block 17254966 eth.2miners.com [51.195.88.15:2020]
+ m 18:05:52 ethminer 0:03 A4 78.68 Mh - cl0 78.68
+ i 18:05:52 ethminer Job: 6370c27d… block 17254967 eth.2miners.com [51.195.88.15:2020]
+ i 18:05:57 ethminer Job: 6709b7ac… block 17254967 eth.2miners.com [51.195.88.15:2020]
+ m 18:05:57 ethminer 0:03 A4 78.94 Mh - cl0 78.94
+ i 18:05:59 ethminer Job: 8f6e1310… block 17254967 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:02 ethminer 0:03 A4 79.17 Mh - cl0 79.17
+ m 18:06:07 ethminer 0:03 A4 79.67 Mh - cl0 79.67
+ m 18:06:12 ethminer 0:03 A4 80.06 Mh - cl0 80.06
+ i 18:06:14 ethminer Job: 00ff64a7… block 17254968 eth.2miners.com [51.195.88.15:2020]
+ i 18:06:15 ethminer Job: 8f93e95a… block 17254968 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:17 ethminer 0:03 A4 81.32 Mh - cl0 81.32
+ i 18:06:21 ethminer Job: f86b6edf… block 17254968 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:24 ethminer 0:03 A4 80.66 Mh - cl0 80.66
+ i 18:06:28 ethminer Job: ac5343c3… block 17254968 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:29 ethminer 0:03 A4 79.59 Mh - cl0 79.59
+ m 18:06:34 ethminer 0:04 A4 78.88 Mh - cl0 78.88
+ i 18:06:34 ethminer Job: 35e8584e… block 17254969 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:39 ethminer 0:04 A4 79.61 Mh - cl0 79.61
+ i 18:06:40 ethminer Job: 3caa8ebe… block 17254970 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:44 ethminer 0:04 A4 80.20 Mh - cl0 80.20
+ i 18:06:47 ethminer Job: c77d60e2… block 17254970 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:49 ethminer 0:04 A4 79.51 Mh - cl0 79.51
+ m 18:06:54 ethminer 0:04 A4 78.40 Mh - cl0 78.40
+ i 18:06:54 ethminer Job: caff722b… block 17254970 eth.2miners.com [51.195.88.15:2020]
+ i 18:06:58 ethminer Job: 3f343c1a… block 17254971 eth.2miners.com [51.195.88.15:2020]
+ m 18:06:59 ethminer 0:04 A4 78.17 Mh - cl0 78.17
+ m 18:07:04 ethminer 0:04 A4 80.08 Mh - cl0 80.08
+ m 18:07:09 ethminer 0:04 A4 81.13 Mh - cl0 81.13
+ m 18:07:14 ethminer 0:04 A4 80.92 Mh - cl0 80.92
+ i 18:07:17 ethminer Job: a570b743… block 17254972 eth.2miners.com [51.195.88.15:2020]
+ i 18:07:18 ethminer Job: b8c29d99… block 17254972 eth.2miners.com [51.195.88.15:2020]
+ i 18:07:22 ethminer Job: d8ed2a9a… block 17254972 eth.2miners.com [51.195.88.15:2020]
+ m 18:07:25 ethminer 0:04 A4 80.26 Mh - cl0 80.26
+ i 18:07:25 ethminer Job: 30ddf0e3… block 17254972 eth.2miners.com [51.195.88.15:2020]
+ i 18:07:35 ethminer Job: 25cc7f45… block 17254972 eth.2miners.com [51.195.88.15:2020]
+ m 18:07:41 ethminer 0:05 A4 79.84 Mh - cl0 79.84
+ i 18:07:41 ethminer Job: a76237e2… block 17254972 eth.2miners.com [51.195.88.15:2020]
+ i 18:07:51 ethminer Job: 0a00612a… block 17254972 eth.2miners.com [51.195.88.15:2020]
+ m 18:07:51 ethminer 0:05 A4 80.69 Mh - cl0 80.69
+ i 18:07:51 ethminer Job: 75172907… block 17254973 eth.2miners.com [51.195.88.15:2020]
+ m 18:07:56 ethminer 0:05 A4 79.58 Mh - cl0 79.58
+ m 18:08:01 ethminer 0:05 A4 79.68 Mh - cl0 79.68
+ i 18:08:01 ethminer Job: 80ef4d05… block 17254973 eth.2miners.com [51.195.88.15:2020]
+ m 18:08:06 ethminer 0:05 A4 80.34 Mh - cl0 80.34
+ i 18:08:08 ethminer Job: e1ea2aab… block 17254973 eth.2miners.com [51.195.88.15:2020]
+ m 18:08:11 ethminer 0:05 A4 80.50 Mh - cl0 80.50
+ m 18:08:16 ethminer 0:05 A4 79.18 Mh - cl0 79.18
+cl 18:08:16 cl-0     Job: e1ea2aab… Sol: 0x6f1c3f6967cbc3e7
+ i 18:08:17 ethminer **Accepted  42 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:08:20 ethminer Job: 13684005… block 17254974 eth.2miners.com [51.195.88.15:2020]
+ i 18:08:21 ethminer Job: 2fe5ad6d… block 17254974 eth.2miners.com [51.195.88.15:2020]
+ m 18:08:21 ethminer 0:05 A5 79.14 Mh - cl0 79.14
+ m 18:08:26 ethminer 0:05 A5 78.17 Mh - cl0 78.17
+ m 18:08:31 ethminer 0:05 A5 80.07 Mh - cl0 80.07
+ i 18:08:34 ethminer Job: dd7a89bd… block 17254974 eth.2miners.com [51.195.88.15:2020]
+ m 18:08:36 ethminer 0:06 A5 79.04 Mh - cl0 79.04
+ i 18:08:38 ethminer Job: 6b4c3515… block 17254975 eth.2miners.com [51.195.88.15:2020]
+ i 18:08:47 ethminer Job: 2ead4bf8… block 17254975 eth.2miners.com [51.195.88.15:2020]
+ m 18:08:48 ethminer 0:06 A5 76.79 Mh - cl0 76.79
+ i 18:08:48 ethminer Job: 427e2607… block 17254976 eth.2miners.com [51.195.88.15:2020]
+ i 18:08:49 ethminer Job: 67a01cb0… block 17254976 eth.2miners.com [51.195.88.15:2020]
+cl 18:08:49 cl-0     Job: 67a01cb0… Sol: 0x6f1c3f694115caab
+ i 18:08:49 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:08:53 ethminer 0:06 A6 80.30 Mh - cl0 80.30
+ i 18:08:54 ethminer Job: f35d0376… block 17254977 eth.2miners.com [51.195.88.15:2020]
+ i 18:08:54 ethminer Job: a22413c0… block 17254977 eth.2miners.com [51.195.88.15:2020]
+ m 18:08:58 ethminer 0:06 A6 79.00 Mh - cl0 79.00
+ m 18:09:03 ethminer 0:06 A6 79.34 Mh - cl0 79.34
+ m 18:09:08 ethminer 0:06 A6 79.80 Mh - cl0 79.80
+ m 18:09:13 ethminer 0:06 A6 75.25 Mh - cl0 75.25
+ i 18:09:15 ethminer Job: b5a3e05a… block 17254977 eth.2miners.com [51.195.88.15:2020]
+ i 18:09:53 ethminer Job: 5bc10ef6… block 17254977 eth.2miners.com [51.195.88.15:2020]
+ m 18:10:09 ethminer 0:07 A6 81.10 Mh - cl0 81.10
+ i 18:10:09 ethminer Job: 47a98c99… block 17254978 eth.2miners.com [51.195.88.15:2020]
+ i 18:10:09 ethminer Job: 8e656dfc… block 17254979 eth.2miners.com [51.195.88.15:2020]
+ i 18:10:09 ethminer Job: e8abb169… block 17254980 eth.2miners.com [51.195.88.15:2020]
+ i 18:10:09 ethminer Job: 56dcf832… block 17254980 eth.2miners.com [51.195.88.15:2020]
+ i 18:10:10 ethminer Job: 90dd9057… block 17254981 eth.2miners.com [51.195.88.15:2020]
+ i 18:10:11 ethminer Job: d22cb454… block 17254982 eth.2miners.com [51.195.88.15:2020]
+ i 18:10:11 ethminer Job: e233b876… block 17254982 eth.2miners.com [51.195.88.15:2020]
+ m 18:10:14 ethminer 0:07 A6 80.35 Mh - cl0 80.35
+ i 18:10:18 ethminer Job: e7b21870… block 17254982 eth.2miners.com [51.195.88.15:2020]
+ m 18:10:19 ethminer 0:07 A6 80.31 Mh - cl0 80.31
+ m 18:10:24 ethminer 0:07 A6 79.92 Mh - cl0 79.92
+ i 18:10:25 ethminer Job: 8a10e215… block 17254982 eth.2miners.com [51.195.88.15:2020]
+ m 18:10:29 ethminer 0:07 A6 80.26 Mh - cl0 80.26
+ i 18:10:30 ethminer Job: 09d13f05… block 17254983 eth.2miners.com [51.195.88.15:2020]
+ m 18:10:34 ethminer 0:08 A6 79.10 Mh - cl0 79.10
+ m 18:10:39 ethminer 0:08 A6 79.58 Mh - cl0 79.58
+ m 18:10:44 ethminer 0:08 A6 78.16 Mh - cl0 78.16
+ i 18:10:44 ethminer Job: b812c494… block 17254983 eth.2miners.com [51.195.88.15:2020]
+ m 18:10:49 ethminer 0:08 A6 77.62 Mh - cl0 77.62
+ i 18:10:50 ethminer Job: b1d8abdf… block 17254984 eth.2miners.com [51.195.88.15:2020]
+ i 18:10:51 ethminer Job: cae3b04f… block 17254984 eth.2miners.com [51.195.88.15:2020]
+ m 18:10:54 ethminer 0:08 A6 78.30 Mh - cl0 78.30
+cl 18:10:58 cl-0     Job: cae3b04f… Sol: 0x6f1c3f69636c212e
+ i 18:10:58 ethminer **Accepted  42 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:10:59 ethminer 0:08 A7 79.55 Mh - cl0 79.55
+ m 18:11:04 ethminer 0:08 A7 79.50 Mh - cl0 79.50
+ m 18:11:09 ethminer 0:08 A7 80.88 Mh - cl0 80.88
+ i 18:11:11 ethminer Job: 5f19c59e… block 17254984 eth.2miners.com [51.195.88.15:2020]
+ m 18:11:14 ethminer 0:08 A7 79.07 Mh - cl0 79.07
+ m 18:11:19 ethminer 0:08 A7 78.62 Mh - cl0 78.62
+ i 18:11:23 ethminer Job: 54a4ffc1… block 17254985 eth.2miners.com [51.195.88.15:2020]
+cl 18:11:25 cl-0     Job: 54a4ffc1… Sol: 0x6f1c3f694b9b940b
+ i 18:11:27 ethminer Job: 93e62f92… block 17254985 eth.2miners.com [51.195.88.15:2020]
+ m 18:11:27 ethminer 0:08 A7 77.87 Mh - cl0 77.87
+ i 18:11:27 ethminer **Accepted 105 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:11:28 ethminer Job: 0000b9f1… block 17254986 eth.2miners.com [51.195.88.15:2020]
+ i 18:11:37 ethminer Job: 610c487d… block 17254986 eth.2miners.com [51.195.88.15:2020]
+ m 18:11:37 ethminer 0:09 A8 80.93 Mh - cl0 80.93
+ i 18:11:37 ethminer Job: c09a9a0f… block 17254987 eth.2miners.com [51.195.88.15:2020]
+cl 18:11:40 cl-0     Job: c09a9a0f… Sol: 0x6f1c3f694bc4423c
+ i 18:11:40 ethminer **Accepted  42 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:11:42 ethminer 0:09 A9 80.99 Mh - cl0 80.99
+ m 18:11:47 ethminer 0:09 A9 72.83 Mh - cl0 72.83
+ i 18:11:51 ethminer Job: 1798f667… block 17254987 eth.2miners.com [51.195.88.15:2020]
+ m 18:11:52 ethminer 0:09 A9 69.59 Mh - cl0 69.59
+ m 18:11:57 ethminer 0:09 A9 76.18 Mh - cl0 76.18
+ i 18:11:58 ethminer Job: 8d2247cb… block 17254988 eth.2miners.com [51.195.88.15:2020]
+ i 18:12:00 ethminer Job: 5580383d… block 17254988 eth.2miners.com [51.195.88.15:2020]
+ m 18:12:02 ethminer 0:09 A9 69.79 Mh - cl0 69.79
+ i 18:12:03 ethminer Job: 0f9312bf… block 17254989 eth.2miners.com [51.195.88.15:2020]
+ i 18:12:03 ethminer Job: 46459e89… block 17254989 eth.2miners.com [51.195.88.15:2020]
+ m 18:12:07 ethminer 0:09 A9 78.55 Mh - cl0 78.55
+ i 18:12:10 ethminer Job: 7536501d… block 17254989 eth.2miners.com [51.195.88.15:2020]
+ m 18:12:16 ethminer 0:09 A9 80.78 Mh - cl0 80.78
+ m 18:12:21 ethminer 0:09 A9 79.57 Mh - cl0 79.57
+ m 18:12:26 ethminer 0:09 A9 73.52 Mh - cl0 73.52
+ i 18:12:31 ethminer Job: fcb08e29… block 17254989 eth.2miners.com [51.195.88.15:2020]
+ m 18:12:31 ethminer 0:09 A9 80.81 Mh - cl0 80.81
+ m 18:12:36 ethminer 0:10 A9 80.86 Mh - cl0 80.86
+ i 18:12:38 ethminer Job: fce09595… block 17254989 eth.2miners.com [51.195.88.15:2020]
+ i 18:12:51 ethminer Job: 9b46547f… block 17254989 eth.2miners.com [51.195.88.15:2020]
+ m 18:12:51 ethminer 0:10 A9 80.75 Mh - cl0 80.75
+ m 18:12:56 ethminer 0:10 A9 79.23 Mh - cl0 79.23
+ i 18:12:56 ethminer Job: 091bc06c… block 17254990 eth.2miners.com [51.195.88.15:2020]
+ i 18:13:04 ethminer Job: 8961a044… block 17254990 eth.2miners.com [51.195.88.15:2020]
+ m 18:13:07 ethminer 0:10 A9 73.09 Mh - cl0 73.09
+ m 18:13:12 ethminer 0:10 A9 78.00 Mh - cl0 78.00
+ m 18:13:17 ethminer 0:10 A9 74.10 Mh - cl0 74.10
+cl 18:13:20 cl-0     Job: 8961a044… Sol: 0x6f1c3f69882f062f
+ i 18:13:20 ethminer **Accepted  47 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:13:22 ethminer 0:10 A10 75.65 Mh - cl0 75.65
+ i 18:13:26 ethminer Job: 2d95386d… block 17254991 eth.2miners.com [51.195.88.15:2020]
+ i 18:13:31 ethminer Job: d5d2ed74… block 17254991 eth.2miners.com [51.195.88.15:2020]
+ m 18:13:32 ethminer 0:10 A10 78.13 Mh - cl0 78.13
+ i 18:13:34 ethminer Job: 249bf302… block 17254992 eth.2miners.com [51.195.88.15:2020]
+ i 18:13:34 ethminer Job: ba530a9d… block 17254992 eth.2miners.com [51.195.88.15:2020]
+ m 18:13:37 ethminer 0:11 A10 74.24 Mh - cl0 74.24
+ m 18:13:42 ethminer 0:11 A10 73.61 Mh - cl0 73.61
+ m 18:13:47 ethminer 0:11 A10 79.98 Mh - cl0 79.98
+ i 18:13:49 ethminer Job: 70d537f0… block 17254993 eth.2miners.com [51.195.88.15:2020]
+ i 18:13:52 ethminer Job: 6db4477f… block 17254993 eth.2miners.com [51.195.88.15:2020]
+ m 18:13:52 ethminer 0:11 A10 80.80 Mh - cl0 80.80
+ i 18:13:53 ethminer Job: 286706f5… block 17254994 eth.2miners.com [51.195.88.15:2020]
+ i 18:13:56 ethminer Job: aabc1242… block 17254994 eth.2miners.com [51.195.88.15:2020]
+ i 18:13:59 ethminer Job: fb800308… block 17254995 eth.2miners.com [51.195.88.15:2020]
+ m 18:14:03 ethminer 0:11 A10 80.77 Mh - cl0 80.77
+ i 18:14:05 ethminer Job: 14c6343f… block 17254995 eth.2miners.com [51.195.88.15:2020]
+ m 18:14:08 ethminer 0:11 A10 80.25 Mh - cl0 80.25
+ i 18:14:08 ethminer Job: c6104607… block 17254996 eth.2miners.com [51.195.88.15:2020]
+ i 18:14:22 ethminer Job: fb379dc5… block 17254996 eth.2miners.com [51.195.88.15:2020]
+ m 18:14:23 ethminer 0:11 A10 78.15 Mh - cl0 78.15
+ i 18:14:23 ethminer Job: 536d7653… block 17254997 eth.2miners.com [51.195.88.15:2020]
+cl 18:14:25 cl-0     Job: 536d7653… Sol: 0x6f1c3f69487282c1
+ i 18:14:25 ethminer **Accepted  42 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:14:28 ethminer 0:11 A11 78.29 Mh - cl0 78.29
+ m 18:14:33 ethminer 0:12 A11 78.11 Mh - cl0 78.11
+ m 18:14:38 ethminer 0:12 A11 79.86 Mh - cl0 79.86
+ m 18:14:43 ethminer 0:12 A11 79.35 Mh - cl0 79.35
+ m 18:14:48 ethminer 0:12 A11 80.71 Mh - cl0 80.71
+ m 18:14:53 ethminer 0:12 A11 80.79 Mh - cl0 80.79
+ m 18:14:58 ethminer 0:12 A11 80.82 Mh - cl0 80.82
+ i 18:14:58 ethminer Job: e8e8d7df… block 17254997 eth.2miners.com [51.195.88.15:2020]
+ m 18:15:04 ethminer 0:12 A11 80.83 Mh - cl0 80.83
+ m 18:15:09 ethminer 0:12 A11 80.77 Mh - cl0 80.77
+ i 18:15:12 ethminer Job: b2d2fe6f… block 17254997 eth.2miners.com [51.195.88.15:2020]
+ i 18:15:24 ethminer Job: 26f54bb7… block 17254998 eth.2miners.com [51.195.88.15:2020]
+ m 18:15:24 ethminer 0:12 A11 80.69 Mh - cl0 80.69
+ i 18:15:24 ethminer Job: 5edf01c3… block 17254999 eth.2miners.com [51.195.88.15:2020]
+ m 18:15:29 ethminer 0:12 A11 77.87 Mh - cl0 77.87
+ m 18:15:34 ethminer 0:13 A11 78.78 Mh - cl0 78.78
+ m 18:15:39 ethminer 0:13 A11 79.53 Mh - cl0 79.53
+ i 18:15:43 ethminer Job: f58890a6… block 17255000 eth.2miners.com [51.195.88.15:2020]
+ i 18:15:44 ethminer Job: 70f53b83… block 17255000 eth.2miners.com [51.195.88.15:2020]
+ m 18:15:45 ethminer 0:13 A11 79.71 Mh - cl0 79.71
+ m 18:15:50 ethminer 0:13 A11 78.83 Mh - cl0 78.83
+ m 18:15:55 ethminer 0:13 A11 78.75 Mh - cl0 78.75
+cl 18:15:59 cl-0     Job: 70f53b83… Sol: 0x6f1c3f69859da6b4
+ i 18:15:59 ethminer **Accepted  42 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:16:00 ethminer 0:13 A12 78.43 Mh - cl0 78.43
+ i 18:16:02 ethminer Job: 54a21cb5… block 17255001 eth.2miners.com [51.195.88.15:2020]
+ i 18:16:10 ethminer Job: 71db82f1… block 17255001 eth.2miners.com [51.195.88.15:2020]
+ m 18:16:20 ethminer 0:13 A12 79.73 Mh - cl0 79.73
+ i 18:16:20 ethminer Job: 36a90a83… block 17255002 eth.2miners.com [51.195.88.15:2020]
+ i 18:16:31 ethminer Job: de469d1f… block 17255003 eth.2miners.com [51.195.88.15:2020]
+ m 18:16:35 ethminer 0:14 A12 80.56 Mh - cl0 80.56
+ i 18:16:35 ethminer Job: 041d338e… block 17255004 eth.2miners.com [51.195.88.15:2020]
+ i 18:16:35 ethminer Job: 75201db0… block 17255005 eth.2miners.com [51.195.88.15:2020]
+ i 18:16:39 ethminer Job: fb78919a… block 17255006 eth.2miners.com [51.195.88.15:2020]
+ m 18:16:40 ethminer 0:14 A12 80.33 Mh - cl0 80.33
+ m 18:16:45 ethminer 0:14 A12 79.07 Mh - cl0 79.07
+ i 18:16:46 ethminer Job: 4ed28d58… block 17255007 eth.2miners.com [51.195.88.15:2020]
+ i 18:16:51 ethminer Job: a4503ab9… block 17255007 eth.2miners.com [51.195.88.15:2020]
+ m 18:16:51 ethminer 0:14 A12 74.63 Mh - cl0 74.63
+ m 18:16:56 ethminer 0:14 A12 79.29 Mh - cl0 79.29
+ m 18:17:01 ethminer 0:14 A12 80.46 Mh - cl0 80.46
+ m 18:17:06 ethminer 0:14 A12 78.33 Mh - cl0 78.33
+ i 18:17:07 ethminer Job: 342482e4… block 17255007 eth.2miners.com [51.195.88.15:2020]
+ i 18:17:10 ethminer Job: e179c128… block 17255008 eth.2miners.com [51.195.88.15:2020]
+cl 18:17:15 cl-0     Job: e179c128… Sol: 0x6f1c3f6959c9b863
+ i 18:17:18 ethminer Job: 1ea88882… block 17255009 eth.2miners.com [51.195.88.15:2020]
+ m 18:17:19 ethminer 0:14 A12 78.53 Mh - cl0 78.53
+ i 18:17:19 ethminer **Accepted1152 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:17:24 ethminer 0:14 A13 79.67 Mh - cl0 79.67
+ i 18:17:27 ethminer Job: f24ccdbe… block 17255009 eth.2miners.com [51.195.88.15:2020]
+ m 18:17:29 ethminer 0:14 A13 78.87 Mh - cl0 78.87
+ i 18:17:34 ethminer Job: 9694215c… block 17255009 eth.2miners.com [51.195.88.15:2020]
+ i 18:17:38 ethminer Job: 2ad5c655… block 17255010 eth.2miners.com [51.195.88.15:2020]
+ m 18:17:40 ethminer 0:15 A13 76.21 Mh - cl0 76.21
+ i 18:17:44 ethminer Job: e41e4765… block 17255010 eth.2miners.com [51.195.88.15:2020]
+ i 18:17:56 ethminer Job: 2a96fcb3… block 17255011 eth.2miners.com [51.195.88.15:2020]
+ m 18:17:59 ethminer 0:15 A13 79.44 Mh - cl0 79.44
+ i 18:17:59 ethminer Job: a7c8d7f9… block 17255013 eth.2miners.com [51.195.88.15:2020]
+ m 18:18:04 ethminer 0:15 A13 80.35 Mh - cl0 80.35
+ i 18:18:05 ethminer Job: 8c6bba56… block 17255014 eth.2miners.com [51.195.88.15:2020]
+ i 18:18:05 ethminer Job: a53c56d9… block 17255014 eth.2miners.com [51.195.88.15:2020]
+ m 18:18:09 ethminer 0:15 A13 79.85 Mh - cl0 79.85
+ i 18:18:10 ethminer Job: 25beb282… block 17255015 eth.2miners.com [51.195.88.15:2020]
+ m 18:18:14 ethminer 0:15 A13 77.21 Mh - cl0 77.21
+ m 18:18:19 ethminer 0:15 A13 78.03 Mh - cl0 78.03
+ i 18:18:24 ethminer Job: 2a7bc07c… block 17255016 eth.2miners.com [51.195.88.15:2020]
+ i 18:18:26 ethminer Job: dcba447e… block 17255016 eth.2miners.com [51.195.88.15:2020]
+ m 18:18:29 ethminer 0:15 A13 80.26 Mh - cl0 80.26
+ m 18:18:34 ethminer 0:16 A13 78.14 Mh - cl0 78.14
+ i 18:18:34 ethminer Job: 6e88999e… block 17255017 eth.2miners.com [51.195.88.15:2020]
+ i 18:18:36 ethminer Job: 6a313aaf… block 17255017 eth.2miners.com [51.195.88.15:2020]
+cl 18:18:40 cl-0     Job: 6a313aaf… Sol: 0x6f1c3f69561f095f
+ i 18:18:41 ethminer Job: 3807f4f9… block 17255018 eth.2miners.com [51.195.88.15:2020]
+ m 18:18:41 ethminer 0:16 A13 78.34 Mh - cl0 78.34
+ i 18:18:41 ethminer **Accepted 103 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:18:46 ethminer 0:16 A14 79.93 Mh - cl0 79.93
+ m 18:18:51 ethminer 0:16 A14 80.81 Mh - cl0 80.81
+ i 18:18:54 ethminer Job: dd83a8a5… block 17255018 eth.2miners.com [51.195.88.15:2020]
+cl 18:19:06 cl-0     Job: dd83a8a5… Sol: 0x6f1c3f6976deca63
+ i 18:19:07 ethminer Job: 00cdcee8… block 17255019 eth.2miners.com [51.195.88.15:2020]
+ X 18:19:26 ethminer No response received in 2 seconds.
+ m 18:19:26 ethminer 0:16 A14 80.87 Mh - cl0 80.87
+ i 18:19:26 ethminer Job: 0c75cc60… block 17255019 eth.2miners.com [51.195.88.15:2020]
+cl 18:19:28 cl-0     Job: 0c75cc60… Sol: 0x6f1c3f694c9c9245
+ i 18:19:35 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 18:19:35 ethminer No connection. Suspend mining ...
+ i 18:19:35 ethminer Solution 0x6f1c3f694c9c9245 wasted. Waiting for connection...
+SIGSEGV encountered ...
+stack trace:
+backtrace() returned 13 addresses
+ethminer/bin/ethminer() [0x422af9]
+/lib/x86_64-linux-gnu/libc.so.6(+0x42520) [0x7fd56fc42520]
+ethminer/bin/ethminer() [0x4956b8]
+ethminer/bin/ethminer() [0x49a016]
+ethminer/bin/ethminer() [0x48d03e]
+ethminer/bin/ethminer() [0x48eda9]
+ethminer/bin/ethminer() [0x48eff7]
+ethminer/bin/ethminer() [0x492071]
+ethminer/bin/ethminer() [0x4922cd]
+ethminer/bin/ethminer() [0x42a2d0]
+ethminer/bin/ethminer() [0x773aaf]
+/lib/x86_64-linux-gnu/libc.so.6(+0x94b43) [0x7fd56fc94b43]
+/lib/x86_64-linux-gnu/libc.so.6(+0x126a00) [0x7fd56fd26a00]
+
+^CSIGSEGV encountered ...
+stack trace:
+backtrace() returned 18 addresses
+malloc_consolidate(): unaligned fastbin chunk detected
+Aborted (core dumped)
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ ethminer/bin/ethminer -G -P stratum1+tcp://0x534e82f0acaa0a4bf7ba5e2fd376d0d6956ad92e@eth.2miners.com:2020
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 18:20:13 ethminer Configured pool eth.2miners.com:2020
+ i 18:20:13 ethminer Selected pool eth.2miners.com:2020
+ i 18:20:13 ethminer Stratum mode : Eth-Proxy compatible
+ i 18:20:13 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 18:20:13 ethminer Spinning up miners...
+cl 18:20:13 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 18:20:13 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 18:20:13 ethminer Job: c40139e1… block 17255025 eth.2miners.com [51.195.88.15:2020]
+cl 18:20:15 cl-0     Generating DAG + Light : 5.58 GB
+cl 18:20:15 cl-0     OpenCL kernel
+cl 18:20:15 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 18:20:15 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 18:20:15 cl-0     Loading kernels
+cl 18:20:15 cl-0     Writing light cache buffer
+cl 18:20:15 cl-0     Creating buffer for header.
+cl 18:20:15 cl-0     Creating mining buffer
+ m 18:20:18 ethminer 0:00 A0 0.00 h - cl0 0.00
+ m 18:20:23 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 18:20:23 cl-0     5.49 GB of DAG data generated in 7�987 ms.
+ i 18:20:25 ethminer Job: 67de290f… block 17255025 eth.2miners.com [51.195.88.15:2020]
+ m 18:20:28 ethminer 0:00 A0 421.34 Kh - cl0 421.34
+ m 18:20:33 ethminer 0:00 A0 81.14 Mh - cl0 81.14
+ m 18:20:38 ethminer 0:00 A0 81.06 Mh - cl0 81.06
+ m 18:20:43 ethminer 0:00 A0 80.03 Mh - cl0 80.03
+ i 18:20:43 ethminer Job: cf2de5f6… block 17255026 eth.2miners.com [51.195.88.15:2020]
+ i 18:20:46 ethminer Job: 0aabb831… block 17255026 eth.2miners.com [51.195.88.15:2020]
+ m 18:20:48 ethminer 0:00 A0 80.15 Mh - cl0 80.15
+ i 18:20:49 ethminer Job: 845dee38… block 17255027 eth.2miners.com [51.195.88.15:2020]
+ i 18:21:01 ethminer Job: 48691258… block 17255027 eth.2miners.com [51.195.88.15:2020]
+ m 18:21:01 ethminer 0:00 A0 80.66 Mh - cl0 80.66
+ i 18:21:03 ethminer Job: 4c679b15… block 17255027 eth.2miners.com [51.195.88.15:2020]
+ m 18:21:06 ethminer 0:00 A0 78.07 Mh - cl0 78.07
+ i 18:21:10 ethminer Job: 2cdec7e9… block 17255027 eth.2miners.com [51.195.88.15:2020]
+ i 18:21:39 ethminer Job: 711c9cb7… block 17255028 eth.2miners.com [51.195.88.15:2020]
+ m 18:21:39 ethminer 0:01 A0 79.25 Mh - cl0 79.25
+ i 18:21:39 ethminer Job: 3ab94ed9… block 17255029 eth.2miners.com [51.195.88.15:2020]
+ i 18:21:39 ethminer Job: 81e50083… block 17255030 eth.2miners.com [51.195.88.15:2020]
+ i 18:21:48 ethminer Job: 5b197843… block 17255031 eth.2miners.com [51.195.88.15:2020]
+ m 18:21:48 ethminer 0:01 A0 80.89 Mh - cl0 80.89
+ i 18:21:48 ethminer Job: 365bc615… block 17255032 eth.2miners.com [51.195.88.15:2020]
+ i 18:22:17 ethminer Job: 693b6520… block 17255032 eth.2miners.com [51.195.88.15:2020]
+ m 18:22:21 ethminer 0:02 A0 80.80 Mh - cl0 80.80
+ i 18:22:21 ethminer Job: d886a59e… block 17255033 eth.2miners.com [51.195.88.15:2020]
+ i 18:22:21 ethminer Job: 4a2063f4… block 17255033 eth.2miners.com [51.195.88.15:2020]
+ m 18:22:44 ethminer 0:02 A0 80.91 Mh - cl0 80.91
+ i 18:22:49 ethminer Job: eccc933d… block 17255033 eth.2miners.com [51.195.88.15:2020]
+ m 18:22:53 ethminer 0:02 A0 78.57 Mh - cl0 78.57
+ m 18:22:58 ethminer 0:02 A0 76.62 Mh - cl0 76.62
+ m 18:23:03 ethminer 0:02 A0 79.78 Mh - cl0 79.78
+ m 18:23:08 ethminer 0:02 A0 77.03 Mh - cl0 77.03
+ i 18:23:10 ethminer Job: a81336fe… block 17255033 eth.2miners.com [51.195.88.15:2020]
+ i 18:23:21 ethminer Job: a8d90c25… block 17255033 eth.2miners.com [51.195.88.15:2020]
+ m 18:23:21 ethminer 0:03 A0 79.92 Mh - cl0 79.92
+ i 18:23:25 ethminer Job: 7609d239… block 17255034 eth.2miners.com [51.195.88.15:2020]
+ i 18:23:26 ethminer Job: 23263ae8… block 17255034 eth.2miners.com [51.195.88.15:2020]
+ m 18:23:26 ethminer 0:03 A0 78.44 Mh - cl0 78.44
+ m 18:23:31 ethminer 0:03 A0 79.97 Mh - cl0 79.97
+ m 18:23:36 ethminer 0:03 A0 79.86 Mh - cl0 79.86
+ i 18:23:40 ethminer Job: 9051a4a4… block 17255034 eth.2miners.com [51.195.88.15:2020]
+ m 18:23:41 ethminer 0:03 A0 78.70 Mh - cl0 78.70
+ i 18:23:44 ethminer Job: 1fc3e106… block 17255035 eth.2miners.com [51.195.88.15:2020]
+ i 18:23:44 ethminer Job: 59d3c6b9… block 17255035 eth.2miners.com [51.195.88.15:2020]
+ m 18:23:46 ethminer 0:03 A0 79.95 Mh - cl0 79.95
+ i 18:23:49 ethminer Job: dcc9b5e4… block 17255036 eth.2miners.com [51.195.88.15:2020]
+ i 18:24:01 ethminer Job: 8d05e69f… block 17255036 eth.2miners.com [51.195.88.15:2020]
+ m 18:24:01 ethminer 0:03 A0 79.35 Mh - cl0 79.35
+ i 18:24:01 ethminer Job: 55c598e0… block 17255037 eth.2miners.com [51.195.88.15:2020]
+ i 18:24:16 ethminer Job: 3e863b7b… block 17255037 eth.2miners.com [51.195.88.15:2020]
+ m 18:24:16 ethminer 0:04 A0 81.33 Mh - cl0 81.33
+ m 18:24:21 ethminer 0:04 A0 81.54 Mh - cl0 81.54
+ m 18:24:26 ethminer 0:04 A0 79.04 Mh - cl0 79.04
+ m 18:24:31 ethminer 0:04 A0 76.54 Mh - cl0 76.54
+ i 18:24:34 ethminer Job: cd963f59… block 17255038 eth.2miners.com [51.195.88.15:2020]
+ i 18:24:51 ethminer Job: 7ba22f97… block 17255039 eth.2miners.com [51.195.88.15:2020]
+ m 18:25:14 ethminer 0:05 A0 81.44 Mh - cl0 81.44
+ i 18:25:14 ethminer Job: 66e5cb98… block 17255039 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:14 ethminer Job: edad1300… block 17255040 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:14 ethminer Job: b5e67512… block 17255041 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:15 ethminer Job: efd8c022… block 17255042 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:17 ethminer Job: f37f0736… block 17255043 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:17 ethminer Job: e791f6b1… block 17255043 eth.2miners.com [51.195.88.15:2020]
+ m 18:25:19 ethminer 0:05 A0 81.45 Mh - cl0 81.45
+ i 18:25:23 ethminer Job: 86e4a75f… block 17255044 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:23 ethminer Job: 820c31f9… block 17255044 eth.2miners.com [51.195.88.15:2020]
+ m 18:25:24 ethminer 0:05 A0 79.34 Mh - cl0 79.34
+ m 18:25:29 ethminer 0:05 A0 79.40 Mh - cl0 79.40
+ m 18:25:34 ethminer 0:05 A0 80.61 Mh - cl0 80.61
+ i 18:25:36 ethminer Job: 9e8c073a… block 17255045 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:36 ethminer Job: 8a2fdcd9… block 17255045 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:39 ethminer Job: 326d3287… block 17255046 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:39 ethminer Job: c05f72a8… block 17255046 eth.2miners.com [51.195.88.15:2020]
+ m 18:25:39 ethminer 0:05 A0 81.10 Mh - cl0 81.10
+ m 18:25:44 ethminer 0:05 A0 79.92 Mh - cl0 79.92
+ m 18:25:49 ethminer 0:05 A0 80.17 Mh - cl0 80.17
+ m 18:25:54 ethminer 0:05 A0 80.37 Mh - cl0 80.37
+ i 18:25:55 ethminer Job: 1aaeeae5… block 17255047 eth.2miners.com [51.195.88.15:2020]
+ i 18:25:57 ethminer Job: 2de9cf02… block 17255047 eth.2miners.com [51.195.88.15:2020]
+ m 18:25:59 ethminer 0:05 A0 80.27 Mh - cl0 80.27
+ i 18:26:00 ethminer Job: 0308bae1… block 17255048 eth.2miners.com [51.195.88.15:2020]
+ i 18:26:00 ethminer Job: e65061da… block 17255048 eth.2miners.com [51.195.88.15:2020]
+ m 18:26:04 ethminer 0:05 A0 80.45 Mh - cl0 80.45
+ m 18:26:09 ethminer 0:05 A0 81.26 Mh - cl0 81.26
+ m 18:26:14 ethminer 0:06 A0 81.39 Mh - cl0 81.39
+ m 18:26:19 ethminer 0:06 A0 81.34 Mh - cl0 81.34
+ m 18:26:24 ethminer 0:06 A0 80.48 Mh - cl0 80.48
+cl 18:26:25 cl-0     Job: e65061da… Sol: 0x0fcd81d6bcfab0b6
+ i 18:26:26 ethminer **Accepted  44 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:26:27 ethminer Job: 2c60205c… block 17255049 eth.2miners.com [51.195.88.15:2020]
+ i 18:26:43 ethminer Job: 5220e84c… block 17255049 eth.2miners.com [51.195.88.15:2020]
+cl 18:27:07 cl-0     Job: 5220e84c… Sol: 0x0fcd81d6b5388a70
+ m 18:27:08 ethminer 0:06 A1 75.56 Mh - cl0 75.56
+ i 18:27:08 ethminer Job: a8056594… block 17255050 eth.2miners.com [51.195.88.15:2020]
+ i 18:27:08 ethminer Job: d646b4e9… block 17255051 eth.2miners.com [51.195.88.15:2020]
+ X 18:27:09 ethminer Reject reason : code:23 message:Stale share 
+ X 18:27:09 ethminer **Rejected 310 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:27:09 ethminer Job: 70ff87c7… block 17255052 eth.2miners.com [51.195.88.15:2020]
+ m 18:27:13 ethminer 0:07 A1:R1 80.50 Mh - cl0 80.50
+ i 18:27:15 ethminer Job: fb120b5c… block 17255052 eth.2miners.com [51.195.88.15:2020]
+ m 18:27:22 ethminer 0:07 A1:R1 81.42 Mh - cl0 81.42
+ m 18:27:27 ethminer 0:07 A1:R1 81.48 Mh - cl0 81.48
+ i 18:27:27 ethminer Job: 6b1d8ed7… block 17255053 eth.2miners.com [51.195.88.15:2020]
+ i 18:27:27 ethminer Job: 7e07dc8a… block 17255053 eth.2miners.com [51.195.88.15:2020]
+cl 18:27:40 cl-0     Job: 7e07dc8a… Sol: 0x0fcd81d68192563e
+ i 18:28:26 ethminer Job: a360d50b… block 17255053 eth.2miners.com [51.195.88.15:2020]
+ X 18:28:35 ethminer No response received in 2 seconds.
+ m 18:28:35 ethminer 0:08 A1:R1 81.45 Mh - cl0 81.45
+ i 18:28:35 ethminer Job: 57057b0c… block 17255054 eth.2miners.com [51.195.88.15:2020]
+ i 18:28:35 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 18:28:35 ethminer No connection. Suspend mining ...
+SIGSEGV encountered ...
+stack trace:
+backtrace() returned 13 addresses
+ethminer/bin/ethminer() [0x422af9]
+/lib/x86_64-linux-gnu/libc.so.6(+0x42520) [0x7fb710e42520]
+ethminer/bin/ethminer() [0x4956b8]
+ethminer/bin/ethminer() [0x49a016]
+ethminer/bin/ethminer() [0x48d03e]
+ethminer/bin/ethminer() [0x48eda9]
+ethminer/bin/ethminer() [0x48eff7]
+ethminer/bin/ethminer() [0x492071]
+ethminer/bin/ethminer() [0x4922cd]
+ethminer/bin/ethminer() [0x42a2d0]
+ethminer/bin/ethminer() [0x773aaf]
+/lib/x86_64-linux-gnu/libc.so.6(+0x94b43) [0x7fb710e94b43]
+/lib/x86_64-linux-gnu/libc.so.6(+0x126a00) [0x7fb710f26a00]
+^[[A
+^CSIGSEGV encountered ...
+stack trace:
+backtrace() returned 18 addresses
+malloc_consolidate(): unaligned fastbin chunk detected
+Aborted (core dumped)
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ ethminer/bin/ethminer -G -P stratum1+tcp://0x534e82f0acaa0a4bf7ba5e2fd376d0d6956ad92e@eth.2miners.com:2020
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 18:31:04 ethminer Configured pool eth.2miners.com:2020
+ i 18:31:04 ethminer Selected pool eth.2miners.com:2020
+ i 18:31:04 ethminer Stratum mode : Eth-Proxy compatible
+ i 18:31:04 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 18:31:04 ethminer Spinning up miners...
+cl 18:31:04 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 18:31:04 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 18:31:04 ethminer Job: 657e9911… block 17255068 eth.2miners.com [51.195.88.15:2020]
+ i 18:31:06 ethminer Job: c306ae1c… block 17255068 eth.2miners.com [51.195.88.15:2020]
+cl 18:31:06 cl-0     Generating DAG + Light : 5.58 GB
+cl 18:31:06 cl-0     OpenCL kernel
+cl 18:31:06 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 18:31:06 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 18:31:06 cl-0     Loading kernels
+cl 18:31:06 cl-0     Writing light cache buffer
+cl 18:31:06 cl-0     Creating buffer for header.
+cl 18:31:06 cl-0     Creating mining buffer
+ i 18:31:08 ethminer Job: 9dec99ca… block 17255069 eth.2miners.com [51.195.88.15:2020]
+ i 18:31:09 ethminer Job: 94623f8b… block 17255069 eth.2miners.com [51.195.88.15:2020]
+ m 18:31:09 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 18:31:14 cl-0     5.49 GB of DAG data generated in 7�928 ms.
+ m 18:31:14 ethminer 0:00 A0 424.22 Kh - cl0 424.22
+ m 18:31:19 ethminer 0:00 A0 76.92 Mh - cl0 76.92
+ i 18:31:19 ethminer Job: 2aa600d2… block 17255070 eth.2miners.com [51.195.88.15:2020]
+ i 18:31:25 ethminer Job: 2cbd303e… block 17255070 eth.2miners.com [51.195.88.15:2020]
+ m 18:31:27 ethminer 0:00 A0 80.96 Mh - cl0 80.96
+ i 18:31:27 ethminer Job: a045b6bf… block 17255071 eth.2miners.com [51.195.88.15:2020]
+ i 18:31:28 ethminer Job: 97a3e7fc… block 17255072 eth.2miners.com [51.195.88.15:2020]
+ i 18:31:31 ethminer Job: ce5c1af8… block 17255073 eth.2miners.com [51.195.88.15:2020]
+ m 18:31:32 ethminer 0:00 A0 79.38 Mh - cl0 79.38
+ m 18:31:37 ethminer 0:00 A0 77.44 Mh - cl0 77.44
+ m 18:31:42 ethminer 0:00 A0 78.01 Mh - cl0 78.01
+ i 18:31:45 ethminer Job: 98a5b204… block 17255074 eth.2miners.com [51.195.88.15:2020]
+ i 18:31:45 ethminer Job: a2c97c0b… block 17255074 eth.2miners.com [51.195.88.15:2020]
+ m 18:31:47 ethminer 0:00 A0 78.57 Mh - cl0 78.57
+ m 18:31:52 ethminer 0:00 A0 76.82 Mh - cl0 76.82
+ i 18:31:52 ethminer Job: 8534a263… block 17255074 eth.2miners.com [51.195.88.15:2020]
+ m 18:31:57 ethminer 0:00 A0 77.87 Mh - cl0 77.87
+ m 18:32:02 ethminer 0:00 A0 78.44 Mh - cl0 78.44
+ m 18:32:07 ethminer 0:01 A0 78.11 Mh - cl0 78.11
+ i 18:32:08 ethminer Job: 49e2e417… block 17255075 eth.2miners.com [51.195.88.15:2020]
+ i 18:32:09 ethminer Job: cc3a406e… block 17255075 eth.2miners.com [51.195.88.15:2020]
+ m 18:32:12 ethminer 0:01 A0 77.67 Mh - cl0 77.67
+ i 18:32:16 ethminer Job: 660f8a71… block 17255075 eth.2miners.com [51.195.88.15:2020]
+ m 18:32:17 ethminer 0:01 A0 78.18 Mh - cl0 78.18
+ m 18:32:22 ethminer 0:01 A0 77.98 Mh - cl0 77.98
+ m 18:32:27 ethminer 0:01 A0 80.52 Mh - cl0 80.52
+ i 18:32:29 ethminer Job: 03f44320… block 17255075 eth.2miners.com [51.195.88.15:2020]
+ m 18:32:32 ethminer 0:01 A0 80.68 Mh - cl0 80.68
+ i 18:32:37 ethminer Job: 6fdbd22b… block 17255075 eth.2miners.com [51.195.88.15:2020]
+ m 18:32:42 ethminer 0:01 A0 80.90 Mh - cl0 80.90
+ i 18:32:43 ethminer Job: bea4286d… block 17255076 eth.2miners.com [51.195.88.15:2020]
+ i 18:32:47 ethminer Job: 91ff9a42… block 17255076 eth.2miners.com [51.195.88.15:2020]
+ i 18:33:10 ethminer Job: 7f63c4a0… block 17255077 eth.2miners.com [51.195.88.15:2020]
+ m 18:33:21 ethminer 0:02 A0 81.04 Mh - cl0 81.04
+ i 18:33:21 ethminer Job: afaa990a… block 17255078 eth.2miners.com [51.195.88.15:2020]
+ m 18:33:26 ethminer 0:02 A0 80.64 Mh - cl0 80.64
+ i 18:33:29 ethminer Job: ba83e9b2… block 17255079 eth.2miners.com [51.195.88.15:2020]
+^C i 18:33:35 main     Got interrupt ...
+ i 18:33:35 main     Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 18:33:35 main     Shutting down miners...
+ i 18:33:40 main     Terminated!
+
+
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ ^C
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ sudo ethminer/bin/ethminer -G -P stratum1+tcp://0x534e82f0acaa0a4bf7ba5e2fd376d0d6956ad92e@eth.2miners.com:2020
+[sudo] password for xela: 
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 18:33:50 ethminer Configured pool eth.2miners.com:2020
+ i 18:33:50 ethminer Selected pool eth.2miners.com:2020
+ i 18:33:50 ethminer Stratum mode : Eth-Proxy compatible
+ i 18:33:50 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 18:33:50 ethminer Spinning up miners...
+cl 18:33:50 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 18:33:50 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 18:33:50 ethminer Job: 71e0d584… block 17255081 eth.2miners.com [51.195.88.15:2020]
+cl 18:33:52 cl-0     Generating DAG + Light : 5.58 GB
+cl 18:33:52 cl-0     OpenCL kernel
+cl 18:33:53 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 18:33:53 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 18:33:53 cl-0     Loading kernels
+cl 18:33:53 cl-0     Writing light cache buffer
+cl 18:33:53 cl-0     Creating buffer for header.
+cl 18:33:53 cl-0     Creating mining buffer
+ i 18:33:54 ethminer Job: b33c53b4… block 17255081 eth.2miners.com [51.195.88.15:2020]
+ m 18:33:55 ethminer 0:00 A0 0.00 h - cl0 0.00
+ i 18:33:57 ethminer Job: 7fa08296… block 17255082 eth.2miners.com [51.195.88.15:2020]
+ i 18:33:58 ethminer Job: 656cec45… block 17255082 eth.2miners.com [51.195.88.15:2020]
+ m 18:34:00 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 18:34:00 cl-0     5.49 GB of DAG data generated in 8�182 ms.
+ m 18:34:05 ethminer 0:00 A0 413.21 Kh - cl0 413.21
+ i 18:34:10 ethminer Job: ef2a50d7… block 17255083 eth.2miners.com [51.195.88.15:2020]
+ i 18:34:16 ethminer Job: 29c45f7f… block 17255083 eth.2miners.com [51.195.88.15:2020]
+ m 18:34:16 ethminer 0:00 A0 75.55 Mh - cl0 75.55
+ m 18:34:21 ethminer 0:00 A0 78.31 Mh - cl0 78.31
+ i 18:34:24 ethminer Job: 7aee5534… block 17255083 eth.2miners.com [51.195.88.15:2020]
+ i 18:34:40 ethminer Job: 396b439a… block 17255084 eth.2miners.com [51.195.88.15:2020]
+ m 18:34:40 ethminer 0:00 A0 80.93 Mh - cl0 80.93
+ i 18:34:40 ethminer Job: 88a5539d… block 17255085 eth.2miners.com [51.195.88.15:2020]
+ i 18:34:40 ethminer Job: 2bdcfeb9… block 17255086 eth.2miners.com [51.195.88.15:2020]
+ i 18:34:41 ethminer Job: 2c84ab3a… block 17255086 eth.2miners.com [51.195.88.15:2020]
+ i 18:34:41 ethminer Job: fce191d0… block 17255087 eth.2miners.com [51.195.88.15:2020]
+ m 18:34:46 ethminer 0:00 A0 80.49 Mh - cl0 80.49
+ i 18:34:51 ethminer Job: d83d0e50… block 17255088 eth.2miners.com [51.195.88.15:2020]
+ m 18:34:51 ethminer 0:01 A0 80.91 Mh - cl0 80.91
+ i 18:34:51 ethminer Job: 0b76efe2… block 17255088 eth.2miners.com [51.195.88.15:2020]
+ i 18:35:02 ethminer Job: 20d3e9b5… block 17255088 eth.2miners.com [51.195.88.15:2020]
+ m 18:35:02 ethminer 0:01 A0 80.98 Mh - cl0 80.98
+ i 18:35:03 ethminer Job: 57ed78b0… block 17255089 eth.2miners.com [51.195.88.15:2020]
+ i 18:35:04 ethminer Job: a9cfa940… block 17255089 eth.2miners.com [51.195.88.15:2020]
+ i 18:35:07 ethminer Job: a52b0fa0… block 17255090 eth.2miners.com [51.195.88.15:2020]
+ i 18:35:10 ethminer Job: 8e7ca693… block 17255090 eth.2miners.com [51.195.88.15:2020]
+ m 18:35:11 ethminer 0:01 A0 81.14 Mh - cl0 81.14
+ m 18:35:16 ethminer 0:01 A0 80.71 Mh - cl0 80.71
+ i 18:35:18 ethminer Job: 19121096… block 17255091 eth.2miners.com [51.195.88.15:2020]
+ i 18:35:27 ethminer Job: f5664fc1… block 17255091 eth.2miners.com [51.195.88.15:2020]
+ m 18:35:31 ethminer 0:01 A0 79.30 Mh - cl0 79.30
+ i 18:35:31 ethminer Job: 2d37d951… block 17255092 eth.2miners.com [51.195.88.15:2020]
+ m 18:35:36 ethminer 0:01 A0 73.50 Mh - cl0 73.50
+ m 18:35:41 ethminer 0:01 A0 77.98 Mh - cl0 77.98
+ i 18:35:42 ethminer Job: a61cb6d0… block 17255093 eth.2miners.com [51.195.88.15:2020]
+ i 18:35:50 ethminer Job: 289218e8… block 17255094 eth.2miners.com [51.195.88.15:2020]
+ m 18:35:51 ethminer 0:02 A0 80.53 Mh - cl0 80.53
+ i 18:35:52 ethminer Job: 1b3b53ac… block 17255094 eth.2miners.com [51.195.88.15:2020]
+ i 18:35:55 ethminer Job: b2efc2f7… block 17255095 eth.2miners.com [51.195.88.15:2020]
+cl 18:35:57 cl-0     Job: b2efc2f7… Sol: 0x1c0348130876b2f0
+ i 18:35:58 ethminer Job: 38d5d344… block 17255095 eth.2miners.com [51.195.88.15:2020]
+ m 18:36:00 ethminer 0:02 A0 79.16 Mh - cl0 79.16
+ i 18:36:00 ethminer **Accepted1474 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:36:05 ethminer 0:02 A1 80.61 Mh - cl0 80.61
+ i 18:36:07 ethminer Job: 3c28c86e… block 17255097 eth.2miners.com [51.195.88.15:2020]
+ i 18:36:11 ethminer Job: 7acc85b9… block 17255098 eth.2miners.com [51.195.88.15:2020]
+ m 18:36:23 ethminer 0:02 A1 79.72 Mh - cl0 79.72
+ i 18:36:23 ethminer Job: 304c72f5… block 17255099 eth.2miners.com [51.195.88.15:2020]
+ i 18:36:26 ethminer Job: bf425c15… block 17255099 eth.2miners.com [51.195.88.15:2020]
+ m 18:36:28 ethminer 0:02 A1 81.25 Mh - cl0 81.25
+ m 18:36:33 ethminer 0:02 A1 79.64 Mh - cl0 79.64
+ i 18:36:34 ethminer Job: 74a44953… block 17255099 eth.2miners.com [51.195.88.15:2020]
+ m 18:36:38 ethminer 0:02 A1 78.51 Mh - cl0 78.51
+ i 18:36:41 ethminer Job: 31210d6c… block 17255099 eth.2miners.com [51.195.88.15:2020]
+ i 18:36:42 ethminer Job: bdb48bd2… block 17255100 eth.2miners.com [51.195.88.15:2020]
+ i 18:36:42 ethminer Job: a9cae6da… block 17255100 eth.2miners.com [51.195.88.15:2020]
+ m 18:36:43 ethminer 0:02 A1 80.22 Mh - cl0 80.22
+ m 18:36:48 ethminer 0:02 A1 79.61 Mh - cl0 79.61
+ i 18:36:49 ethminer Job: f7714112… block 17255101 eth.2miners.com [51.195.88.15:2020]
+ m 18:36:53 ethminer 0:03 A1 80.59 Mh - cl0 80.59
+ i 18:36:56 ethminer Job: fde805e6… block 17255101 eth.2miners.com [51.195.88.15:2020]
+cl 18:36:57 cl-0     Job: fde805e6… Sol: 0x1c03481303e3d115
+ i 18:37:04 ethminer Job: 674b52b8… block 17255101 eth.2miners.com [51.195.88.15:2020]
+ m 18:37:04 ethminer 0:03 A1 81.02 Mh - cl0 81.02
+ i 18:37:04 ethminer **Accepted 207 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:37:05 ethminer Job: de0248fb… block 17255102 eth.2miners.com [51.195.88.15:2020]
+ i 18:37:07 ethminer Job: dcb92849… block 17255102 eth.2miners.com [51.195.88.15:2020]
+ m 18:37:09 ethminer 0:03 A2 81.17 Mh - cl0 81.17
+ i 18:37:12 ethminer Job: 3f90e834… block 17255103 eth.2miners.com [51.195.88.15:2020]
+ i 18:37:12 ethminer Job: 74914352… block 17255103 eth.2miners.com [51.195.88.15:2020]
+ m 18:37:14 ethminer 0:03 A2 79.25 Mh - cl0 79.25
+ m 18:37:19 ethminer 0:03 A2 78.86 Mh - cl0 78.86
+ m 18:37:24 ethminer 0:03 A2 79.57 Mh - cl0 79.57
+ i 18:37:29 ethminer Job: dd2fa436… block 17255104 eth.2miners.com [51.195.88.15:2020]
+ i 18:37:29 ethminer Job: 7029a70d… block 17255104 eth.2miners.com [51.195.88.15:2020]
+ m 18:37:31 ethminer 0:03 A2 80.56 Mh - cl0 80.56
+ m 18:37:36 ethminer 0:03 A2 80.55 Mh - cl0 80.55
+ m 18:37:41 ethminer 0:03 A2 80.92 Mh - cl0 80.92
+ m 18:37:46 ethminer 0:03 A2 79.79 Mh - cl0 79.79
+ m 18:37:51 ethminer 0:04 A2 77.91 Mh - cl0 77.91
+ m 18:37:56 ethminer 0:04 A2 74.50 Mh - cl0 74.50
+ i 18:37:58 ethminer Job: 23f65173… block 17255105 eth.2miners.com [51.195.88.15:2020]
+ i 18:38:01 ethminer Job: b1cc9d5e… block 17255106 eth.2miners.com [51.195.88.15:2020]
+ i 18:38:06 ethminer Job: 9bd55b67… block 17255106 eth.2miners.com [51.195.88.15:2020]
+ m 18:38:06 ethminer 0:04 A2 79.86 Mh - cl0 79.86
+ m 18:38:11 ethminer 0:04 A2 73.74 Mh - cl0 73.74
+ i 18:38:15 ethminer Job: 621309d4… block 17255106 eth.2miners.com [51.195.88.15:2020]
+cl 18:38:15 cl-0     Job: 621309d4… Sol: 0x1c03481301f4a734
+ m 18:38:17 ethminer 0:04 A2 76.77 Mh - cl0 76.77
+ i 18:38:17 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:38:19 ethminer Job: 2b7fa343… block 17255107 eth.2miners.com [51.195.88.15:2020]
+ i 18:38:29 ethminer Job: 4782f8e4… block 17255107 eth.2miners.com [51.195.88.15:2020]
+ m 18:38:29 ethminer 0:04 A3 79.61 Mh - cl0 79.61
+ i 18:38:33 ethminer Job: 269e404f… block 17255107 eth.2miners.com [51.195.88.15:2020]
+ m 18:38:34 ethminer 0:04 A3 79.36 Mh - cl0 79.36
+ m 18:38:39 ethminer 0:04 A3 76.17 Mh - cl0 76.17
+ i 18:38:40 ethminer Job: 38e5c376… block 17255107 eth.2miners.com [51.195.88.15:2020]
+ m 18:38:44 ethminer 0:04 A3 80.31 Mh - cl0 80.31
+ i 18:38:47 ethminer Job: fcf08626… block 17255107 eth.2miners.com [51.195.88.15:2020]
+ i 18:38:47 ethminer Job: eeadb89c… block 17255108 eth.2miners.com [51.195.88.15:2020]
+ i 18:38:48 ethminer Job: dc0fb8c7… block 17255108 eth.2miners.com [51.195.88.15:2020]
+ i 18:38:59 ethminer Job: 1e216c1c… block 17255109 eth.2miners.com [51.195.88.15:2020]
+ m 18:39:00 ethminer 0:05 A3 80.69 Mh - cl0 80.69
+ i 18:39:01 ethminer Job: 718722a3… block 17255110 eth.2miners.com [51.195.88.15:2020]
+ i 18:39:04 ethminer Job: 6717fed7… block 17255110 eth.2miners.com [51.195.88.15:2020]
+ m 18:39:05 ethminer 0:05 A3 80.36 Mh - cl0 80.36
+ i 18:39:07 ethminer Job: f95958f6… block 17255111 eth.2miners.com [51.195.88.15:2020]
+ i 18:39:08 ethminer Job: 2e7d77b3… block 17255111 eth.2miners.com [51.195.88.15:2020]
+ m 18:39:10 ethminer 0:05 A3 79.17 Mh - cl0 79.17
+ i 18:39:10 ethminer Job: 13fe5a40… block 17255112 eth.2miners.com [51.195.88.15:2020]
+ i 18:39:10 ethminer Job: 1181a4ba… block 17255112 eth.2miners.com [51.195.88.15:2020]
+ m 18:39:15 ethminer 0:05 A3 79.93 Mh - cl0 79.93
+ m 18:39:20 ethminer 0:05 A3 80.08 Mh - cl0 80.08
+ m 18:39:25 ethminer 0:05 A3 80.69 Mh - cl0 80.69
+ m 18:39:30 ethminer 0:05 A3 81.20 Mh - cl0 81.20
+ m 18:39:35 ethminer 0:05 A3 80.67 Mh - cl0 80.67
+ i 18:39:38 ethminer Job: 9e1d1265… block 17255113 eth.2miners.com [51.195.88.15:2020]
+ i 18:39:38 ethminer Job: 14c23771… block 17255113 eth.2miners.com [51.195.88.15:2020]
+ i 18:40:05 ethminer Job: 557c6797… block 17255114 eth.2miners.com [51.195.88.15:2020]
+ m 18:40:08 ethminer 0:06 A3 81.61 Mh - cl0 81.61
+ i 18:40:08 ethminer Job: 9de37b47… block 17255115 eth.2miners.com [51.195.88.15:2020]
+ i 18:40:12 ethminer Job: 757d837a… block 17255117 eth.2miners.com [51.195.88.15:2020]
+ i 18:40:12 ethminer Job: a59f6031… block 17255117 eth.2miners.com [51.195.88.15:2020]
+ m 18:40:13 ethminer 0:06 A3 81.13 Mh - cl0 81.13
+ m 18:40:18 ethminer 0:06 A3 78.67 Mh - cl0 78.67
+ m 18:40:23 ethminer 0:06 A3 78.86 Mh - cl0 78.86
+ i 18:40:23 ethminer Job: 4e6bd251… block 17255118 eth.2miners.com [51.195.88.15:2020]
+ i 18:40:31 ethminer Job: 4547c62b… block 17255118 eth.2miners.com [51.195.88.15:2020]
+cl 18:40:40 cl-0     Job: 4547c62b… Sol: 0x1c0348132b3d9afb
+ m 18:40:41 ethminer 0:06 A3 79.85 Mh - cl0 79.85
+ i 18:40:41 ethminer Job: 8dcf6579… block 17255119 eth.2miners.com [51.195.88.15:2020]
+ i 18:40:43 ethminer **Accepted1549 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:40:43 ethminer Job: aa72f8e5… block 17255119 eth.2miners.com [51.195.88.15:2020]
+ m 18:40:46 ethminer 0:06 A4 81.53 Mh - cl0 81.53
+ i 18:40:50 ethminer Job: 24da952d… block 17255120 eth.2miners.com [51.195.88.15:2020]
+ m 18:40:52 ethminer 0:07 A4 81.38 Mh - cl0 81.38
+ m 18:40:57 ethminer 0:07 A4 81.54 Mh - cl0 81.54
+ i 18:40:57 ethminer Job: 14c13abe… block 17255120 eth.2miners.com [51.195.88.15:2020]
+ m 18:41:02 ethminer 0:07 A4 81.14 Mh - cl0 81.14
+cl 18:41:03 cl-0     Job: 14c13abe… Sol: 0x1c0348131f4df0e2
+ i 18:41:03 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:41:04 ethminer Job: 40432622… block 17255121 eth.2miners.com [51.195.88.15:2020]
+ i 18:41:09 ethminer Job: bcb56ca4… block 17255121 eth.2miners.com [51.195.88.15:2020]
+ m 18:41:09 ethminer 0:07 A5 79.52 Mh - cl0 79.52
+ i 18:41:09 ethminer Job: 0900e8fc… block 17255122 eth.2miners.com [51.195.88.15:2020]
+ m 18:41:14 ethminer 0:07 A5 79.50 Mh - cl0 79.50
+ i 18:41:17 ethminer Job: b499fa8a… block 17255123 eth.2miners.com [51.195.88.15:2020]
+ i 18:41:17 ethminer Job: e935cb23… block 17255123 eth.2miners.com [51.195.88.15:2020]
+ m 18:41:19 ethminer 0:07 A5 78.44 Mh - cl0 78.44
+ i 18:41:20 ethminer Job: 54215597… block 17255124 eth.2miners.com [51.195.88.15:2020]
+cl 18:41:21 cl-0     Job: 54215597… Sol: 0x1c03481307288dde
+ i 18:41:21 ethminer **Accepted  50 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:41:24 ethminer 0:07 A6 79.96 Mh - cl0 79.96
+ m 18:41:29 ethminer 0:07 A6 79.62 Mh - cl0 79.62
+ i 18:41:31 ethminer Job: d9958954… block 17255125 eth.2miners.com [51.195.88.15:2020]
+cl 18:41:35 cl-0     Job: d9958954… Sol: 0x1c034813151d8b5a
+ i 18:41:38 ethminer Job: 1e0006cb… block 17255125 eth.2miners.com [51.195.88.15:2020]
+ X 18:41:42 ethminer No response received in 2 seconds.
+ m 18:41:42 ethminer 0:07 A6 78.60 Mh - cl0 78.60
+ i 18:41:42 ethminer **Accepted   0 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:41:42 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 18:41:42 ethminer No connection. Suspend mining ...
+ i 18:41:42 ethminer Selected pool eth.2miners.com:2020
+ i 18:41:42 ethminer Stratum mode : Eth-Proxy compatible
+ i 18:41:42 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 18:41:42 ethminer Resume mining ...
+ i 18:41:42 ethminer Job: 1e0006cb… block 17255125 eth.2miners.com [51.195.88.15:2020]
+ m 18:41:47 ethminer 0:07 A7 81.24 Mh - cl0 81.24
+ i 18:41:51 ethminer Job: a6195ad2… block 17255126 eth.2miners.com [51.195.88.15:2020]
+ i 18:41:52 ethminer Job: 532c4acf… block 17255126 eth.2miners.com [51.195.88.15:2020]
+ m 18:41:52 ethminer 0:08 A7 75.55 Mh - cl0 75.55
+ i 18:41:54 ethminer Job: a7ece697… block 17255127 eth.2miners.com [51.195.88.15:2020]
+ i 18:41:56 ethminer Job: eb8250b7… block 17255127 eth.2miners.com [51.195.88.15:2020]
+ i 18:41:57 ethminer Job: a10ab44a… block 17255128 eth.2miners.com [51.195.88.15:2020]
+ m 18:42:00 ethminer 0:08 A7 79.65 Mh - cl0 79.65
+ m 18:42:05 ethminer 0:08 A7 80.59 Mh - cl0 80.59
+ m 18:42:10 ethminer 0:08 A7 79.70 Mh - cl0 79.70
+ m 18:42:15 ethminer 0:08 A7 80.12 Mh - cl0 80.12
+ m 18:42:20 ethminer 0:08 A7 80.85 Mh - cl0 80.85
+ m 18:42:25 ethminer 0:08 A7 81.27 Mh - cl0 81.27
+ m 18:42:30 ethminer 0:08 A7 80.85 Mh - cl0 80.85
+ i 18:42:31 ethminer Job: 037c0fa1… block 17255128 eth.2miners.com [51.195.88.15:2020]
+ m 18:42:35 ethminer 0:08 A7 80.28 Mh - cl0 80.28
+ i 18:42:35 ethminer Job: 57388beb… block 17255129 eth.2miners.com [51.195.88.15:2020]
+ i 18:42:38 ethminer Job: bd2c24cc… block 17255130 eth.2miners.com [51.195.88.15:2020]
+ m 18:42:40 ethminer 0:08 A7 80.86 Mh - cl0 80.86
+ m 18:42:45 ethminer 0:08 A7 81.10 Mh - cl0 81.10
+ m 18:42:50 ethminer 0:08 A7 80.10 Mh - cl0 80.10
+ i 18:42:51 ethminer Job: 330c243e… block 17255131 eth.2miners.com [51.195.88.15:2020]
+ i 18:42:51 ethminer Job: f9778ab0… block 17255131 eth.2miners.com [51.195.88.15:2020]
+ m 18:42:55 ethminer 0:09 A7 75.91 Mh - cl0 75.91
+ i 18:42:58 ethminer Job: 28a39911… block 17255132 eth.2miners.com [51.195.88.15:2020]
+ i 18:42:58 ethminer Job: 5d50219e… block 17255132 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:00 ethminer 0:09 A7 73.40 Mh - cl0 73.40
+ i 18:43:01 ethminer Job: cc233550… block 17255133 eth.2miners.com [51.195.88.15:2020]
+ i 18:43:01 ethminer Job: 56da5282… block 17255133 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:05 ethminer 0:09 A7 80.39 Mh - cl0 80.39
+ i 18:43:08 ethminer Job: bb8dfa81… block 17255133 eth.2miners.com [51.195.88.15:2020]
+ i 18:43:09 ethminer Job: e6321ab5… block 17255134 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:11 ethminer 0:09 A7 79.61 Mh - cl0 79.61
+ m 18:43:16 ethminer 0:09 A7 78.73 Mh - cl0 78.73
+ i 18:43:16 ethminer Job: 3be5a743… block 17255135 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:21 ethminer 0:09 A7 80.39 Mh - cl0 80.39
+ i 18:43:23 ethminer Job: 78064667… block 17255135 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:26 ethminer 0:09 A7 79.81 Mh - cl0 79.81
+ i 18:43:30 ethminer Job: 9d7aae1e… block 17255135 eth.2miners.com [51.195.88.15:2020]
+ i 18:43:41 ethminer Job: 0ffcf1ce… block 17255136 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:41 ethminer 0:09 A7 79.71 Mh - cl0 79.71
+ i 18:43:41 ethminer Job: e7b0b473… block 17255136 eth.2miners.com [51.195.88.15:2020]
+ i 18:43:45 ethminer Job: dc34cc16… block 17255136 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:46 ethminer 0:09 A7 81.08 Mh - cl0 81.08
+ m 18:43:51 ethminer 0:10 A7 79.38 Mh - cl0 79.38
+ i 18:43:52 ethminer Job: e03f8227… block 17255136 eth.2miners.com [51.195.88.15:2020]
+ m 18:43:56 ethminer 0:10 A7 79.63 Mh - cl0 79.63
+ i 18:43:56 ethminer Job: fb8aa1f7… block 17255137 eth.2miners.com [51.195.88.15:2020]
+ m 18:44:01 ethminer 0:10 A7 80.89 Mh - cl0 80.89
+ i 18:44:06 ethminer Job: 1da0e88c… block 17255138 eth.2miners.com [51.195.88.15:2020]
+ i 18:44:06 ethminer Job: 847f0688… block 17255138 eth.2miners.com [51.195.88.15:2020]
+ m 18:44:06 ethminer 0:10 A7 79.52 Mh - cl0 79.52
+ m 18:44:11 ethminer 0:10 A7 79.49 Mh - cl0 79.49
+ m 18:44:16 ethminer 0:10 A7 79.38 Mh - cl0 79.38
+ i 18:44:18 ethminer Job: d9c5cf26… block 17255139 eth.2miners.com [51.195.88.15:2020]
+ i 18:44:18 ethminer Job: 0c4c1425… block 17255139 eth.2miners.com [51.195.88.15:2020]
+ m 18:44:21 ethminer 0:10 A7 80.05 Mh - cl0 80.05
+ i 18:44:25 ethminer Job: d948159b… block 17255139 eth.2miners.com [51.195.88.15:2020]
+ m 18:44:26 ethminer 0:10 A7 80.89 Mh - cl0 80.89
+ m 18:44:31 ethminer 0:10 A7 81.23 Mh - cl0 81.23
+ m 18:44:36 ethminer 0:10 A7 80.18 Mh - cl0 80.18
+ i 18:44:39 ethminer Job: 18151a26… block 17255139 eth.2miners.com [51.195.88.15:2020]
+ m 18:44:43 ethminer 0:10 A7 80.70 Mh - cl0 80.70
+ i 18:44:44 ethminer Job: bfd5bb9a… block 17255140 eth.2miners.com [51.195.88.15:2020]
+ i 18:44:44 ethminer Job: a6cae15e… block 17255140 eth.2miners.com [51.195.88.15:2020]
+ i 18:44:47 ethminer Job: 77c9695d… block 17255141 eth.2miners.com [51.195.88.15:2020]
+ i 18:44:47 ethminer Job: a832c5ff… block 17255141 eth.2miners.com [51.195.88.15:2020]
+ m 18:44:48 ethminer 0:10 A7 81.44 Mh - cl0 81.44
+ m 18:44:53 ethminer 0:11 A7 80.28 Mh - cl0 80.28
+ i 18:44:54 ethminer Job: 168b00ea… block 17255141 eth.2miners.com [51.195.88.15:2020]
+ i 18:44:56 ethminer Job: fbcc0002… block 17255142 eth.2miners.com [51.195.88.15:2020]
+ m 18:44:58 ethminer 0:11 A7 81.02 Mh - cl0 81.02
+ i 18:44:59 ethminer Job: 601f547a… block 17255143 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:00 ethminer Job: 3f8e1c4d… block 17255143 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:00 ethminer Job: 39774588… block 17255144 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:01 ethminer Job: aeb26dde… block 17255144 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:02 ethminer Job: 25263feb… block 17255145 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:03 ethminer Job: ed5dedf4… block 17255146 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:05 ethminer Job: 50b144bb… block 17255146 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:05 ethminer 0:11 A7 80.20 Mh - cl0 80.20
+ i 18:45:06 ethminer Job: 8ffe6ef9… block 17255147 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:08 ethminer Job: 5c736396… block 17255147 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:10 ethminer 0:11 A7 80.24 Mh - cl0 80.24
+ i 18:45:13 ethminer Job: 7ca8e987… block 17255147 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:20 ethminer Job: 516e70f1… block 17255148 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:21 ethminer 0:11 A7 78.78 Mh - cl0 78.78
+ i 18:45:21 ethminer Job: 38a03133… block 17255148 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:26 ethminer 0:11 A7 80.85 Mh - cl0 80.85
+ i 18:45:29 ethminer Job: 465bf726… block 17255149 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:31 ethminer 0:11 A7 78.46 Mh - cl0 78.46
+ i 18:45:34 ethminer Job: 90e628ba… block 17255150 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:37 ethminer 0:11 A7 78.76 Mh - cl0 78.76
+ i 18:45:41 ethminer Job: ecb4d4dc… block 17255150 eth.2miners.com [51.195.88.15:2020]
+ i 18:45:43 ethminer Job: 1c383486… block 17255151 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:43 ethminer 0:11 A7 81.01 Mh - cl0 81.01
+ m 18:45:48 ethminer 0:11 A7 79.56 Mh - cl0 79.56
+ i 18:45:49 ethminer Job: 117cdd13… block 17255151 eth.2miners.com [51.195.88.15:2020]
+ m 18:45:55 ethminer 0:12 A7 78.70 Mh - cl0 78.70
+ i 18:45:56 ethminer Job: 68c1bc47… block 17255151 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:00 ethminer Job: cd10ef47… block 17255152 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:04 ethminer Job: 4934d202… block 17255152 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:05 ethminer 0:12 A7 80.39 Mh - cl0 80.39
+ i 18:46:07 ethminer Job: 20a99fdf… block 17255152 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:10 ethminer 0:12 A7 79.52 Mh - cl0 79.52
+ i 18:46:12 ethminer Job: bc317c8e… block 17255153 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:13 ethminer Job: e4ed6836… block 17255153 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:15 ethminer Job: 71555e7d… block 17255154 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:16 ethminer 0:12 A7 78.79 Mh - cl0 78.79
+ i 18:46:20 ethminer Job: a0eca42a… block 17255155 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:20 ethminer Job: de13c075… block 17255155 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:21 ethminer 0:12 A7 79.57 Mh - cl0 79.57
+ i 18:46:23 ethminer Job: 6bcce992… block 17255156 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:23 ethminer Job: 26279450… block 17255156 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:26 ethminer 0:12 A7 79.28 Mh - cl0 79.28
+ i 18:46:30 ethminer Job: 12441ce2… block 17255156 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:34 ethminer 0:12 A7 79.55 Mh - cl0 79.55
+ i 18:46:36 ethminer Job: 2716ae04… block 17255157 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:37 ethminer Job: f929a65e… block 17255157 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:39 ethminer 0:12 A7 79.49 Mh - cl0 79.49
+ i 18:46:40 ethminer Job: 177bf1c6… block 17255158 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:40 ethminer Job: 9c85d24d… block 17255158 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:44 ethminer 0:12 A7 80.30 Mh - cl0 80.30
+ i 18:46:47 ethminer Job: e81921fc… block 17255158 eth.2miners.com [51.195.88.15:2020]
+ m 18:46:49 ethminer 0:12 A7 79.34 Mh - cl0 79.34
+ m 18:46:54 ethminer 0:13 A7 78.87 Mh - cl0 78.87
+ i 18:46:56 ethminer Job: d90f8e64… block 17255159 eth.2miners.com [51.195.88.15:2020]
+ i 18:46:58 ethminer Job: 66728eea… block 17255159 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:02 ethminer Job: 8107c3f6… block 17255161 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:02 ethminer 0:13 A7 80.80 Mh - cl0 80.80
+ i 18:47:04 ethminer Job: cecc8520… block 17255162 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:04 ethminer Job: efbc67ca… block 17255162 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:07 ethminer 0:13 A7 80.78 Mh - cl0 80.78
+ i 18:47:10 ethminer Job: e3efcd9f… block 17255163 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:11 ethminer Job: e8da8693… block 17255163 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:12 ethminer 0:13 A7 77.89 Mh - cl0 77.89
+ i 18:47:14 ethminer Job: 08c7d900… block 17255164 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:16 ethminer Job: 61c415c2… block 17255164 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:16 ethminer Job: 34b0fe4a… block 17255165 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:21 ethminer 0:13 A7 65.18 Mh - cl0 65.18
+ i 18:47:21 ethminer Job: cb6734dc… block 17255165 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:26 ethminer 0:13 A7 74.03 Mh - cl0 74.03
+ i 18:47:28 ethminer Job: d6618ef3… block 17255166 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:30 ethminer Job: eefbbe2b… block 17255166 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:32 ethminer Job: 88fa4dc4… block 17255167 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:32 ethminer 0:13 A7 78.97 Mh - cl0 78.97
+ i 18:47:32 ethminer Job: dbc3262f… block 17255168 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:37 ethminer 0:13 A7 78.68 Mh - cl0 78.68
+ i 18:47:39 ethminer Job: b84ab897… block 17255168 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:40 ethminer Job: 29ec57bd… block 17255169 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:42 ethminer 0:13 A7 78.11 Mh - cl0 78.11
+ i 18:47:45 ethminer Job: 21cb0795… block 17255170 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:50 ethminer Job: 6000934d… block 17255170 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:51 ethminer 0:14 A7 79.30 Mh - cl0 79.30
+ i 18:47:51 ethminer Job: 60b26302… block 17255171 eth.2miners.com [51.195.88.15:2020]
+ i 18:47:53 ethminer Job: e676bd0f… block 17255171 eth.2miners.com [51.195.88.15:2020]
+ m 18:47:56 ethminer 0:14 A7 79.94 Mh - cl0 79.94
+ m 18:48:01 ethminer 0:14 A7 79.44 Mh - cl0 79.44
+ i 18:48:05 ethminer Job: 9039affe… block 17255171 eth.2miners.com [51.195.88.15:2020]
+ i 18:48:15 ethminer Job: 35db8775… block 17255172 eth.2miners.com [51.195.88.15:2020]
+ m 18:48:16 ethminer 0:14 A7 81.49 Mh - cl0 81.49
+ i 18:48:16 ethminer Job: e52e25ee… block 17255173 eth.2miners.com [51.195.88.15:2020]
+ i 18:48:16 ethminer Job: 2f7916c7… block 17255174 eth.2miners.com [51.195.88.15:2020]
+ i 18:48:19 ethminer Job: 4576d438… block 17255174 eth.2miners.com [51.195.88.15:2020]
+ m 18:48:21 ethminer 0:14 A7 81.49 Mh - cl0 81.49
+ m 18:48:26 ethminer 0:14 A7 78.95 Mh - cl0 78.95
+ i 18:48:26 ethminer Job: 33e325aa… block 17255175 eth.2miners.com [51.195.88.15:2020]
+ i 18:48:26 ethminer Job: 0d504e37… block 17255175 eth.2miners.com [51.195.88.15:2020]
+ m 18:48:31 ethminer 0:14 A7 79.57 Mh - cl0 79.57
+ i 18:48:33 ethminer Job: bfd413c3… block 17255175 eth.2miners.com [51.195.88.15:2020]
+ m 18:48:36 ethminer 0:14 A7 81.12 Mh - cl0 81.12
+ i 18:48:36 ethminer Job: 55edf40c… block 17255176 eth.2miners.com [51.195.88.15:2020]
+ i 18:48:36 ethminer Job: 82ec04d8… block 17255176 eth.2miners.com [51.195.88.15:2020]
+ i 18:48:56 ethminer Job: df55ff03… block 17255176 eth.2miners.com [51.195.88.15:2020]
+ m 18:48:56 ethminer 0:15 A7 80.50 Mh - cl0 80.50
+ i 18:48:57 ethminer Job: 727baae9… block 17255177 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:05 ethminer Job: a93ccea8… block 17255177 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:06 ethminer 0:15 A7 81.11 Mh - cl0 81.11
+ m 18:49:11 ethminer 0:15 A7 79.98 Mh - cl0 79.98
+ i 18:49:11 ethminer Job: 6547861e… block 17255177 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:16 ethminer 0:15 A7 79.72 Mh - cl0 79.72
+ i 18:49:17 ethminer Job: f29fd5d3… block 17255178 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:26 ethminer Job: 30895d2e… block 17255178 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:26 ethminer 0:15 A7 78.97 Mh - cl0 78.97
+ i 18:49:26 ethminer Job: c7d1bb30… block 17255179 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:26 ethminer Job: ed9ca25c… block 17255179 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:31 ethminer Job: e4adabc4… block 17255180 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:33 ethminer Job: 6f1465aa… block 17255180 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:33 ethminer 0:15 A7 79.97 Mh - cl0 79.97
+ m 18:49:38 ethminer 0:15 A7 78.91 Mh - cl0 78.91
+ i 18:49:42 ethminer Job: c293b9cf… block 17255181 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:42 ethminer Job: b2bb4e85… block 17255181 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:43 ethminer 0:15 A7 78.91 Mh - cl0 78.91
+ i 18:49:44 ethminer Job: 9c692bd0… block 17255182 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:44 ethminer Job: 981ea293… block 17255182 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:45 ethminer Job: ece4dda4… block 17255183 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:48 ethminer Job: bb387745… block 17255184 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:48 ethminer Job: 825e98b6… block 17255184 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:48 ethminer 0:15 A7 80.43 Mh - cl0 80.43
+ i 18:49:51 ethminer Job: bb48bcc1… block 17255185 eth.2miners.com [51.195.88.15:2020]
+ i 18:49:51 ethminer Job: 5cc8b105… block 17255185 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:53 ethminer 0:16 A7 78.98 Mh - cl0 78.98
+ i 18:49:58 ethminer Job: aace8595… block 17255185 eth.2miners.com [51.195.88.15:2020]
+ m 18:49:58 ethminer 0:16 A7 81.39 Mh - cl0 81.39
+cl 18:50:00 cl-0     Job: aace8595… Sol: 0x1c0348130c67436f
+ i 18:50:00 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:50:03 ethminer Job: 7d3d2da7… block 17255186 eth.2miners.com [51.195.88.15:2020]
+ i 18:50:04 ethminer Job: b4f32b8d… block 17255186 eth.2miners.com [51.195.88.15:2020]
+ m 18:50:14 ethminer 0:16 A8 80.47 Mh - cl0 80.47
+ i 18:50:14 ethminer Job: 87eabaa2… block 17255186 eth.2miners.com [51.195.88.15:2020]
+ i 18:50:18 ethminer Job: 177f1fdc… block 17255187 eth.2miners.com [51.195.88.15:2020]
+ m 18:50:19 ethminer 0:16 A8 81.00 Mh - cl0 81.00
+ i 18:50:23 ethminer Job: a2a76590… block 17255188 eth.2miners.com [51.195.88.15:2020]
+ i 18:50:38 ethminer Job: 236e816f… block 17255188 eth.2miners.com [51.195.88.15:2020]
+ m 18:50:41 ethminer 0:16 A8 74.72 Mh - cl0 74.72
+ i 18:50:41 ethminer Job: 08de9418… block 17255189 eth.2miners.com [51.195.88.15:2020]
+ i 18:50:45 ethminer Job: 01f0f5f5… block 17255189 eth.2miners.com [51.195.88.15:2020]
+ m 18:50:47 ethminer 0:16 A8 78.99 Mh - cl0 78.99
+ i 18:50:47 ethminer Job: 5854fed0… block 17255190 eth.2miners.com [51.195.88.15:2020]
+ i 18:51:16 ethminer Job: d034d7d8… block 17255190 eth.2miners.com [51.195.88.15:2020]
+ m 18:51:16 ethminer 0:17 A8 79.02 Mh - cl0 79.02
+ i 18:51:16 ethminer Job: ec46a563… block 17255191 eth.2miners.com [51.195.88.15:2020]
+ i 18:51:24 ethminer Job: 25a17010… block 17255192 eth.2miners.com [51.195.88.15:2020]
+ m 18:51:24 ethminer 0:17 A8 79.36 Mh - cl0 79.36
+ i 18:51:24 ethminer Job: 6b9cca13… block 17255193 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:00 ethminer Job: 8e69dde2… block 17255194 eth.2miners.com [51.195.88.15:2020]
+ m 18:52:33 ethminer 0:18 A8 81.41 Mh - cl0 81.41
+ i 18:52:33 ethminer Job: a0b87566… block 17255195 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:33 ethminer Job: 24e10fae… block 17255195 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:33 ethminer Job: 38cf2238… block 17255196 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:33 ethminer Job: bde8ac19… block 17255197 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:33 ethminer Job: 989338ab… block 17255198 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:33 ethminer Job: 5fa00841… block 17255199 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:33 ethminer Job: 949d54f2… block 17255200 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:34 ethminer Job: 34a31a27… block 17255200 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:34 ethminer Job: d18f8e8d… block 17255201 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:35 ethminer Job: cac54c1f… block 17255201 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:35 ethminer Job: 046e1abe… block 17255202 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:35 ethminer Job: c6631a17… block 17255203 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:35 ethminer Job: 117461c2… block 17255204 eth.2miners.com [51.195.88.15:2020]
+ m 18:52:38 ethminer 0:18 A8 81.19 Mh - cl0 81.19
+ m 18:52:43 ethminer 0:18 A8 77.05 Mh - cl0 77.05
+ i 18:52:44 ethminer Job: 90e02351… block 17255204 eth.2miners.com [51.195.88.15:2020]
+ i 18:52:55 ethminer Job: 600d05a9… block 17255204 eth.2miners.com [51.195.88.15:2020]
+ m 18:53:12 ethminer 0:19 A8 78.31 Mh - cl0 78.31
+ i 18:53:12 ethminer Job: 6acffd8a… block 17255204 eth.2miners.com [51.195.88.15:2020]
+ m 18:53:17 ethminer 0:19 A8 80.08 Mh - cl0 80.08
+ i 18:53:19 ethminer Job: 970e01d6… block 17255205 eth.2miners.com [51.195.88.15:2020]
+ i 18:53:19 ethminer Job: a4b06d96… block 17255205 eth.2miners.com [51.195.88.15:2020]
+cl 18:53:21 cl-0     Job: a4b06d96… Sol: 0x1c034813086b60d2
+ i 18:53:21 ethminer **Accepted  44 ms. eth.2miners.com [51.195.88.15:2020]
+ m 18:53:22 ethminer 0:19 A9 81.24 Mh - cl0 81.24
+ i 18:53:26 ethminer Job: 7bf06370… block 17255206 eth.2miners.com [51.195.88.15:2020]
+ m 18:53:27 ethminer 0:19 A9 75.49 Mh - cl0 75.49
+ i 18:53:29 ethminer Job: e8773cce… block 17255207 eth.2miners.com [51.195.88.15:2020]
+ i 18:53:38 ethminer Job: e389d653… block 17255208 eth.2miners.com [51.195.88.15:2020]
+ m 18:53:55 ethminer 0:20 A9 80.51 Mh - cl0 80.51
+ i 18:53:55 ethminer Job: 8855b3f7… block 17255208 eth.2miners.com [51.195.88.15:2020]
+ i 18:53:56 ethminer Job: cb330540… block 17255209 eth.2miners.com [51.195.88.15:2020]
+ i 18:53:56 ethminer Job: e1f725d5… block 17255209 eth.2miners.com [51.195.88.15:2020]
+ i 18:54:00 ethminer Job: bf5f72f6… block 17255210 eth.2miners.com [51.195.88.15:2020]
+ m 18:54:00 ethminer 0:20 A9 79.74 Mh - cl0 79.74
+ m 18:54:05 ethminer 0:20 A9 81.19 Mh - cl0 81.19
+ m 18:54:10 ethminer 0:20 A9 69.16 Mh - cl0 69.16
+ m 18:54:15 ethminer 0:20 A9 79.46 Mh - cl0 79.46
+ i 18:54:18 ethminer Job: 4a1d60dd… block 17255211 eth.2miners.com [51.195.88.15:2020]
+ i 18:54:18 ethminer Job: 7488d92c… block 17255211 eth.2miners.com [51.195.88.15:2020]
+ m 18:54:20 ethminer 0:20 A9 81.47 Mh - cl0 81.47
+ i 18:54:25 ethminer Job: 8d108df7… block 17255211 eth.2miners.com [51.195.88.15:2020]
+ m 18:54:28 ethminer 0:20 A9 78.23 Mh - cl0 78.23
+ i 18:54:31 ethminer Job: 2550256f… block 17255212 eth.2miners.com [51.195.88.15:2020]
+ i 18:54:31 ethminer Job: 74e20cb8… block 17255212 eth.2miners.com [51.195.88.15:2020]
+ m 18:54:33 ethminer 0:20 A9 80.69 Mh - cl0 80.69
+ m 18:54:38 ethminer 0:20 A9 78.06 Mh - cl0 78.06
+ i 18:54:38 ethminer Job: 21ce7547… block 17255212 eth.2miners.com [51.195.88.15:2020]
+ i 18:54:39 ethminer Job: 4e9f700a… block 17255213 eth.2miners.com [51.195.88.15:2020]
+ i 18:54:39 ethminer Job: d8685cf2… block 17255213 eth.2miners.com [51.195.88.15:2020]
+ m 18:54:43 ethminer 0:20 A9 80.57 Mh - cl0 80.57
+ m 18:54:48 ethminer 0:20 A9 81.52 Mh - cl0 81.52
+ m 18:54:53 ethminer 0:21 A9 81.25 Mh - cl0 81.25
+ m 18:54:58 ethminer 0:21 A9 79.82 Mh - cl0 79.82
+ m 18:55:03 ethminer 0:21 A9 79.32 Mh - cl0 79.32
+ i 18:55:03 ethminer Job: 1c3d8ff6… block 17255214 eth.2miners.com [51.195.88.15:2020]
+ i 18:55:05 ethminer Job: 664856ae… block 17255214 eth.2miners.com [51.195.88.15:2020]
+ m 18:55:08 ethminer 0:21 A9 80.01 Mh - cl0 80.01
+ i 18:55:10 ethminer Job: 66706da2… block 17255214 eth.2miners.com [51.195.88.15:2020]
+ m 18:55:13 ethminer 0:21 A9 67.45 Mh - cl0 67.45
+ m 18:55:18 ethminer 0:21 A9 74.72 Mh - cl0 74.72
+ m 18:55:23 ethminer 0:21 A9 75.55 Mh - cl0 75.55
+ i 18:55:23 ethminer Job: 2ccd9050… block 17255215 eth.2miners.com [51.195.88.15:2020]
+ m 18:55:28 ethminer 0:21 A9 79.43 Mh - cl0 79.43
+ i 18:55:30 ethminer Job: 1bbf73fb… block 17255215 eth.2miners.com [51.195.88.15:2020]
+cl 18:55:31 cl-0     Job: 1bbf73fb… Sol: 0x1c03481303abf046
+ i 18:56:00 ethminer Job: b69d1fe3… block 17255216 eth.2miners.com [51.195.88.15:2020]
+ X 18:56:15 ethminer No response received in 2 seconds.
+ m 18:56:15 ethminer 0:22 A9 77.85 Mh - cl0 77.85
+ i 18:56:15 ethminer Job: afa85fce… block 17255216 eth.2miners.com [51.195.88.15:2020]
+ i 18:56:15 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 18:56:15 ethminer No connection. Suspend mining ...
+SIGSEGV encountered ...
+stack trace:
+backtrace() returned 13 addresses
+ethminer/bin/ethminer() [0x422af9]
+/lib/x86_64-linux-gnu/libc.so.6(+0x42520) [0x7fe0c1642520]
+ethminer/bin/ethminer() [0x4956b8]
+ethminer/bin/ethminer() [0x49a016]
+ethminer/bin/ethminer() [0x48d03e]
+ethminer/bin/ethminer() [0x48eda9]
+ethminer/bin/ethminer() [0x48eff7]
+ethminer/bin/ethminer() [0x492071]
+ethminer/bin/ethminer() [0x4922cd]
+ethminer/bin/ethminer() [0x42a2d0]
+ethminer/bin/ethminer() [0x773aaf]
+/lib/x86_64-linux-gnu/libc.so.6(+0x94b43) [0x7fe0c1694b43]
+/lib/x86_64-linux-gnu/libc.so.6(+0x126a00) [0x7fe0c1726a00]
+^CSIGSEGV encountered ...
+stack trace:
+backtrace() returned 18 addresses
+malloc_consolidate(): unaligned fastbin chunk detected
+Aborted
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ sudo ethminer/bin/ethminer -G -P stratum1+tcp://0x534e82f0acaa0a4bf7ba5e2fd376d0d6956ad92e@eth.2miners.com:2020
+[sudo] password for xela: 
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 18:57:37 ethminer Configured pool eth.2miners.com:2020
+ i 18:57:37 ethminer Selected pool eth.2miners.com:2020
+ i 18:57:37 ethminer Stratum mode : Eth-Proxy compatible
+ i 18:57:37 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 18:57:37 ethminer Spinning up miners...
+cl 18:57:37 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 18:57:37 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 18:57:37 ethminer Job: b2e5d282… block 17255222 eth.2miners.com [51.195.88.15:2020]
+cl 18:57:39 cl-0     Generating DAG + Light : 5.58 GB
+cl 18:57:39 cl-0     OpenCL kernel
+cl 18:57:39 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 18:57:39 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 18:57:39 cl-0     Loading kernels
+cl 18:57:39 cl-0     Writing light cache buffer
+cl 18:57:39 cl-0     Creating buffer for header.
+cl 18:57:39 cl-0     Creating mining buffer
+ m 18:57:42 ethminer 0:00 A0 0.00 h - cl0 0.00
+ i 18:57:46 ethminer Job: 047d0e75… block 17255222 eth.2miners.com [51.195.88.15:2020]
+ m 18:57:47 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 18:57:47 cl-0     5.49 GB of DAG data generated in 8�039 ms.
+ m 18:57:52 ethminer 0:00 A0 417.52 Kh - cl0 417.52
+cl 18:57:52 cl-0     Job: 047d0e75… Sol: 0x631b50f3556b8bae
+ i 18:57:52 ethminer **Accepted  44 ms. eth.2miners.com [51.195.88.15:2020]
+ i 18:57:53 ethminer Job: 188e92cc… block 17255223 eth.2miners.com [51.195.88.15:2020]
+ i 18:58:00 ethminer Job: 4421c9bc… block 17255224 eth.2miners.com [51.195.88.15:2020]
+ m 18:58:16 ethminer 0:00 A1 81.15 Mh - cl0 81.15
+ i 18:58:16 ethminer Job: ae2a5877… block 17255225 eth.2miners.com [51.195.88.15:2020]
+ i 18:58:16 ethminer Job: d0cc6160… block 17255226 eth.2miners.com [51.195.88.15:2020]
+ i 18:58:30 ethminer Job: af4131b8… block 17255227 eth.2miners.com [51.195.88.15:2020]
+ m 18:58:30 ethminer 0:00 A1 80.38 Mh - cl0 80.38
+ i 18:58:30 ethminer Job: 72d8e2a6… block 17255227 eth.2miners.com [51.195.88.15:2020]
+ i 18:59:00 ethminer Job: e78401fc… block 17255227 eth.2miners.com [51.195.88.15:2020]
+ m 18:59:00 ethminer 0:01 A1 80.72 Mh - cl0 80.72
+ i 18:59:00 ethminer Job: 0b780a8b… block 17255227 eth.2miners.com [51.195.88.15:2020]
+ m 18:59:05 ethminer 0:01 A1 79.37 Mh - cl0 79.37
+ i 18:59:05 ethminer Job: fcd2665f… block 17255228 eth.2miners.com [51.195.88.15:2020]
+ i 18:59:17 ethminer Job: 037ab509… block 17255228 eth.2miners.com [51.195.88.15:2020]
+ m 18:59:21 ethminer 0:01 A1 73.01 Mh - cl0 73.01
+ m 18:59:26 ethminer 0:01 A1 77.21 Mh - cl0 77.21
+ m 18:59:31 ethminer 0:01 A1 79.24 Mh - cl0 79.24
+ m 18:59:36 ethminer 0:01 A1 76.17 Mh - cl0 76.17
+ m 18:59:41 ethminer 0:02 A1 79.16 Mh - cl0 79.16
+ m 18:59:46 ethminer 0:02 A1 79.84 Mh - cl0 79.84
+ i 18:59:47 ethminer Job: 45d36811… block 17255228 eth.2miners.com [51.195.88.15:2020]
+ i 18:59:57 ethminer Job: aaaa16cd… block 17255228 eth.2miners.com [51.195.88.15:2020]
+cl 19:00:09 cl-0     Job: aaaa16cd… Sol: 0x631b50f37339da5f
+ m 19:00:19 ethminer 0:02 A1 77.11 Mh - cl0 77.11
+ i 19:00:19 ethminer Job: 91c6f5a9… block 17255228 eth.2miners.com [51.195.88.15:2020]
+ i 19:00:59 ethminer Job: eaf64991… block 17255229 eth.2miners.com [51.195.88.15:2020]
+cl 19:01:02 cl-0     Job: eaf64991… Sol: 0x631b50f347882aac
+ X 19:01:06 ethminer No response received in 2 seconds.
+ m 19:01:06 ethminer 0:03 A1 80.63 Mh - cl0 80.63
+ i 19:01:06 ethminer **Accepted   0 ms. eth.2miners.com [51.195.88.15:2020]
+ i 19:01:06 ethminer Job: c3aec1bf… block 17255230 eth.2miners.com [51.195.88.15:2020]
+ i 19:01:06 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 19:01:06 ethminer No connection. Suspend mining ...
+SIGSEGV encountered ...
+stack trace:
+backtrace() returned 13 addresses
+ethminer/bin/ethminer() [0x422af9]
+/lib/x86_64-linux-gnu/libc.so.6(+0x42520) [0x7fa21f642520]
+ethminer/bin/ethminer() [0x4956b8]
+ethminer/bin/ethminer() [0x49a016]
+ethminer/bin/ethminer() [0x48d03e]
+ethminer/bin/ethminer() [0x48eda9]
+ethminer/bin/ethminer() [0x48eff7]
+ethminer/bin/ethminer() [0x492071]
+ethminer/bin/ethminer() [0x4922cd]
+ethminer/bin/ethminer() [0x42a2d0]
+ethminer/bin/ethminer() [0x773aaf]
+/lib/x86_64-linux-gnu/libc.so.6(+0x94b43) [0x7fa21f694b43]
+/lib/x86_64-linux-gnu/libc.so.6(+0x126a00) [0x7fa21f726a00]
+^CSIGSEGV encountered ...
+stack trace:
+backtrace() returned 18 addresses
+malloc_consolidate(): unaligned fastbin chunk detected
+Aborted
+(base) xela@alexeyProduct-Name:~/Programs/Setup$ sudo ethminer/bin/ethminer -G -P stratum1+tcp://0x534e82f0acaa0a4bf7ba5e2fd376d0d6956ad92e@eth.2miners.com:2020
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+ i 19:02:13 ethminer Configured pool eth.2miners.com:2020
+ i 19:02:13 ethminer Selected pool eth.2miners.com:2020
+ i 19:02:13 ethminer Stratum mode : Eth-Proxy compatible
+ i 19:02:13 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 19:02:13 ethminer Spinning up miners...
+cl 19:02:13 cl-0     Using PciId : 01:00.0 NVIDIA GeForce RTX 3080 (Compute 8.6) Memory : 9.75 GB
+ i 19:02:13 ethminer Epoch : 575 Difficulty : 8.59 Gh
+ i 19:02:13 ethminer Job: d1cd3263… block 17255236 eth.2miners.com [51.195.88.15:2020]
+ i 19:02:15 ethminer Job: 47a0f690… block 17255237 eth.2miners.com [51.195.88.15:2020]
+cl 19:02:15 cl-0     Generating DAG + Light : 5.58 GB
+cl 19:02:15 cl-0     OpenCL kernel
+cl 19:02:15 cl-0     Creating light cache buffer, size: 87.87 MB
+cl 19:02:15 cl-0     Creating DAG buffer, size: 5.49 GB, free: 4.17 GB
+cl 19:02:15 cl-0     Loading kernels
+cl 19:02:15 cl-0     Writing light cache buffer
+cl 19:02:15 cl-0     Creating buffer for header.
+cl 19:02:15 cl-0     Creating mining buffer
+ m 19:02:18 ethminer 0:00 A0 0.00 h - cl0 0.00
+cl 19:02:23 cl-0     5.49 GB of DAG data generated in 7�828 ms.
+ m 19:02:23 ethminer 0:00 A0 425.99 Kh - cl0 425.99
+ i 19:02:26 ethminer Job: ba29a2c7… block 17255238 eth.2miners.com [51.195.88.15:2020]
+ i 19:02:43 ethminer Job: 31ccb88e… block 17255238 eth.2miners.com [51.195.88.15:2020]
+ m 19:02:43 ethminer 0:00 A0 76.01 Mh - cl0 76.01
+ m 19:02:48 ethminer 0:00 A0 80.54 Mh - cl0 80.54
+ i 19:02:51 ethminer Job: 03f284bd… block 17255239 eth.2miners.com [51.195.88.15:2020]
+ m 19:02:54 ethminer 0:00 A0 80.30 Mh - cl0 80.30
+ i 19:02:58 ethminer Job: 67153ec8… block 17255239 eth.2miners.com [51.195.88.15:2020]
+ i 19:03:05 ethminer Job: d4886caa… block 17255239 eth.2miners.com [51.195.88.15:2020]
+ m 19:03:24 ethminer 0:01 A0 80.04 Mh - cl0 80.04
+ i 19:03:24 ethminer Job: f4dfd644… block 17255240 eth.2miners.com [51.195.88.15:2020]
+ i 19:03:27 ethminer Job: 4dd55cfc… block 17255241 eth.2miners.com [51.195.88.15:2020]
+ i 19:03:33 ethminer Job: a8a09015… block 17255241 eth.2miners.com [51.195.88.15:2020]
+ m 19:03:33 ethminer 0:01 A0 75.87 Mh - cl0 75.87
+ i 19:03:33 ethminer Job: 8702255e… block 17255242 eth.2miners.com [51.195.88.15:2020]
+ i 19:03:50 ethminer Job: 9e441a14… block 17255243 eth.2miners.com [51.195.88.15:2020]
+ m 19:04:07 ethminer 0:01 A0 80.36 Mh - cl0 80.36
+ i 19:04:07 ethminer Job: 0ba53024… block 17255244 eth.2miners.com [51.195.88.15:2020]
+ i 19:04:08 ethminer Job: 8c33d2e8… block 17255245 eth.2miners.com [51.195.88.15:2020]
+ i 19:04:08 ethminer Job: 8f255dd4… block 17255246 eth.2miners.com [51.195.88.15:2020]
+ i 19:04:08 ethminer Job: 2ff42836… block 17255247 eth.2miners.com [51.195.88.15:2020]
+ i 19:04:11 ethminer Job: 3dee3867… block 17255248 eth.2miners.com [51.195.88.15:2020]
+ i 19:04:29 ethminer Job: 31653e9a… block 17255248 eth.2miners.com [51.195.88.15:2020]
+ m 19:04:29 ethminer 0:02 A0 77.56 Mh - cl0 77.56
+ i 19:04:29 ethminer Job: f7af7e45… block 17255249 eth.2miners.com [51.195.88.15:2020]
+ m 19:04:34 ethminer 0:02 A0 76.65 Mh - cl0 76.65
+ i 19:04:36 ethminer Job: 5b1c3c2c… block 17255249 eth.2miners.com [51.195.88.15:2020]
+ i 19:04:36 ethminer Job: 751b6284… block 17255250 eth.2miners.com [51.195.88.15:2020]
+ i 19:04:51 ethminer Job: 1b9a527b… block 17255250 eth.2miners.com [51.195.88.15:2020]
+ m 19:05:10 ethminer 0:02 A0 70.19 Mh - cl0 70.19
+ i 19:05:10 ethminer Job: ff06a83d… block 17255251 eth.2miners.com [51.195.88.15:2020]
+ i 19:05:11 ethminer Job: 36ad631e… block 17255251 eth.2miners.com [51.195.88.15:2020]
+ i 19:05:13 ethminer Job: 169a4244… block 17255252 eth.2miners.com [51.195.88.15:2020]
+ i 19:05:14 ethminer Job: be9f830b… block 17255253 eth.2miners.com [51.195.88.15:2020]
+ m 19:05:15 ethminer 0:03 A0 77.40 Mh - cl0 77.40
+ i 19:05:17 ethminer Job: 2aac6b5f… block 17255254 eth.2miners.com [51.195.88.15:2020]
+ i 19:05:57 ethminer Job: 2da99c2c… block 17255255 eth.2miners.com [51.195.88.15:2020]
+ m 19:05:57 ethminer 0:03 A0 79.79 Mh - cl0 79.79
+ i 19:05:57 ethminer Job: 56cdfaaa… block 17255256 eth.2miners.com [51.195.88.15:2020]
+ i 19:05:57 ethminer Job: 46a1a5b9… block 17255257 eth.2miners.com [51.195.88.15:2020]
+ i 19:05:57 ethminer Job: 8af726aa… block 17255257 eth.2miners.com [51.195.88.15:2020]
+ i 19:06:13 ethminer Job: ce005c13… block 17255258 eth.2miners.com [51.195.88.15:2020]
+ m 19:06:17 ethminer 0:04 A0 81.20 Mh - cl0 81.20
+ i 19:06:17 ethminer Job: bab87b1a… block 17255259 eth.2miners.com [51.195.88.15:2020]
+ i 19:06:21 ethminer Job: 4547feeb… block 17255260 eth.2miners.com [51.195.88.15:2020]
+ i 19:06:27 ethminer Job: 7cde4dc2… block 17255260 eth.2miners.com [51.195.88.15:2020]
+ m 19:06:27 ethminer 0:04 A0 80.48 Mh - cl0 80.48
+ i 19:06:27 ethminer Job: 1c8f1057… block 17255261 eth.2miners.com [51.195.88.15:2020]
+ i 19:06:30 ethminer Job: 9f7a601f… block 17255261 eth.2miners.com [51.195.88.15:2020]
+ m 19:06:32 ethminer 0:04 A0 79.27 Mh - cl0 79.27
+ i 19:06:33 ethminer Job: 435b78c5… block 17255262 eth.2miners.com [51.195.88.15:2020]
+ i 19:06:35 ethminer Job: 61e65dfe… block 17255263 eth.2miners.com [51.195.88.15:2020]
+ m 19:06:37 ethminer 0:04 A0 78.94 Mh - cl0 78.94
+ m 19:06:42 ethminer 0:04 A0 78.40 Mh - cl0 78.40
+ i 19:06:45 ethminer Job: 98773053… block 17255264 eth.2miners.com [51.195.88.15:2020]
+ m 19:06:47 ethminer 0:04 A0 78.75 Mh - cl0 78.75
+ m 19:06:52 ethminer 0:04 A0 75.97 Mh - cl0 75.97
+ i 19:06:52 ethminer Job: eb6cb715… block 17255264 eth.2miners.com [51.195.88.15:2020]
+ i 19:06:55 ethminer Job: a612dd5f… block 17255265 eth.2miners.com [51.195.88.15:2020]
+ m 19:06:57 ethminer 0:04 A0 78.80 Mh - cl0 78.80
+ m 19:07:02 ethminer 0:04 A0 78.18 Mh - cl0 78.18
+ i 19:07:02 ethminer Job: 9d073fa7… block 17255265 eth.2miners.com [51.195.88.15:2020]
+ i 19:07:05 ethminer Job: 4114ba28… block 17255266 eth.2miners.com [51.195.88.15:2020]
+ i 19:07:09 ethminer Job: f27c7d21… block 17255266 eth.2miners.com [51.195.88.15:2020]
+ m 19:07:09 ethminer 0:04 A0 80.97 Mh - cl0 80.97
+ i 19:07:12 ethminer Job: a8e5fa05… block 17255266 eth.2miners.com [51.195.88.15:2020]
+ m 19:07:16 ethminer 0:05 A0 80.47 Mh - cl0 80.47
+ i 19:07:19 ethminer Job: 207888b7… block 17255267 eth.2miners.com [51.195.88.15:2020]
+ i 19:07:19 ethminer Job: de7ca058… block 17255267 eth.2miners.com [51.195.88.15:2020]
+ m 19:07:29 ethminer 0:05 A0 79.55 Mh - cl0 79.55
+ m 19:07:34 ethminer 0:05 A0 80.39 Mh - cl0 80.39
+ m 19:07:39 ethminer 0:05 A0 76.78 Mh - cl0 76.78
+ i 19:07:40 ethminer Job: edf42c03… block 17255267 eth.2miners.com [51.195.88.15:2020]
+ i 19:07:56 ethminer Job: 0382677d… block 17255267 eth.2miners.com [51.195.88.15:2020]
+ m 19:08:01 ethminer 0:05 A0 70.54 Mh - cl0 70.54
+ i 19:08:01 ethminer Job: 5506ad9e… block 17255268 eth.2miners.com [51.195.88.15:2020]
+ i 19:08:09 ethminer Job: 3e1f9c2e… block 17255268 eth.2miners.com [51.195.88.15:2020]
+ m 19:08:16 ethminer 0:06 A0 81.64 Mh - cl0 81.64
+ i 19:08:16 ethminer Job: 091e8fdb… block 17255269 eth.2miners.com [51.195.88.15:2020]
+ m 19:08:21 ethminer 0:06 A0 79.55 Mh - cl0 79.55
+ i 19:08:23 ethminer Job: 783aec0a… block 17255270 eth.2miners.com [51.195.88.15:2020]
+ i 19:08:30 ethminer Job: fd1827fb… block 17255270 eth.2miners.com [51.195.88.15:2020]
+ m 19:08:32 ethminer 0:06 A0 79.87 Mh - cl0 79.87
+ m 19:08:37 ethminer 0:06 A0 81.10 Mh - cl0 81.10
+ i 19:08:37 ethminer Job: c0d25bca… block 17255271 eth.2miners.com [51.195.88.15:2020]
+ m 19:08:42 ethminer 0:06 A0 79.49 Mh - cl0 79.49
+cl 19:08:43 cl-0     Job: c0d25bca… Sol: 0xf0ba7043af6ab40f
+ i 19:08:43 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 19:08:44 ethminer Job: 0f43cc23… block 17255271 eth.2miners.com [51.195.88.15:2020]
+ m 19:08:55 ethminer 0:06 A1 79.94 Mh - cl0 79.94
+ i 19:08:58 ethminer Job: a85e68b8… block 17255271 eth.2miners.com [51.195.88.15:2020]
+ m 19:09:00 ethminer 0:06 A1 81.03 Mh - cl0 81.03
+ i 19:09:01 ethminer Job: ae5cb932… block 17255272 eth.2miners.com [51.195.88.15:2020]
+ i 19:09:02 ethminer Job: db4458e1… block 17255272 eth.2miners.com [51.195.88.15:2020]
+ i 19:09:03 ethminer Job: 65c15283… block 17255273 eth.2miners.com [51.195.88.15:2020]
+ i 19:09:05 ethminer Job: 6490a4ff… block 17255273 eth.2miners.com [51.195.88.15:2020]
+ m 19:09:05 ethminer 0:06 A1 78.36 Mh - cl0 78.36
+ i 19:09:06 ethminer Job: 8ad8d9f7… block 17255274 eth.2miners.com [51.195.88.15:2020]
+ i 19:09:07 ethminer Job: 2c3d470d… block 17255274 eth.2miners.com [51.195.88.15:2020]
+ m 19:09:10 ethminer 0:06 A1 79.78 Mh - cl0 79.78
+ i 19:09:11 ethminer Job: 547512ea… block 17255275 eth.2miners.com [51.195.88.15:2020]
+ i 19:09:14 ethminer Job: 8976cb76… block 17255275 eth.2miners.com [51.195.88.15:2020]
+ m 19:09:22 ethminer 0:07 A1 80.44 Mh - cl0 80.44
+ i 19:09:25 ethminer Job: d9360838… block 17255275 eth.2miners.com [51.195.88.15:2020]
+ i 19:09:31 ethminer Job: 9eb48f58… block 17255276 eth.2miners.com [51.195.88.15:2020]
+ m 19:09:31 ethminer 0:07 A1 81.46 Mh - cl0 81.46
+ i 19:09:31 ethminer Job: eabab7f4… block 17255277 eth.2miners.com [51.195.88.15:2020]
+ i 19:09:31 ethminer Job: b87b2c7f… block 17255278 eth.2miners.com [51.195.88.15:2020]
+ m 19:09:36 ethminer 0:07 A1 81.43 Mh - cl0 81.43
+ i 19:09:37 ethminer Job: b19daf75… block 17255278 eth.2miners.com [51.195.88.15:2020]
+ m 19:09:41 ethminer 0:07 A1 81.35 Mh - cl0 81.35
+ i 19:09:45 ethminer Job: 2b6bbf10… block 17255279 eth.2miners.com [51.195.88.15:2020]
+ i 19:10:07 ethminer Job: c9446540… block 17255279 eth.2miners.com [51.195.88.15:2020]
+ m 19:10:08 ethminer 0:07 A1 79.93 Mh - cl0 79.93
+ i 19:10:08 ethminer Job: 63fb35fa… block 17255280 eth.2miners.com [51.195.88.15:2020]
+ i 19:10:16 ethminer Job: 5a5fdb54… block 17255281 eth.2miners.com [51.195.88.15:2020]
+ m 19:10:16 ethminer 0:08 A1 80.77 Mh - cl0 80.77
+ i 19:10:16 ethminer Job: 1244da63… block 17255282 eth.2miners.com [51.195.88.15:2020]
+ i 19:10:16 ethminer Job: 2bc39c17… block 17255283 eth.2miners.com [51.195.88.15:2020]
+ m 19:10:21 ethminer 0:08 A1 80.84 Mh - cl0 80.84
+ m 19:10:26 ethminer 0:08 A1 80.25 Mh - cl0 80.25
+ i 19:10:29 ethminer Job: 27251dc4… block 17255283 eth.2miners.com [51.195.88.15:2020]
+^Acl 19:10:35 cl-0     Job: 27251dc4… Sol: 0xf0ba7043b0ca3af3
+^A i 19:10:37 ethminer Job: f805c051… block 17255284 eth.2miners.com [51.195.88.15:2020]
+ X 19:10:52 ethminer No response received in 2 seconds.
+ m 19:10:52 ethminer 0:08 A1 79.96 Mh - cl0 79.96
+ i 19:10:52 ethminer **Accepted   0 ms. eth.2miners.com [51.195.88.15:2020]
+ i 19:10:52 ethminer Disconnected from eth.2miners.com [51.195.88.15:2020]
+ i 19:10:52 ethminer No connection. Suspend mining ...
+ i 19:10:52 ethminer Selected pool eth.2miners.com:2020
+ i 19:10:52 ethminer Stratum mode : Eth-Proxy compatible
+ i 19:10:52 ethminer Established connection to eth.2miners.com [51.195.88.15:2020]
+ i 19:10:52 ethminer Resume mining ...
+ i 19:10:52 ethminer Job: 3576337d… block 17255284 eth.2miners.com [51.195.88.15:2020]
+ m 19:10:57 ethminer 0:08 A2 78.60 Mh - cl0 78.60
+cl 19:10:59 cl-0     Job: 3576337d… Sol: 0xf0ba7043b5369aa9
+ i 19:10:59 ethminer **Accepted  43 ms. eth.2miners.com [51.195.88.15:2020]
+ i 19:11:01 ethminer Job: 4b7ca2a2… block 17255285 eth.2miners.com [51.195.88.15:2020]
+ i 19:11:04 ethminer Job: e91c1da2… block 17255285 eth.2miners.com [51.195.88.15:2020]
+ m 19:11:04 ethminer 0:08 A3 78.09 Mh - cl0 78.09
+ m 19:11:09 ethminer 0:08 A3 79.61 Mh - cl0 79.61
+ m 19:11:14 ethminer 0:09 A3 81.27 Mh - cl0 81.27
+ i 19:11:15 ethminer Job: 0a1226b1… block 17255285 eth.2miners.com [51.195.88.15:2020]
+ m 19:11:19 ethminer 0:09 A3 80.86 Mh - cl0 80.86
+ i 19:11:23 ethminer Job: 1b85e199… block 17255285 eth.2miners.com [51.195.88.15:2020]
+ m 19:11:27 ethminer 0:09 A3 80.87 Mh - cl0 80.87
+ i 19:11:29 ethminer Job: 4e1d563f… block 17255285 eth.2miners.com [51.195.88.15:2020]
+

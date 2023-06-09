@@ -1,0 +1,23 @@
+{
+  "country": "RU",
+  "hls": [
+    "http://mobdrm.1tv.ru/hls-live9/streams/1tv-dvr/1tv-4h.m3u8?cdn=http://edge1.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1685693497",
+    "http://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-4h.m3u8?cdn=http://edge1.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1685693497",
+    "http://mobdrm.1tv.ru/hls-live9/streams/1tv-dvr/1tv-4h.m3u8?cdn=http://cdn9.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1685693497",
+    "http://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-4h.m3u8?cdn=http://cdn9.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1685693497"
+  ],
+  "hlsp": [],
+  "mpd": [
+    "http://edge1.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1685693497",
+    "http://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1685693497",
+    "http://cdn9.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1685693497",
+    "http://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1685693497"
+  ],
+  "mpdp": [],
+  "hds": [],
+  "p2p": [
+    {
+      "p2p_preload": 0
+    }
+  ]
+}

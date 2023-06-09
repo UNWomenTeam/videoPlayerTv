@@ -1,0 +1,16 @@
+{
+  "country": "RU",
+  "hls": [],
+  "hlsp": [],
+  "mpd": [
+    "http://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+    "http://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1685952628"
+  ],
+  "mpdp": [],
+  "hds": [],
+  "p2p": [
+    {
+      "p2p_preload": 0
+    }
+  ]
+}

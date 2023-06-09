@@ -1,0 +1,9 @@
+LOG_LEVEL: error
+LOG_TEXTLOGGING: "false"
+DB_ADDR: localhost:5432
+DB_USER: postgres
+DB_PASSWORD: changeme
+DB_DATABASE: gobase_db
+ENABLE_CORS: "true"
+AUTH_JWT_EXPIRY: "1m"
+PORT: 3006
